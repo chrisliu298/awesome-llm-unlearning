@@ -3,7 +3,7 @@
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers, datasets, and resources relevant to the topic.
 
 > [!NOTE]
-> If you believe your paper on LLM unlearning is not included, or if you find a mistake or typo, please open an issue.
+> If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue, and I will address it as soon as possible.
 
 ## Papers
 
