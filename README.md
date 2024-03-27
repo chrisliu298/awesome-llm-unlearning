@@ -7,6 +7,14 @@ This repository tracks the latest research on machine unlearning in large langua
 >
 > If you want to add a new paper, feel free to either open an issue or create a pull request.
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Papers](#papers)
+  - [Methods](#methods)
+  - [Surveys and Position Papers](#surveys-and-position-papers)
+- [Datasets](#datasets)
+
 ## Papers
 
 ### Methods
