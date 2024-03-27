@@ -51,7 +51,6 @@ This repository tracks the latest research on machine unlearning in large langua
 | [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://arxiv.org/abs/2210.01504)                                                | -                           | 2022-10    | Jang et al.           |
 | [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636)                                                      | NeurIPS 2022                | 2022-05    | Lu et al.             |
 | [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023)                                    | ACL 2021                    | 2021-05    | Liu et al.            |
-|                                                                                                                                                         |                             |            |                       |
 
 ### Surveys and Position Papers
 
