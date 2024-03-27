@@ -4,6 +4,8 @@ This repository tracks the latest research on machine unlearning in large langua
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue, and I will address it as soon as possible.
+>
+> If you want to add a new paper, feel free to either open an issue or create a pull request.
 
 ## Papers
 
