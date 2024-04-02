@@ -24,7 +24,6 @@ This repository tracks the latest research on machine unlearning in large langua
 
 | Paper                                                                                                                                                   | Author(s)             | Year-Month | Venue                       | Code                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------- | --------------------------- | -------------------------------------------------------------- |
-| [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206)                                 | Xu                    | 2024-04    | -                           | -                                                              |
 | [Localizing Paragraph Memorization in Language Models](https://arxiv.org/abs/2403.19851)                                                                | Stoehr et al.         | 2024-03    | -                           | -                                                              |
 | [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://arxiv.org/abs/2403.03218)                                            | Li et al.             | 2024-03    | -                           | [GitHub](https://github.com/centerforaisafety/wmdp)            |
 | [Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267)                                                | Pochinkov and Schoots | 2024-03    | -                           | -                                                              |
@@ -70,6 +69,7 @@ This repository tracks the latest research on machine unlearning in large langua
 
 | Paper                                                                                                                                  | Author(s)    | Year-Month | Venue |
 | -------------------------------------------------------------------------------------------------------------------------------------- | :----------- | ---------- | ----- |
+| [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206)                | Xu           | 2024-04    | -     |
 | [The Frontier of Data Erasure: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.15779)                         | Qu et al.    | 2024-03    | -     |
 | [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)                                            | Liu et al.   | 2024-02    | -     |
 | [Eight Methods to Evaluate Robust Unlearning in LLMs](https://arxiv.org/abs/2402.16835)                                                | Lynch et al. | 2024-02    | -     |
