@@ -67,14 +67,15 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### Surveys and Position Papers
 
-| Paper                                                                                                                                  | Author(s)    | Year-Month | Venue |
-| -------------------------------------------------------------------------------------------------------------------------------------- | :----------- | ---------- | ----- |
-| [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206)                | Xu           | 2024-04    | -     |
-| [The Frontier of Data Erasure: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.15779)                         | Qu et al.    | 2024-03    | -     |
-| [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)                                            | Liu et al.   | 2024-02    | -     |
-| [Eight Methods to Evaluate Robust Unlearning in LLMs](https://arxiv.org/abs/2402.16835)                                                | Lynch et al. | 2024-02    | -     |
-| [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)                                      | Si et al.    | 2023-11    | -     |
-| [Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions](https://arxiv.org/abs/2307.03941) | Zhang et al. | 2023-07    | -     |
+| Paper                                                                                                                                  | Author(s)              | Year-Month | Venue |
+| -------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- | ---------- | ----- |
+| [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062)                        | Blanco-Justicia et al. | 2024-04    | -     |
+| [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206)                | Xu                     | 2024-04    | -     |
+| [The Frontier of Data Erasure: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.15779)                         | Qu et al.              | 2024-03    | -     |
+| [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)                                            | Liu et al.             | 2024-02    | -     |
+| [Eight Methods to Evaluate Robust Unlearning in LLMs](https://arxiv.org/abs/2402.16835)                                                | Lynch et al.           | 2024-02    | -     |
+| [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)                                      | Si et al.              | 2023-11    | -     |
+| [Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions](https://arxiv.org/abs/2307.03941) | Zhang et al.           | 2023-07    | -     |
 
 ## Blog Posts
 
