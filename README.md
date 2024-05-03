@@ -86,6 +86,7 @@ This repository tracks the latest research on machine unlearning in large langua
 
 | Blog                                                                                                                                                                | Author(s)                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [Machine Unlearning in 2024](https://ai.stanford.edu/~kzliu/blog/unlearning)                                                                                        | [Ken Liu](https://ai.stanford.edu/~kzliu/)   |
 | [Deep Forgetting & Unlearning for Safely-Scoped LLMs](https://www.alignmentforum.org/posts/mFAvspg4sXkrfZ7FA/deep-forgetting-and-unlearning-for-safely-scoped-llms) | [Stephen Casper](https://stephencasper.com/) |
 
 ## Datasets
