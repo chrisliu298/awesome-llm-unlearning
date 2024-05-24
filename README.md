@@ -22,79 +22,288 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### Methods
 
-| Paper                                                                                                                                                   | Author(s)                    | Year-Month | Venue                       | Code                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------- | --------------------------- | ------------------------------------------------------------------------ |
-| [To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning in Large Language Models](https://arxiv.org/abs/2405.03097)                    | Barbulescu and Triantafillou | 2024-05    | ICML 2024                   | -                                                                        |
-| [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239)                                           | Jia et al.                   | 2024-04    | -                           | [GitHub](https://github.com/OPTML-Group/SOUL)                            |
-| [Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)                                                                         | Chen et al.                  | 2024-04    | -                           | -                                                                        |
-| [Offset Unlearning for Large Language Models](https://arxiv.org/abs/2404.11045)                                                                         | Huang et al.                 | 2024-04    | -                           | [GitHub](https://github.com/luka-group/Delta-Unlearning)                 |
-| [Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://arxiv.org/abs/2404.05880)                              | Lu et al.                    | 2024-04    | -                           | -                                                                        |
-| [Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://arxiv.org/abs/2404.05868)                                | Zhang et al.                 | 2024-04    | -                           | [GitHub](https://github.com/licong-lin/negative-preference-optimization) |
-| [Localizing Paragraph Memorization in Language Models](https://arxiv.org/abs/2403.19851)                                                                | Stoehr et al.                | 2024-03    | -                           | -                                                                        |
-| [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://arxiv.org/abs/2403.03218)                                            | Li et al.                    | 2024-03    | -                           | [GitHub](https://github.com/centerforaisafety/wmdp)                      |
-| [Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267)                                                | Pochinkov and Schoots        | 2024-03    | -                           | -                                                                        |
-| [Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.10557)                           | Gu et al.                    | 2024-03    | -                           | -                                                                        |
-| [Ethos: Rectifying Language Models in Orthogonal Parameter Space](https://arxiv.org/abs/2403.08994)                                                     | Gao et al.                   | 2024-03    | -                           | -                                                                        |
-| [Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536)                              | Wang et al.                  | 2024-03    | -                           | [GitHub](https://github.com/justarter/E2URec)                            |
-| [Guardrail Baselines for Unlearning in LLMs](https://arxiv.org/abs/2403.03329)                                                                          | Thaker et al.                | 2024-03    | ICLR 2024 SeT-LLM Workshop  | -                                                                        |
-| [Deciphering the Impact of Pretraining Data on Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.11537)                      | Zhao et al.                  | 2024-02    | -                           | -                                                                        |
-| [Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination](https://arxiv.org/abs/2402.10052)                            | Dong et al.                  | 2024-02    | -                           | [GitHub](https://github.com/dong-river/LLM_unlearning)                   |
-| [Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)                                                      | Liu et al.                   | 2024-02    | -                           | [GitHub](https://github.com/franciscoliu/SKU)                            |
-| [Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models](https://arxiv.org/abs/2402.05813)                     | Wang et al.                  | 2024-02    | -                           | -                                                                        |
-| [Unlearnable Algorithms for In-context Learning](https://arxiv.org/abs/2402.00751)                                                                      | Muresanu et al.              | 2024-02    | -                           | -                                                                        |
-| [Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159)                                                             | Yao et al.                   | 2024-02    | -                           | [GitHub](https://github.com/yaojin17/Unlearning_LLM)                     |
-| [Visual In-Context Learning for Large Vision-Language Models](https://arxiv.org/abs/2402.11574)                                                         | Zhou et al.                  | 2024-02    | -                           | -                                                                        |
-| [EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2402.09801) | Xing et al.                  | 2024-02    | -                           | -                                                                        |
-| [Unlearning Reveals the Influential Training Data of Language Models](https://arxiv.org/abs/2401.15241)                                                 | Isonuma and Titov            | 2024-01    | -                           | -                                                                        |
-| [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121)                                                                      | Maini et al.                 | 2024-01    | -                           | [GitHub](https://github.com/locuslab/tofu)                               |
-| [FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs](https://arxiv.org/abs/2312.07420)                                        | Kadhe et al.                 | 2023-12    | NeurIPS 2023 SoLaR Workshop | -                                                                        |
-| [Making Harmful Behaviors Unlearnable for Large Language Models](https://arxiv.org/abs/2311.02105)                                                      | Zhou et al.                  | 2023-11    | -                           | -                                                                        |
-| [Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models](https://arxiv.org/abs/2311.08011)         | Ni et al.                    | 2023-11    | -                           | -                                                                        |
-| [Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238)                                                                  | Eldan and Russinovich        | 2023-10    | -                           | -                                                                        |
-| [DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models](https://arxiv.org/abs/2310.20138)                                           | Wu et al.                    | 2023-10    | EMNLP 2023                  | [GitHub](https://github.com/flamewei123/DEPN)                            |
-| [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/)                                         | Chen and Yang                | 2023-10    | EMNLP 2023                  | [GitHub](https://github.com/SALT-NLP/Efficient_Unlearning/)              |
-| [In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)                                                       | Pawelczyk et al.             | 2023-10    | -                           | -                                                                        |
-| [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)                                                                                     | Yao et al.                   | 2023-10    | ICLR 2024                   | [GitHub](https://github.com/kevinyaobytedance/llm_unlearn)               |
-| [Forgetting Private Textual Sequences in Language Models via Leave-One-Out Ensemble](https://arxiv.org/abs/2309.16082)                                  | Liu and Kalinli              | 2023-09    | -                           | -                                                                        |
-| [Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks](https://arxiv.org/abs/2309.17410)                 | Patil et al.                 | 2023-09    | -                           | [GitHub](https://github.com/Vaidehi99/InfoDeletionAttacks)               |
-| [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090)             | Hu et al.                    | 2023-08    | AAAI 2024                   | [GitHub](https://github.com/HITsz-TMG/Ext-Sub)                           |
-| [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375/)                                         | Yu et al.                    | 2023-07    | ACL (Findings) 2023         | [GitHub](https://github.com/CharlesYu2000/PCGU-UnlearningBias)           |
-| [Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data](https://arxiv.org/abs/2307.00456)                                       | Li et al.                    | 2023-07    | -                           | -                                                                        |
-| [What can we learn from Data Leakage and Unlearning for Law?](https://arxiv.org/abs/2307.10476)                                                         | Borkar                       | 2023-07    | -                           | -                                                                        |
-| [LEACE: Perfect linear concept erasure in closed form](https://arxiv.org/abs/2306.03819)                                                                | Belrose et al.               | 2023-06    | NeurIPS 2023                | [GitHub](https://github.com/EleutherAI/concept-erasure)                  |
-| [Composing Parameter-Efficient Modules with Arithmetic Operations](https://arxiv.org/abs/2306.14870)                                                    | Zhang et al.                 | 2023-06    | NeurIPS 2023                | [GitHub](https://github.com/hkust-nlp/PEM_composition)                   |
-| [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535)                                        | Wang et al.                  | 2023-05    | -                           | [GitHub](https://github.com/Lingzhi-WANG/KGAUnlearn)                     |
-| [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)                                                                                 | Ilharco et al.               | 2022-12    | ICLR 2023                   | [GitHub](https://github.com/mlfoundations/task_vectors)                  |
-| [Privacy Adhering Machine Un-learning in NLP](https://arxiv.org/abs/2212.09573)                                                                         | Kumar et al.                 | 2022-12    | -                           | -                                                                        |
-| [The CRINGE Loss: Learning what language not to model](https://arxiv.org/abs/2211.05826)                                                                | Adolphs et al.               | 2022-11    | -                           | -                                                                        |
-| [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://arxiv.org/abs/2210.01504)                                                | Jang et al.                  | 2022-10    | -                           | [GitHub](https://github.com/joeljang/knowledge-unlearning)               |
-| [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636)                                                      | Lu et al.                    | 2022-05    | NeurIPS 2022                | [GitHub](https://github.com/GXimingLu/Quark)                             |
-| [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023)                                    | Liu et al.                   | 2021-05    | ACL 2021                    | [GitHub](https://github.com/alisawuffles/DExperts)                       |
+- [To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning in Large Language Models](https://arxiv.org/abs/2405.03097)
+  - Author(s): Barbulescu and Triantafillou
+  - Date: 2024-05
+  - Venue: ICML 2024
+  - Code: -
+- [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239)
+  - Author(s): Jia et al.
+  - Date: 2024-04
+  - Venue: -
+  - Code: [GitHub](https://github.com/OPTML-Group/SOUL)
+- [Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)
+  - Author(s): Chen et al.
+  - Date: 2024-04
+  - Venue: -
+  - Code: -
+- [Offset Unlearning for Large Language Models](https://arxiv.org/abs/2404.11045)
+  - Author(s): Huang et al.
+  - Date: 2024-04
+  - Venue: -
+  - Code: [GitHub](https://github.com/luka-group/Delta-Unlearning)
+- [Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://arxiv.org/abs/2404.05880)
+  - Author(s): Lu et al.
+  - Date: 2024-04
+  - Venue: -
+  - Code: -
+- [Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://arxiv.org/abs/2404.05868)
+  - Author(s): Zhang et al.
+  - Date: 2024-04
+  - Venue: -
+  - Code: [GitHub](https://github.com/licong-lin/negative-preference-optimization)
+- [Localizing Paragraph Memorization in Language Models](https://arxiv.org/abs/2403.19851)
+  - Author(s): Stoehr et al.
+  - Date: 2024-03
+  - Venue: -
+  - Code: -
+- [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://arxiv.org/abs/2403.03218)
+  - Author(s): Li et al.
+  - Date: 2024-03
+  - Venue: -
+  - Code: [GitHub](https://github.com/centerforaisafety/wmdp)
+- [Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267)
+  - Author(s): Pochinkov and Schoots
+  - Date: 2024-03
+  - Venue: -
+  - Code: -
+- [Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.10557)
+  - Author(s): Gu et al.
+  - Date: 2024-03
+  - Venue: -
+  - Code: -
+- [Ethos: Rectifying Language Models in Orthogonal Parameter Space](https://arxiv.org/abs/2403.08994)
+  - Author(s): Gao et al.
+  - Date: 2024-03
+  - Venue: -
+  - Code: -
+- [Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536)
+  - Author(s): Wang et al.
+  - Date: 2024-03
+  - Venue: -
+  - Code: [GitHub](https://github.com/justarter/E2URec)
+- [Guardrail Baselines for Unlearning in LLMs](https://arxiv.org/abs/2403.03329)
+  - Author(s): Thaker et al.
+  - Date: 2024-03
+  - Venue: ICLR 2024 SeT-LLM Workshop
+  - Code: -
+- [Deciphering the Impact of Pretraining Data on Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.11537)
+  - Author(s): Zhao et al.
+  - Date: 2024-02
+  - Venue: -
+  - Code: -
+- [Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination](https://arxiv.org/abs/2402.10052)
+  - Author(s): Dong et al.
+  - Date: 2024-02
+  - Venue: -
+  - Code: [GitHub](https://github.com/dong-river/LLM_unlearning)
+- [Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)
+  - Author(s): Liu et al.
+  - Date: 2024-02
+  - Venue: -
+  - Code: [GitHub](https://github.com/franciscoliu/SKU)
+- [Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models](https://arxiv.org/abs/2402.05813)
+  - Author(s): Wang et al.
+  - Date: 2024-02
+  - Venue: -
+  - Code: -
+- [Unlearnable Algorithms for In-context Learning](https://arxiv.org/abs/2402.00751)
+  - Author(s): Muresanu et al.
+  - Date: 2024-02
+  - Venue: -
+  - Code: -
+- [Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159)
+  - Author(s): Yao et al.
+  - Date: 2024-02
+  - Venue: -
+  - Code: [GitHub](https://github.com/yaojin17/Unlearning_LLM)
+- [Visual In-Context Learning for Large Vision-Language Models](https://arxiv.org/abs/2402.11574)
+  - Author(s): Zhou et al.
+  - Date: 2024-02
+  - Venue: -
+  - Code: -
+- [EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2402.09801)
+  - Author(s): Xing et al.
+  - Date: 2024-02
+  - Venue: -
+  - Code: -
+- [Unlearning Reveals the Influential Training Data of Language Models](https://arxiv.org/abs/2401.15241)
+  - Author(s): Isonuma and Titov
+  - Date: 2024-01
+  - Venue: -
+  - Code: -
+- [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121)
+  - Author(s): Maini et al.
+  - Date: 2024-01
+  - Venue: -
+  - Code: [GitHub](https://github.com/locuslab/tofu)
+- [FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs](https://arxiv.org/abs/2312.07420)
+  - Author(s): Kadhe et al.
+  - Date: 2023-12
+  - Venue: NeurIPS 2023 SoLaR Workshop
+  - Code: -
+- [Making Harmful Behaviors Unlearnable for Large Language Models](https://arxiv.org/abs/2311.02105)
+  - Author(s): Zhou et al.
+  - Date: 2023-11
+  - Venue: -
+  - Code: -
+- [Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models](https://arxiv.org/abs/2311.08011)
+  - Author(s): Ni et al.
+  - Date: 2023-11
+  - Venue: -
+  - Code: -
+- [Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238)
+  - Author(s): Eldan and Russinovich
+  - Date: 2023-10
+  - Venue: -
+  - Code: -
+- [DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models](https://arxiv.org/abs/2310.20138)
+  - Author(s): Wu et al.
+  - Date: 2023-10
+  - Venue: EMNLP 2023
+  - Code: [GitHub](https://github.com/flamewei123/DEPN)
+- [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/)
+  - Author(s): Chen and Yang
+  - Date: 2023-10
+  - Venue: EMNLP 2023
+  - Code: [GitHub](https://github.com/SALT-NLP/Efficient_Unlearning/)
+- [In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)
+  - Author(s): Pawelczyk et al.
+  - Date: 2023-10
+  - Venue: -
+  - Code: -
+- [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)
+  - Author(s): Yao et al.
+  - Date: 2023-10
+  - Venue: NeurIPS 2023 SoLaR Workshop
+  - Code: [GitHub](https://github.com/kevinyaobytedance/llm_unlearn)
+- [Forgetting Private Textual Sequences in Language Models via Leave-One-Out Ensemble](https://arxiv.org/abs/2309.16082)
+  - Author(s): Liu and Kalinli
+  - Date: 2023-09
+  - Venue: -
+  - Code: -
+- [Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks](https://arxiv.org/abs/2309.17410)
+  - Author(s): Patil et al.
+  - Date: 2023-09
+  - Venue: -
+  - Code: [GitHub](https://github.com/Vaidehi99/InfoDeletionAttacks)
+- [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090)
+  - Author(s): Hu et al.
+  - Date: 2023-08
+  - Venue: AAAI 2024
+  - Code: [GitHub](https://github.com/HITsz-TMG/Ext-Sub)
+- [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375/)
+  - Author(s): Yu et al.
+  - Date: 2023-07
+  - Venue: ACL (Findings) 2023
+  - Code: [GitHub](https://github.com/CharlesYu2000/PCGU-UnlearningBias)
+- [Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data](https://arxiv.org/abs/2307.00456)
+  - Author(s): Li et al.
+  - Date: 2023-07
+  - Venue: -
+  - Code: -
+- [What can we learn from Data Leakage and Unlearning for Law?](https://arxiv.org/abs/2307.10476)
+  - Author(s): Borkar
+  - Date: 2023-07
+  - Venue: -
+  - Code: -
+- [LEACE: Perfect linear concept erasure in closed form](https://arxiv.org/abs/2306.03819)
+  - Author(s): Belrose et al.
+  - Date: 2023-06
+  - Venue: NeurIPS 2023
+  - Code: [GitHub](https://github.com/EleutherAI/concept-erasure)
+- [Composing Parameter-Efficient Modules with Arithmetic Operations](https://arxiv.org/abs/2306.14870)
+  - Author(s): Zhang et al.
+  - Date: 2023-06
+  - Venue: NeurIPS 2023
+  - Code: [GitHub](https://github.com/hkust-nlp/PEM_composition)
+- [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535)
+  - Author(s): Wang et al.
+  - Date: 2023-05
+  - Venue: -
+  - Code: [GitHub](https://github.com/Lingzhi-WANG/KGAUnlearn)
+- [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
+  - Author(s): Ilharco et al.
+  - Date: 2022-12
+  - Venue: ICLR 2023
+  - Code: [GitHub](https://github.com/mlfoundations/task_vectors)
+- [Privacy Adhering Machine Un-learning in NLP](https://arxiv.org/abs/2212.09573)
+  - Author(s): Kumar et al.
+  - Date: 2022-12
+  - Venue: -
+  - Code: -
+- [The CRINGE Loss: Learning what language not to model](https://arxiv.org/abs/2211.05826)
+  - Author(s): Adolphs et al.
+  - Date: 2022-11
+  - Venue: -
+  - Code: -
+- [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://arxiv.org/abs/2210.01504)
+  - Author(s): Jang et al.
+  - Date: 2022-10
+  - Venue: -
+  - Code: [GitHub](https://github.com/joeljang/knowledge-unlearning)
+- [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636)
+  - Author(s): Lu et al.
+  - Date: 2022-05
+  - Venue: NeurIPS 2022
+  - Code: [GitHub](https://github.com/GXimingLu/Quark)
+- [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023)
+  - Author(s): Liu et al.
+  - Date: 2021-05
+  - Venue: ACL 2021
+  - Code: [GitHub](https://github.com/alisawuffles/DExperts)
 
 ### Surveys and Position Papers
 
-| Paper                                                                                                                                  | Author(s)              | Year-Month | Venue |
-| -------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- | ---------- | ----- |
-| [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062)                        | Blanco-Justicia et al. | 2024-04    | -     |
-| [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206)                | Xu                     | 2024-04    | -     |
-| [The Frontier of Data Erasure: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.15779)                         | Qu et al.              | 2024-03    | -     |
-| [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)                                            | Liu et al.             | 2024-02    | -     |
-| [Eight Methods to Evaluate Robust Unlearning in LLMs](https://arxiv.org/abs/2402.16835)                                                | Lynch et al.           | 2024-02    | -     |
-| [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)                                      | Si et al.              | 2023-11    | -     |
-| [Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions](https://arxiv.org/abs/2307.03941) | Zhang et al.           | 2023-07    | -     |
+- [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062)
+  - Author(s): Blanco-Justicia et al.
+  - Date: 2024-04
+  - Venue: -
+- [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206)
+  - Author(s): Xu
+  - Date: 2024-04
+  - Venue: -
+- [The Frontier of Data Erasure: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.15779)
+  - Author(s): Qu et al.
+  - Date: 2024-03
+  - Venue: -
+- [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)
+  - Author(s): Liu et al.
+  - Date: 2024-02
+  - Venue: -
+- [Eight Methods to Evaluate Robust Unlearning in LLMs](https://arxiv.org/abs/2402.16835)
+  - Author(s): Lynch et al.
+  - Date: 2024-02
+  - Venue: -
+- [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)
+  - Author(s): Si et al.
+  - Date: 2023-11
+  - Venue: -
+- [Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions](https://arxiv.org/abs/2307.03941)
+  - Author(s): Zhang et al.
+  - Date: 2023-07
+  - Venue: -
 
 ## Blog Posts
 
-| Blog                                                                                                                                                                | Author(s)                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| [Machine Unlearning in 2024](https://ai.stanford.edu/~kzliu/blog/unlearning)                                                                                        | [Ken Liu](https://ai.stanford.edu/~kzliu/)   |
-| [Deep Forgetting & Unlearning for Safely-Scoped LLMs](https://www.alignmentforum.org/posts/mFAvspg4sXkrfZ7FA/deep-forgetting-and-unlearning-for-safely-scoped-llms) | [Stephen Casper](https://stephencasper.com/) |
+- [Machine Unlearning in 2024](https://ai.stanford.edu/~kzliu/blog/unlearning)
+  - Author(s): [Ken Liu](https://ai.stanford.edu/~kzliu/)
+  - Date: 2024-05
+- [Deep Forgetting & Unlearning for Safely-Scoped LLMs](https://www.alignmentforum.org/posts/mFAvspg4sXkrfZ7FA/deep-forgetting-and-unlearning-for-safely-scoped-llms)
+  - Author(s): [Stephen Casper](https://stephencasper.com/)
+  - Date: 2023-12
 
 ## Datasets
 
-| Dataset                                     | Description                                                                                                                                                                                                                                                                                                                                                                                   | Link                                                                                                                  |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| TOFU                                        | A synthetic QA dataset of fictitious authors generated by GPT-4. The datasets comes with three splits of the retain/forget sets, including 99/1, 95/5, and 90/10 (in percentage). The dataset also includes questions about real authors and world facts to evaluate the loss of general knowledge after unlearning.                                                                          | [arXiv](https://arxiv.org/abs/2401.06121), [Hugging Face](https://huggingface.co/datasets/locuslab/TOFU)              |
-| WMDP                                        | A benchmark for assessing hazardous knowledge in biology, chemistry, and cybersecurity, containing over 4000 multiple-choice questions with similar style to MMLU. It also comes with corpora in the three domains.                                                                                                                                                                           | [arXiv](https://arxiv.org/abs/2403.03218), [Hugging Face](https://huggingface.co/datasets/cais/wmdp)                  |
-| MMLU Subsets                                | A task proposed along with the WMDP dataset. The goal is to unlearn (retain) three categories in the [MMLU](https://arxiv.org/abs/2009.03300) dataset: economics (econometrics and others), physics (math and others), and law (jurisprudence and others). The task requires high-precision unlearning, because the retain sets are categories closely related to the unlearning categories.  | [arXiv](https://arxiv.org/abs/2009.03300), [Hugging Face](https://huggingface.co/datasets/cais/mmlu)                  |
-| arXiv, GitHub, and copyrighted books corpus | A dataset for evaluating approximate unlearning algorithms for pre-trained LLMs. The dataset contains both forget and retain splits of each category, and comes with both in-distribution and general retain sets. The dataset is deisgned for unlearning directly on pre-trained models, as they are random samples from the pre-training dataset of [Yi](https://arxiv.org/abs/2403.04652). | [arXiv](https://arxiv.org/abs/2402.15159), [Hugging Face](https://huggingface.co/datasets/llmunlearn/unlearn_dataset) |
+- TOFU
+  - Description: A synthetic QA dataset of fictitious authors generated by GPT-4. The datasets comes with three splits of the retain/forget sets, including 99/1, 95/5, and 90/10 (in percentage). The dataset also includes questions about real authors and world facts to evaluate the loss of general knowledge after unlearning.
+  - Links: [arXiv](https://arxiv.org/abs/2401.06121), [Hugging Face](https://huggingface.co/datasets/locuslab/TOFU)
+- WMDP
+  - Description: A benchmark for assessing hazardous knowledge in biology, chemistry, and cybersecurity, containing about 4000 multiple-choice questions with similar style to MMLU. It also comes with corpora in the three domains.
+  - Links: [arXiv](https://arxiv.org/abs/2403.03218), [Hugging Face](https://huggingface.co/datasets/cais/wmdp)
+- MMLU Subsets
+  - Description: A task proposed along with the WMDP dataset. The goal is to unlearn (retain) three categories in the [MMLU](https://arxiv.org/abs/2009.03300) dataset: economics (econometrics and others), physics (math and others), and law (jurisprudence and others). The task requires high-precision unlearning, because the retain sets are categories closely related to the unlearning categories.
+  - Links: [arXiv](https://arxiv.org/abs/2009.03300), [Hugging Face](https://huggingface.co/datasets/cais/mmlu)
+- arXiv, GitHub, and copyrighted books corpus
+  - Description: A dataset for evaluating approximate unlearning algorithms for pre-trained LLMs. The dataset contains both forget and retain splits of each category, and comes with both in-distribution and general retain sets. The dataset is deisgned for unlearning directly on pre-trained models, as they are random samples from the pre-training dataset of [Yi](https://arxiv.org/abs/2403.04652).
+  - Links: [arXiv](https://arxiv.org/abs/2402.15159), [Hugging Face](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
