@@ -28,6 +28,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### Methods
 
+- [Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720)
+  - Author(s): Yu Wang, Ruihan Wu, Zexue He, Xiusi Chen, Julian McAuley
+  - Date: 2024-05
+  - Venue: -
+  - Code: [GitHub](https://github.com/wangyu-ustc/LargeScaleWashing)
 - [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2405.12523)
   - Author(s): Jiaqi Li, Qianshan Wei, Chuanyi Zhang, Guilin Qi, Miaozeng Du, Yongrui Chen, Sheng Bi
   - Date: 2024-05
