@@ -28,6 +28,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### Methods
 
+- [Unlearning Climate Misinformation in Large Language Models](https://arxiv.org/abs/2405.19563)
+  - Author(s): Michael Fore, Simranjit Singh, Chaehong Lee, Amritanshu Pandey, Antonios Anastasopoulos, Dimitrios Stamoulis
+  - Date: 2024-05
+  - Venue: -
+  - Code: -
 - [Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720)
   - Author(s): Yu Wang, Ruihan Wu, Zexue He, Xiusi Chen, Julian McAuley
   - Date: 2024-05
