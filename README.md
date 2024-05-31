@@ -136,7 +136,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159)
   - Author(s): Jin Yao, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue
   - Date: 2024-02
-  - Venue: -
+  - Venue: ACL 2024
   - Code: [GitHub](https://github.com/yaojin17/Unlearning_LLM)
 - [Visual In-Context Learning for Large Vision-Language Models](https://arxiv.org/abs/2402.11574)
   - Author(s): Yucheng Zhou, Xiang Li, Qianning Wang, Jianbing Shen
