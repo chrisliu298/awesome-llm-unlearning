@@ -28,6 +28,8 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### Methods
 
+2024
+
 - [Unlearning Climate Misinformation in Large Language Models](https://arxiv.org/abs/2405.19563)
   - Author(s): Michael Fore, Simranjit Singh, Chaehong Lee, Amritanshu Pandey, Antonios Anastasopoulos, Dimitrios Stamoulis
   - Date: 2024-05
@@ -158,6 +160,9 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-01
   - Venue: -
   - Code: [GitHub](https://github.com/locuslab/tofu)
+
+2023
+
 - [FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs](https://arxiv.org/abs/2312.07420)
   - Author(s): Swanand Ravindra Kadhe, Anisa Halimi, Ambrish Rawat, Nathalie Baracaldo
   - Date: 2023-12
@@ -243,6 +248,9 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2023-05
   - Venue: -
   - Code: [GitHub](https://github.com/Lingzhi-WANG/KGAUnlearn)
+
+2022
+
 - [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
   - Author(s): Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
   - Date: 2022-12
@@ -268,6 +276,9 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2022-05
   - Venue: NeurIPS 2022
   - Code: [GitHub](https://github.com/GXimingLu/Quark)
+
+2021
+
 - [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023)
   - Author(s): Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi
   - Date: 2021-05
@@ -275,6 +286,8 @@ This repository tracks the latest research on machine unlearning in large langua
   - Code: [GitHub](https://github.com/alisawuffles/DExperts)
 
 ### Surveys and Position Papers
+
+2024
 
 - [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062)
   - Author(s): Alberto Blanco-Justicia, Najeeb Jebreel, Benet Manzanares, David Sánchez, Josep Domingo-Ferrer, Guillem Collell, Kuan Eeik Tan
@@ -296,6 +309,9 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Aengus Lynch, Phillip Guo, Aidan Ewart, Stephen Casper, Dylan Hadfield-Menell
   - Date: 2024-02
   - Venue: -
+
+2023
+
 - [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)
   - Author(s): Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang
   - Date: 2023-11
