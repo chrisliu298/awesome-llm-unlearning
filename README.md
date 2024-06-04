@@ -20,7 +20,13 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Table of Contents](#table-of-contents)
 - [Papers](#papers)
   - [Methods](#methods)
+    - [2024](#2024)
+    - [2023](#2023)
+    - [2022](#2022)
+    - [2021](#2021)
   - [Surveys and Position Papers](#surveys-and-position-papers)
+    - [2024](#2024-1)
+    - [2023](#2023-1)
 - [Blog Posts](#blog-posts)
 - [Datasets](#datasets)
 
@@ -28,7 +34,7 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### Methods
 
-2024
+#### 2024
 
 - [Unlearning Climate Misinformation in Large Language Models](https://arxiv.org/abs/2405.19563)
   - Author(s): Michael Fore, Simranjit Singh, Chaehong Lee, Amritanshu Pandey, Antonios Anastasopoulos, Dimitrios Stamoulis
@@ -161,7 +167,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Venue: -
   - Code: [GitHub](https://github.com/locuslab/tofu)
 
-2023
+#### 2023
 
 - [FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs](https://arxiv.org/abs/2312.07420)
   - Author(s): Swanand Ravindra Kadhe, Anisa Halimi, Ambrish Rawat, Nathalie Baracaldo
@@ -249,7 +255,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Venue: -
   - Code: [GitHub](https://github.com/Lingzhi-WANG/KGAUnlearn)
 
-2022
+#### 2022
 
 - [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
   - Author(s): Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
@@ -277,7 +283,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Venue: NeurIPS 2022
   - Code: [GitHub](https://github.com/GXimingLu/Quark)
 
-2021
+#### 2021
 
 - [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023)
   - Author(s): Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi
@@ -287,7 +293,7 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### Surveys and Position Papers
 
-2024
+#### 2024
 
 - [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062)
   - Author(s): Alberto Blanco-Justicia, Najeeb Jebreel, Benet Manzanares, David Sánchez, Josep Domingo-Ferrer, Guillem Collell, Kuan Eeik Tan
@@ -310,7 +316,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-02
   - Venue: -
 
-2023
+#### 2023
 
 - [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)
   - Author(s): Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang
