@@ -34,6 +34,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning Personal Information in Large Language Models](https://arxiv.org/abs/2406.01983)
+  - Author(s): Bichen Wang, Yuzhe Zi, Yixin Sun, Yanyan Zhao, Bing Qin
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
 - [Unlearning Climate Misinformation in Large Language Models](https://arxiv.org/abs/2405.19563)
   - Author(s): Michael Fore, Simranjit Singh, Chaehong Lee, Amritanshu Pandey, Antonios Anastasopoulos, Dimitrios Stamoulis
   - Date: 2024-05
