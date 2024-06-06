@@ -34,6 +34,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)
+  - Author(s): Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M. Salman Asif, Yue Dong, Amit K. Roy-Chowdhury, Chengyu Song
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
 - [RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning Personal Information in Large Language Models](https://arxiv.org/abs/2406.01983)
   - Author(s): Bichen Wang, Yuzhe Zi, Yixin Sun, Yanyan Zhao, Bing Qin
   - Date: 2024-06
