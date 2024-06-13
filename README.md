@@ -54,6 +54,11 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-06
   - Venue: -
   - Code: -
+- [Toward Robust Unlearning for LLMs](https://openreview.net/forum?id=4rPzaUF6Ej)
+  - Author(s): Rishub Tamirisa, Bhrugu Bharathi, Andy Zhou, Bo Li, Mantas Mazeika
+  - Date: 2024-05
+  - Venue: ICLR 2024 SeT-LLM Workshop
+  - Code: -
 - [Unlearning Climate Misinformation in Large Language Models](https://arxiv.org/abs/2405.19563)
   - Author(s): Michael Fore, Simranjit Singh, Chaehong Lee, Amritanshu Pandey, Antonios Anastasopoulos, Dimitrios Stamoulis
   - Date: 2024-05
