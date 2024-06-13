@@ -34,6 +34,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/abs/2406.07933)
+  - Author(s): Chris Yuhao Liu, Yaxuan Wang, Jeffrey Flanigan, Yang Liu
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
 - [Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning](https://arxiv.org/abs/2406.04076)
   - Author(s): Xuhan Zuo, Minghao Wang, Tianqing Zhu, Lefeng Zhang, Dayong Ye, Shui Yu, Wanlei Zhou
   - Date: 2024-06
