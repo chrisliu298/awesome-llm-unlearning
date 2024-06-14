@@ -34,6 +34,21 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](https://arxiv.org/abs/2406.09325)
+  - Author(s): Tomer Ashuach, Martin Tutek, Yonatan Belinkov
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/Tomertech/REVS)
+- [Unlearning with Control: Assessing Real-world Utility for Large Language Model Unlearning](https://arxiv.org/abs/2406.09179)
+  - Author(s): Qizhou Wang, Bo Han, Puning Yang, Jianing Zhu, Tongliang Liu, Masashi Sugiyama
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
+- [Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference](https://arxiv.org/abs/2406.08607)
+  - Author(s): Jiabao Ji, Yujian Liu, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/UCSB-NLP-Chang/ULD)
 - [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/abs/2406.07933)
   - Author(s): Chris Yuhao Liu, Yaxuan Wang, Jeffrey Flanigan, Yang Liu
   - Date: 2024-06
