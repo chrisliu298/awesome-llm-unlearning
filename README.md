@@ -34,6 +34,26 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Split, Unlearn, Merge: Leveraging Data Attributes for More Effective Unlearning in LLMs](https://arxiv.org/abs/2406.11780)
+  - Author(s): Swanand Ravindra Kadhe, Farhan Ahmed, Dennis Wei, Nathalie Baracaldo, Inkit Padhi
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
+- [Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614)
+  - Author(s): Yihuai Hong, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/yihuaihong/ConceptVectors)
+- [Avoiding Copyright Infringement via Machine Unlearning](https://arxiv.org/abs/2406.10952)
+  - Author(s): Guangyao Dou, Zheyuan Liu, Qing Lyu, Kaize Ding, Eric Wong
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/guangyaodou/SSU/tree/main)
+- [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2406.10890)
+  - Author(s): Zhuoran Jin, Pengfei Cao, Chenhao Wang, Zhitao He, Hongbang Yuan, Jiachun Li, Yubo Chen, Kang Liu, Jun Zhao
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/jinzhuoran/RWKU)
 - [REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](https://arxiv.org/abs/2406.09325)
   - Author(s): Tomer Ashuach, Martin Tutek, Yonatan Belinkov
   - Date: 2024-06
