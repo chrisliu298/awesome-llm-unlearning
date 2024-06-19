@@ -34,6 +34,21 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models](https://arxiv.org/abs/2406.12354)
+  - Author(s): Minseok Choi, Kyunghyun Min, Jaegul Choo
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/brightjade/multilingual-unlearning)
+- [SNAP: Unlearning Selective Knowledge in Large Language Models with Negative Instructions](https://arxiv.org/abs/2406.12329)
+  - Author(s): Minseok Choi, Daniel Rim, Dohyun Lee, Jaegul Choo
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/brightjade/snap-unlearning)
+- [Soft Prompting for Unlearning in Large Language Models](https://arxiv.org/abs/2406.12038)
+  - Author(s): Karuna Bhaila, Minh-Hao Van, Xintao Wu
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/karuna-bhaila/llm_unlearning)
 - [Split, Unlearn, Merge: Leveraging Data Attributes for More Effective Unlearning in LLMs](https://arxiv.org/abs/2406.11780)
   - Author(s): Swanand Ravindra Kadhe, Farhan Ahmed, Dennis Wei, Nathalie Baracaldo, Inkit Padhi
   - Date: 2024-06
@@ -396,21 +411,6 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ## Datasets
 
-- [Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models](https://arxiv.org/abs/2406.12354)
-  - Author(s): Minseok Choi, Kyunghyun Min, Jaegul Choo
-  - Date: 2024-06
-  - Venue: -
-  - Code: [GitHub](https://github.com/brightjade/multilingual-unlearning)
-- [SNAP: Unlearning Selective Knowledge in Large Language Models with Negative Instructions](https://arxiv.org/abs/2406.12329)
-  - Author(s): Minseok Choi, Daniel Rim, Dohyun Lee, Jaegul Choo
-  - Date: 2024-06
-  - Venue: -
-  - Code: [GitHub](https://github.com/brightjade/snap-unlearning)
-- [Soft Prompting for Unlearning in Large Language Models](https://arxiv.org/abs/2406.12038)
-  - Author(s): Karuna Bhaila, Minh-Hao Van, Xintao Wu
-  - Date: 2024-06
-  - Venue: -
-  - Code: [GitHub](https://github.com/karuna-bhaila/llm_unlearning)
 - RWKU
   - Description: This dataset is designed to test large language models' ability to unlearn real-world knowledge. It contains 200 unlearning targets and 13,131 forget probes, including fill-in-the-blank, question-answer, and adversarial attack probes. The task is to forget famous people from Wikipedia. The evaluation suite assesses knowledge memorization and manipulation through regular and adversarial settings, as well as membership inference attacks. It also evaluates general ability, reasoning, truthfulness, factuality, and fluency. The unlearning task does not assume access to the forget or retain corpora, as the pre-training data of most language models is not easily accessible.
   - Links: [arXiv](http://arxiv.org/abs/2406.10890), [Hugging Face](https://huggingface.co/datasets/jinzhuoran/RWKU)
