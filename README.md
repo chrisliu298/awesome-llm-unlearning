@@ -34,6 +34,26 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models](https://arxiv.org/abs/2406.14091)
+  - Author(s): Dohyun Lee, Daniel Rim, Minseok Choi, Jaegul Choo
+  - Date: 2024-06
+  - Venue: ACL 2024 Findings
+  - Code: -
+- [Every Language Counts: Learn and Unlearn in Multilingual LLMs](https://arxiv.org/abs/2406.13748)
+  - Author(s): Taiming Lu, Philipp Koehn
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/TaiMingLu/learn-unlearn)
+- [Mitigating Social Biases in Language Models through Unlearning](https://arxiv.org/abs/2406.13551)
+  - Author(s): Omkar Dige, Diljot Singh, Tsz Fung Yau, Qixuan Zhang, Borna Bolandraftar, Xiaodan Zhu, Faiza Khan Khattak
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/VectorInstitute/Bias_in_LMsBias_mitigation)
+- [Textual Unlearning Gives a False Sense of Unlearning](https://arxiv.org/abs/2406.13348)
+  - Author(s): Jiacheng Du, Zhibo Wang, Kui Ren
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
 - [Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models](https://arxiv.org/abs/2406.12354)
   - Author(s): Minseok Choi, Kyunghyun Min, Jaegul Choo
   - Date: 2024-06
