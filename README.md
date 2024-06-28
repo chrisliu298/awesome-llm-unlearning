@@ -108,7 +108,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Chris Yuhao Liu, Yaxuan Wang, Jeffrey Flanigan, Yang Liu
   - Date: 2024-06
   - Venue: -
-  - Code: -
+  - Code: [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning)
 - [Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning](https://arxiv.org/abs/2406.04076)
   - Author(s): Xuhan Zuo, Minghao Wang, Tianqing Zhu, Lefeng Zhang, Dayong Ye, Shui Yu, Wanlei Zhou
   - Date: 2024-06
