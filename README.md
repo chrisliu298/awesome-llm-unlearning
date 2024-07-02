@@ -34,6 +34,16 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Can Small Language Models Learn, Unlearn, and Retain Noise Patterns?](https://arxiv.org/abs/2407.00996)
+  - Author(s): Nicy Scaria, Silvester John Joseph Kennedy, Deepak Subramani
+  - Date: 2024-07
+  - Venue: -
+  - Code: -
+- [UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI](https://arxiv.org/abs/2407.00106)
+  - Author(s): Ilia Shumailov, Jamie Hayes, Eleni Triantafillou, Guillermo Ortiz-Jimenez, Nicolas Papernot, Matthew Jagielski, Itay Yona, Heidi Howard, Eugene Bagdasaryan
+  - Date: 2024-07
+  - Venue: -
+  - Code: -
 - [Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models](https://arxiv.org/abs/2406.14091)
   - Author(s): Dohyun Lee, Daniel Rim, Minseok Choi, Jaegul Choo
   - Date: 2024-06
