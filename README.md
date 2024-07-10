@@ -34,6 +34,26 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Composable Interventions for Language Models](https://arxiv.org/abs/2407.06483)
+  - Author(s): Arinbjorn Kolbeinsson, Kyle O'Brien, Tianjin Huang, Shanghua Gao, Shiwei Liu, Jonathan Richard Schwarz, Anurag Vaidya, Faisal Mahmood, Marinka Zitnik, Tianlong Chen, Thomas Hartvigsen
+  - Date: 2024-07
+  - Venue: -
+  - Code: [GitHub](https://github.com/hartvigsen-group/composable-interventions)
+- [MUSE: Machine Unlearning Six-Way Evaluation for Language Models](https://arxiv.org/abs/2407.06460)
+  - Author(s): Weijia Shi, Jaechan Lee, Yangsibo Huang, Sadhika Malladi, Jieyu Zhao, Ari Holtzman, Daogao Liu, Luke Zettlemoyer, Noah A. Smith, Chiyuan Zhang
+  - Date: 2024-07
+  - Venue: -
+  - Code: -
+- [If You Don't Understand It, Don't Use It: Eliminating Trojans with Filters Between Layers](https://arxiv.org/abs/2407.06411)
+  - Author(s): Adriano Hernandez
+  - Date: 2024-07
+  - Venue: -
+  - Code: [GitHub](https://github.com/4gatepylon/IfYouDontUnderstandItDontUseIt)
+- [Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2407.02855)
+  - Author(s): Zhexin Zhang, Junxiao Yang, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang
+  - Date: 2024-07
+  - Venue: -
+  - Code: [GitHub](https://github.com/thu-coai/SafeUnlearning)
 - [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://export.arxiv.org/abs/2407.01920)
   - Author(s): Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang
   - Date: 2024-07
