@@ -34,6 +34,16 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Practical Unlearning for Large Language Models](https://arxiv.org/abs/2407.10223)
+  - Author(s): Chongyang Gao, Lixu Wang, Chenkai Weng, Xiao Wang, Qi Zhu
+  - Date: 2024-07
+  - Venue: -
+  - Code: -
+- [Learning to Refuse: Towards Mitigating Privacy Risks in LLMs](https://arxiv.org/abs/2407.10058)
+  - Author(s): Zhenhua Liu, Tong Zhu, Chuanyuan Tan, Wenliang Chen
+  - Date: 2024-07
+  - Venue: -
+  - Code: [GitHub](https://github.com/zhliu0106/learning-to-refuse)
 - [Composable Interventions for Language Models](https://arxiv.org/abs/2407.06483)
   - Author(s): Arinbjorn Kolbeinsson, Kyle O'Brien, Tianjin Huang, Shanghua Gao, Shiwei Liu, Jonathan Richard Schwarz, Anurag Vaidya, Faisal Mahmood, Marinka Zitnik, Tianlong Chen, Thomas Hartvigsen
   - Date: 2024-07
