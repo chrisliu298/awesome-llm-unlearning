@@ -34,6 +34,21 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective](https://arxiv.org/abs/2407.16997)
+  - Author(s): Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
+  - Date: 2024-07
+  - Venue: -
+  - Code: [GitHub](https://github.com/UCSB-NLP-Chang/causal_unlearn.git)
+- [Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation](https://arxiv.org/abs/2407.16951)
+  - Author(s): Huimin Lu, Masaru Isonuma, Junichiro Mori, Ichiro Sakata
+  - Date: 2024-07
+  - Venue: -
+  - Cdoe: -
+- [Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](https://arxiv.org/abs/2407.15549)
+  - Author(s): Abhay Sheshadri, Aidan Ewart, Phillip Guo, Aengus Lynch, Cindy Wu, Vivek Hebbar, Henry Sleight, Asa Cooper Stickland, Ethan Perez, Dylan Hadfield-Menell, Stephen Casper
+  - Date: 2024-07
+  - Venue: -
+  - Code: [GitHub](https://github.com/aengusl/latent-adversarial-training)
 - [Practical Unlearning for Large Language Models](https://arxiv.org/abs/2407.10223)
   - Author(s): Chongyang Gao, Lixu Wang, Chenkai Weng, Xiao Wang, Qi Zhu
   - Date: 2024-07
