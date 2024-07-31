@@ -23,8 +23,8 @@ This repository tracks the latest research on machine unlearning in large langua
     - [2022](#2022)
     - [2021](#2021)
   - [Surveys and Position Papers](#surveys-and-position-papers)
-    - [2024](#2024-1)
-    - [2023](#2023-1)
+    - [2024-1](#2024-1)
+    - [2023-1](#2023-1)
 - [Blog Posts](#blog-posts)
 - [Datasets](#datasets)
 
@@ -34,6 +34,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 #### 2024
 
+- [Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models](https://arxiv.org/abs/2407.20271)
+  - Author(s): Haoyu Tang, Ye Liu, Xukai Liu, Kai Zhang, Yanghai Zhang, Qi Liu, Enhong Chen
+  - Date: 2024-07
+  - Venue: -
+  - Code: [GitHub](https://github.com/himalalps/ICU)
 - [Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective](https://arxiv.org/abs/2407.16997)
   - Author(s): Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
   - Date: 2024-07
@@ -446,8 +451,12 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### Surveys and Position Papers
 
-#### 2024
+#### 2024-1
 
+- [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516)
+  - Author(s): Zheyuan Liu, Guangyao Dou, Zhaoxuan Tan, Yijun Tian, Meng Jiang
+  - Date: 2024-07
+  - Venue: -
 - [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062)
   - Author(s): Alberto Blanco-Justicia, Najeeb Jebreel, Benet Manzanares, David Sánchez, Josep Domingo-Ferrer, Guillem Collell, Kuan Eeik Tan
   - Date: 2024-04
@@ -469,7 +478,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-02
   - Venue: -
 
-#### 2023
+#### 2023-1
 
 - [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)
   - Author(s): Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang
