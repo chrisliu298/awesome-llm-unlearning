@@ -470,7 +470,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-03
   - Venue: -
 - [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)
-  - Author(s): Sijia Liu, Yuanshun Yao, Jinghan Jia, Stephen Casper, Nathalie Baracaldo, Peter Hase, Xiaojun Xu, Yuguang Yao, Hang Li, Kush R. Varshney, Mohit Bansal, Sanmi Koyejo, Yang Liu
+  - Author(s): Sijia Liu, Yuanshun Yao, Jinghan Jia, Stephen Casper, Nathalie Baracaldo, Peter Hase, Yuguang Yao, Chris Yuhao Liu, Xiaojun Xu, Hang Li, Kush R. Varshney, Mohit Bansal, Sanmi Koyejo, Yang Liu
   - Date: 2024-02
   - Venue: -
 - [Eight Methods to Evaluate Robust Unlearning in LLMs](https://arxiv.org/abs/2402.16835)
