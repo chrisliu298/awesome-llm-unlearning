@@ -23,8 +23,8 @@ This repository tracks the latest research on machine unlearning in large langua
     - [2022](#2022)
     - [2021](#2021)
   - [Surveys and Position Papers](#surveys-and-position-papers)
-    - [2024-1](#2024-1)
-    - [2023-1](#2023-1)
+    - [2024](#2024-1)
+    - [2023](#2023-1)
 - [Blog Posts](#blog-posts)
 - [Datasets](#datasets)
 
@@ -451,7 +451,7 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### Surveys and Position Papers
 
-#### 2024-1
+#### 2024
 
 - [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516)
   - Author(s): Zheyuan Liu, Guangyao Dou, Zhaoxuan Tan, Yijun Tian, Meng Jiang
@@ -478,7 +478,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-02
   - Venue: -
 
-#### 2023-1
+#### 2023
 
 - [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)
   - Author(s): Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang
