@@ -31,11 +31,26 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [Tamper-Resistant Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2408.00761)
+  - Author(s): Rishub Tamirisa, Bhrugu Bharathi, Long Phan, Andy Zhou, Alice Gatti, Tarun Suresh, Maxwell Lin, Justin Wang, Rowan Wang, Ron Arel, Andy Zou, Dawn Song, Bo Li, Dan Hendrycks, Mantas Mazeika
+  - Date: 2024-08
+  - Venue: -
+  - Code: [GitHub](https://github.com/rishub-tamirisa/tamper-resistance/)
+- [On the Limitations and Prospects of Machine Unlearning for Generative AI](https://arxiv.org/abs/2408.00376)
+  - Author(s): Shiji Zhou, Lianzhe Wang, Jiangnan Ye, Yongliang Wu, Heng Chang
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
 - [Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models](https://arxiv.org/abs/2407.20271)
   - Author(s): Haoyu Tang, Ye Liu, Xukai Liu, Kai Zhang, Yanghai Zhang, Qi Liu, Enhong Chen
   - Date: 2024-07
   - Venue: -
   - Code: [GitHub](https://github.com/himalalps/ICU)
+- [Demystifying Verbatim Memorization in Large Language Models](https://arxiv.org/abs/2407.17817)
+  - Author(s): Jing Huang, Diyi Yang, Christopher Potts
+  - Date: 2024-07
+  - Venue: -
+  - Code: -
 - [Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective](https://arxiv.org/abs/2407.16997)
   - Author(s): Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
   - Date: 2024-07
@@ -51,6 +66,11 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-07
   - Venue: -
   - Code: [GitHub](https://github.com/aengusl/latent-adversarial-training)
+- [What Makes and Breaks Safety Fine-tuning? A Mechanistic Study](https://arxiv.org/abs/2407.10264)
+  - Author(s): Samyak Jain, Ekdeep Singh Lubana, Kemal Oksuz, Tom Joy, Philip H.S. Torr, Amartya Sanyal, Puneet K. Dokania
+  - Date: 2024-07
+  - Venue: -
+  - Code: -
 - [Practical Unlearning for Large Language Models](https://arxiv.org/abs/2407.10223)
   - Author(s): Chongyang Gao, Lixu Wang, Chenkai Weng, Xiao Wang, Qi Zhu
   - Date: 2024-07
