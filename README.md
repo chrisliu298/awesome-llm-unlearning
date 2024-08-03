@@ -17,22 +17,19 @@ This repository tracks the latest research on machine unlearning in large langua
 
 - [Table of Contents](#table-of-contents)
 - [Papers](#papers)
-  - [Methods](#methods)
-    - [2024](#2024)
-    - [2023](#2023)
-    - [2022](#2022)
-    - [2021](#2021)
-  - [Surveys and Position Papers](#surveys-and-position-papers)
-    - [2024](#2024-1)
-    - [2023](#2023-1)
+  - [2024](#2024)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+- [Surveys and Position Papers](#surveys-and-position-papers)
+  - [2024](#2024-1)
+  - [2023](#2023-1)
 - [Blog Posts](#blog-posts)
 - [Datasets](#datasets)
 
 ## Papers
 
-### Methods
-
-#### 2024
+### 2024
 
 - [Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models](https://arxiv.org/abs/2407.20271)
   - Author(s): Haoyu Tang, Ye Liu, Xukai Liu, Kai Zhang, Yanghai Zhang, Qi Liu, Enhong Chen
@@ -325,7 +322,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Venue: -
   - Code: [GitHub](https://github.com/locuslab/tofu)
 
-#### 2023
+### 2023
 
 - [FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs](https://arxiv.org/abs/2312.07420)
   - Author(s): Swanand Ravindra Kadhe, Anisa Halimi, Ambrish Rawat, Nathalie Baracaldo
@@ -413,7 +410,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Venue: -
   - Code: [GitHub](https://github.com/Lingzhi-WANG/KGAUnlearn)
 
-#### 2022
+### 2022
 
 - [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
   - Author(s): Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
@@ -441,7 +438,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Venue: NeurIPS 2022
   - Code: [GitHub](https://github.com/GXimingLu/Quark)
 
-#### 2021
+### 2021
 
 - [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023)
   - Author(s): Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi
@@ -449,9 +446,9 @@ This repository tracks the latest research on machine unlearning in large langua
   - Venue: ACL 2021
   - Code: [GitHub](https://github.com/alisawuffles/DExperts)
 
-### Surveys and Position Papers
+## Surveys and Position Papers
 
-#### 2024
+### 2024
 
 - [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516)
   - Author(s): Zheyuan Liu, Guangyao Dou, Zhaoxuan Tan, Yijun Tian, Meng Jiang
@@ -478,7 +475,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-02
   - Venue: -
 
-#### 2023
+### 2023
 
 - [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)
   - Author(s): Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang
