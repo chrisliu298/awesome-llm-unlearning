@@ -30,6 +30,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [UNLEARN Efficient Removal of Knowledge in Large Language Models](https://arxiv.org/abs/2408.04140)
+  - Author(s): Tyler Lizzo, Larry Heck
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
 - [Tamper-Resistant Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2408.00761)
   - Author(s): Rishub Tamirisa, Bhrugu Bharathi, Long Phan, Andy Zhou, Alice Gatti, Tarun Suresh, Maxwell Lin, Justin Wang, Rowan Wang, Ron Arel, Andy Zou, Dawn Song, Bo Li, Dan Hendrycks, Mantas Mazeika
   - Date: 2024-08
