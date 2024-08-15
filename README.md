@@ -30,6 +30,21 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2408.06621)
+  - Author(s): Sungmin Cha, Sungjun Cho, Dasol Hwang, Moontae Lee
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
+- [On Effects of Steering Latent Representation for Large Language Model Unlearning](https://arxiv.org/abs/2408.06223)
+  - Author(s): Dang Huu-Tien, Trung-Tin Pham, Hoang Thanh-Tung, Naoya Inoue
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
+- [Hotfixing Large Language Models for Code](https://arxiv.org/abs/2408.05727)
+  - Author(s): Zhou Yang, David Lo
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
 - [UNLEARN Efficient Removal of Knowledge in Large Language Models](https://arxiv.org/abs/2408.04140)
   - Author(s): Tyler Lizzo, Larry Heck
   - Date: 2024-08
@@ -474,6 +489,10 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions](https://arxiv.org/abs/2408.05212)
+  - Author(s): Michele Miranda, Elena Sofia Ruzzetti, Andrea Santilli, Fabio Massimo Zanzotto, Sébastien Bratières, Emanuele Rodolà
+  - Date: 2024-08
+  - Venue: -
 - [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516)
   - Author(s): Zheyuan Liu, Guangyao Dou, Zhaoxuan Tan, Yijun Tian, Meng Jiang
   - Date: 2024-07
