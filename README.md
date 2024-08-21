@@ -30,6 +30,16 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [A Population-to-individual Tuning Framework for Adapting Pretrained LM to On-device User Intent Prediction](https://arxiv.org/abs/2408.09815)
+  - Author(s): Jiahui Gong, Jingtao Ding, Fanjin Meng, Guilong Chen, Hong Chen, Shen Zhao, Haisheng Lu, Yong Li
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
+- [WPN: An Unlearning Method Based on N-pair Contrastive Learning in Language Models](https://arxiv.org/abs/2408.09459)
+  - Author(s): Guitao Chen, Yunshen Wang, Hongye Sun, Guang Chen
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
 - [Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2408.06621)
   - Author(s): Sungmin Cha, Sungjun Cho, Dasol Hwang, Moontae Lee
   - Date: 2024-08
