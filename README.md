@@ -30,6 +30,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://arxiv.org/abs/2408.10682)
+  - Author(s): Hongbang Yuan, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
 - [A Population-to-individual Tuning Framework for Adapting Pretrained LM to On-device User Intent Prediction](https://arxiv.org/abs/2408.09815)
   - Author(s): Jiahui Gong, Jingtao Ding, Fanjin Meng, Guilong Chen, Hong Chen, Shen Zhao, Haisheng Lu, Yong Li
   - Date: 2024-08
