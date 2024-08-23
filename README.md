@@ -30,6 +30,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code](https://arxiv.org/abs/2408.12416)
+  - Author(s): Mahdi Kazemi, Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour, Sen Lin
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
 - [Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://arxiv.org/abs/2408.10682)
   - Author(s): Hongbang Yuan, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
   - Date: 2024-08
