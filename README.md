@@ -30,6 +30,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet](https://arxiv.org/abs/2408.15221)
+  - Author(s): Nathaniel Li, Ziwen Han, Ian Steneker, Willow Primack, Riley Goodside, Hugh Zhang, Zifan Wang, Cristina Menghini, Summer Yue
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
 - [Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code](https://arxiv.org/abs/2408.12416)
   - Author(s): Mahdi Kazemi, Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour, Sen Lin
   - Date: 2024-08
