@@ -89,7 +89,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Rishub Tamirisa, Bhrugu Bharathi, Long Phan, Andy Zhou, Alice Gatti, Tarun Suresh, Maxwell Lin, Justin Wang, Rowan Wang, Ron Arel, Andy Zou, Dawn Song, Bo Li, Dan Hendrycks, Mantas Mazeika
   - Date: 2024-08
   - Venue: -
-  - Code: [GitHub](https://github.com/rishub-tamirisa/tamper-resistance/)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rishub-tamirisa/tamper-resistance/)
 - [On the Limitations and Prospects of Machine Unlearning for Generative AI](https://arxiv.org/abs/2408.00376)
   - Author(s): Shiji Zhou, Lianzhe Wang, Jiangnan Ye, Yongliang Wu, Heng Chang
   - Date: 2024-08
@@ -99,7 +99,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Haoyu Tang, Ye Liu, Xukai Liu, Kai Zhang, Yanghai Zhang, Qi Liu, Enhong Chen
   - Date: 2024-07
   - Venue: -
-  - Code: [GitHub](https://github.com/himalalps/ICU)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/himalalps/ICU)
 - [Demystifying Verbatim Memorization in Large Language Models](https://arxiv.org/abs/2407.17817)
   - Author(s): Jing Huang, Diyi Yang, Christopher Potts
   - Date: 2024-07
@@ -109,7 +109,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
   - Date: 2024-07
   - Venue: -
-  - Code: [GitHub](https://github.com/UCSB-NLP-Chang/causal_unlearn.git)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UCSB-NLP-Chang/causal_unlearn.git)
 - [Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation](https://arxiv.org/abs/2407.16951)
   - Author(s): Huimin Lu, Masaru Isonuma, Junichiro Mori, Ichiro Sakata
   - Date: 2024-07
@@ -119,7 +119,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Abhay Sheshadri, Aidan Ewart, Phillip Guo, Aengus Lynch, Cindy Wu, Vivek Hebbar, Henry Sleight, Asa Cooper Stickland, Ethan Perez, Dylan Hadfield-Menell, Stephen Casper
   - Date: 2024-07
   - Venue: -
-  - Code: [GitHub](https://github.com/aengusl/latent-adversarial-training)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aengusl/latent-adversarial-training)
 - [What Makes and Breaks Safety Fine-tuning? A Mechanistic Study](https://arxiv.org/abs/2407.10264)
   - Author(s): Samyak Jain, Ekdeep Singh Lubana, Kemal Oksuz, Tom Joy, Philip H.S. Torr, Amartya Sanyal, Puneet K. Dokania
   - Date: 2024-07
@@ -134,12 +134,12 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Zhenhua Liu, Tong Zhu, Chuanyuan Tan, Wenliang Chen
   - Date: 2024-07
   - Venue: -
-  - Code: [GitHub](https://github.com/zhliu0106/learning-to-refuse)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zhliu0106/learning-to-refuse)
 - [Composable Interventions for Language Models](https://arxiv.org/abs/2407.06483)
   - Author(s): Arinbjorn Kolbeinsson, Kyle O'Brien, Tianjin Huang, Shanghua Gao, Shiwei Liu, Jonathan Richard Schwarz, Anurag Vaidya, Faisal Mahmood, Marinka Zitnik, Tianlong Chen, Thomas Hartvigsen
   - Date: 2024-07
   - Venue: -
-  - Code: [GitHub](https://github.com/hartvigsen-group/composable-interventions)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hartvigsen-group/composable-interventions)
 - [MUSE: Machine Unlearning Six-Way Evaluation for Language Models](https://arxiv.org/abs/2407.06460)
   - Author(s): Weijia Shi, Jaechan Lee, Yangsibo Huang, Sadhika Malladi, Jieyu Zhao, Ari Holtzman, Daogao Liu, Luke Zettlemoyer, Noah A. Smith, Chiyuan Zhang
   - Date: 2024-07
@@ -149,17 +149,17 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Adriano Hernandez
   - Date: 2024-07
   - Venue: -
-  - Code: [GitHub](https://github.com/4gatepylon/IfYouDontUnderstandItDontUseIt)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/4gatepylon/IfYouDontUnderstandItDontUseIt)
 - [Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2407.02855)
   - Author(s): Zhexin Zhang, Junxiao Yang, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang
   - Date: 2024-07
   - Venue: -
-  - Code: [GitHub](https://github.com/thu-coai/SafeUnlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thu-coai/SafeUnlearning)
 - [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://export.arxiv.org/abs/2407.01920)
   - Author(s): Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang
   - Date: 2024-07
   - Venue: -
-  - Code: [GitHub](https://github.com/zjunlp/KnowUnDo)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zjunlp/KnowUnDo)
 - [Can Small Language Models Learn, Unlearn, and Retain Noise Patterns?](https://arxiv.org/abs/2407.00996)
   - Author(s): Nicy Scaria, Silvester John Joseph Kennedy, Deepak Subramani
   - Date: 2024-07
@@ -174,7 +174,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Xinchi Qiu, William F. Shen, Yihong Chen, Nicola Cancedda, Pontus Stenetorp, Nicholas D. Lane
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/bill-shen-BS/PISTOL)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bill-shen-BS/PISTOL)
 - [Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive Analysis](https://arxiv.org/abs/2406.15796)
   - Author(s): Weitao Ma, Xiaocheng Feng, Weihong Zhong, Lei Huang, Yangfan Ye, Xiachong Feng, Bing Qin
   - Date: 2024-06
@@ -189,12 +189,12 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Taiming Lu, Philipp Koehn
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/TaiMingLu/learn-unlearn)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TaiMingLu/learn-unlearn)
 - [Mitigating Social Biases in Language Models through Unlearning](https://arxiv.org/abs/2406.13551)
   - Author(s): Omkar Dige, Diljot Singh, Tsz Fung Yau, Qixuan Zhang, Borna Bolandraftar, Xiaodan Zhu, Faiza Khan Khattak
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/VectorInstitute/Bias_in_LMsBias_mitigation)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VectorInstitute/Bias_in_LMsBias_mitigation)
 - [Textual Unlearning Gives a False Sense of Unlearning](https://arxiv.org/abs/2406.13348)
   - Author(s): Jiacheng Du, Zhibo Wang, Kui Ren
   - Date: 2024-06
@@ -204,17 +204,17 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Minseok Choi, Kyunghyun Min, Jaegul Choo
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/brightjade/multilingual-unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brightjade/multilingual-unlearning)
 - [SNAP: Unlearning Selective Knowledge in Large Language Models with Negative Instructions](https://arxiv.org/abs/2406.12329)
   - Author(s): Minseok Choi, Daniel Rim, Dohyun Lee, Jaegul Choo
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/brightjade/snap-unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brightjade/snap-unlearning)
 - [Soft Prompting for Unlearning in Large Language Models](https://arxiv.org/abs/2406.12038)
   - Author(s): Karuna Bhaila, Minh-Hao Van, Xintao Wu
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/karuna-bhaila/llm_unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/karuna-bhaila/llm_unlearning)
 - [Split, Unlearn, Merge: Leveraging Data Attributes for More Effective Unlearning in LLMs](https://arxiv.org/abs/2406.11780)
   - Author(s): Swanand Ravindra Kadhe, Farhan Ahmed, Dennis Wei, Nathalie Baracaldo, Inkit Padhi
   - Date: 2024-06
@@ -224,22 +224,22 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Yihuai Hong, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/yihuaihong/ConceptVectors)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yihuaihong/ConceptVectors)
 - [Avoiding Copyright Infringement via Machine Unlearning](https://arxiv.org/abs/2406.10952)
   - Author(s): Guangyao Dou, Zheyuan Liu, Qing Lyu, Kaize Ding, Eric Wong
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/guangyaodou/SSU/tree/main)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/guangyaodou/SSU/tree/main)
 - [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2406.10890)
   - Author(s): Zhuoran Jin, Pengfei Cao, Chenhao Wang, Zhitao He, Hongbang Yuan, Jiachun Li, Yubo Chen, Kang Liu, Jun Zhao
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/jinzhuoran/RWKU)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jinzhuoran/RWKU)
 - [REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](https://arxiv.org/abs/2406.09325)
   - Author(s): Tomer Ashuach, Martin Tutek, Yonatan Belinkov
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/Tomertech/REVS)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tomertech/REVS)
 - [Unlearning with Control: Assessing Real-world Utility for Large Language Model Unlearning](https://arxiv.org/abs/2406.09179)
   - Author(s): Qizhou Wang, Bo Han, Puning Yang, Jianing Zhu, Tongliang Liu, Masashi Sugiyama
   - Date: 2024-06
@@ -249,12 +249,12 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Jiabao Ji, Yujian Liu, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/UCSB-NLP-Chang/ULD)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UCSB-NLP-Chang/ULD)
 - [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/abs/2406.07933)
   - Author(s): Chris Yuhao Liu, Yaxuan Wang, Jeffrey Flanigan, Yang Liu
   - Date: 2024-06
   - Venue: -
-  - Code: [GitHub](https://github.com/chrisliu298/llm-unlearn-eco)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/chrisliu298/llm-unlearn-eco)
 - [Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning](https://arxiv.org/abs/2406.04076)
   - Author(s): Xuhan Zuo, Minghao Wang, Tianqing Zhu, Lefeng Zhang, Dayong Ye, Shui Yu, Wanlei Zhou
   - Date: 2024-06
@@ -284,7 +284,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Yu Wang, Ruihan Wu, Zexue He, Xiusi Chen, Julian McAuley
   - Date: 2024-05
   - Venue: -
-  - Code: [GitHub](https://github.com/wangyu-ustc/LargeScaleWashing)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wangyu-ustc/LargeScaleWashing)
 - [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2405.12523)
   - Author(s): Jiaqi Li, Qianshan Wei, Chuanyi Zhang, Guilin Qi, Miaozeng Du, Yongrui Chen, Sheng Bi
   - Date: 2024-05
@@ -299,7 +299,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Jinghan Jia, Yihua Zhang, Yimeng Zhang, Jiancheng Liu, Bharat Runwal, James Diffenderfer, Bhavya Kailkhura, Sijia Liu
   - Date: 2024-04
   - Venue: -
-  - Code: [GitHub](https://github.com/OPTML-Group/SOUL)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/SOUL)
 - [Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)
   - Author(s): Kongyang Chen, Zixin Wang, Bing Mi, Waixi Liu, Shaowei Wang, Xiaojun Ren, Jiaxing Shen
   - Date: 2024-04
@@ -309,7 +309,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): James Y. Huang, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen
   - Date: 2024-04
   - Venue: -
-  - Code: [GitHub](https://github.com/luka-group/Delta-Unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/luka-group/Delta-Unlearning)
 - [Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://arxiv.org/abs/2404.05880)
   - Author(s): Weikai Lu, Ziqian Zeng, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen
   - Date: 2024-04
@@ -319,7 +319,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Ruiqi Zhang, Licong Lin, Yu Bai, Song Mei
   - Date: 2024-04
   - Venue: -
-  - Code: [GitHub](https://github.com/licong-lin/negative-preference-optimization)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/licong-lin/negative-preference-optimization)
 - [Localizing Paragraph Memorization in Language Models](https://arxiv.org/abs/2403.19851)
   - Author(s): Niklas Stoehr, Mitchell Gordon, Chiyuan Zhang, Owen Lewis
   - Date: 2024-03
@@ -329,7 +329,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Nathaniel Li, Alexander Pan, Anjali Gopal, Summer Yue, Daniel Berrios, Alice Gatti, Justin D. Li, Ann-Kathrin Dombrowski, Shashwat Goel, Long Phan, Gabriel Mukobi, Nathan Helm-Burger, Rassin Lababidi, Lennart Justen, Andrew B. Liu, Michael Chen, Isabelle Barrass, Oliver Zhang, Xiaoyuan Zhu, Rishub Tamirisa, Bhrugu Bharathi, Adam Khoja, Zhenqi Zhao, Ariel Herbert-Voss, Cort B. Breuer, Samuel Marks, Oam Patel, Andy Zou, Mantas Mazeika, Zifan Wang, Palash Oswal, Weiran Lin, Adam A. Hunt, Justin Tienken-Harder, Kevin Y. Shih, Kemper Talley, John Guan, Russell Kaplan, Ian Steneker, David Campbell, Brad Jokubaitis, Alex Levinson, Jean Wang, William Qian, Kallol Krishna Karmakar, Steven Basart, Stephen Fitz, Mindy Levine, Ponnurangam Kumaraguru, Uday Tupakula, Vijay Varadharajan, Ruoyu Wang, Yan Shoshitaishvili, Jimmy Ba, Kevin M. Esvelt, Alexandr Wang, Dan Hendrycks
   - Date: 2024-03
   - Venue: -
-  - Code: [GitHub](https://github.com/centerforaisafety/wmdp)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/centerforaisafety/wmdp)
 - [Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267)
   - Author(s): Nicholas Pochinkov, Nandi Schoots
   - Date: 2024-03
@@ -349,7 +349,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Hangyu Wang, Jianghao Lin, Bo Chen, Yang Yang, Ruiming Tang, Weinan Zhang, Yong Yu
   - Date: 2024-03
   - Venue: -
-  - Code: [GitHub](https://github.com/justarter/E2URec)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/justarter/E2URec)
 - [Guardrail Baselines for Unlearning in LLMs](https://arxiv.org/abs/2403.03329)
   - Author(s): Pratiksha Thaker, Yash Maurya, Virginia Smith
   - Date: 2024-03
@@ -364,12 +364,12 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Yijiang River Dong, Hongzhou Lin, Mikhail Belkin, Ramon Huerta, Ivan Vulić
   - Date: 2024-02
   - Venue: -
-  - Code: [GitHub](https://github.com/dong-river/LLM_unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dong-river/LLM_unlearning)
 - [Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)
   - Author(s): Zheyuan Liu, Guangyao Dou, Zhaoxuan Tan, Yijun Tian, Meng Jiang
   - Date: 2024-02
   - Venue: -
-  - Code: [GitHub](https://github.com/franciscoliu/SKU)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/franciscoliu/SKU)
 - [Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models](https://arxiv.org/abs/2402.05813)
   - Author(s): Lingzhi Wang, Xingshan Zeng, Jinsong Guo, Kam-Fai Wong, Georg Gottlob
   - Date: 2024-02
@@ -384,7 +384,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Jin Yao, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue
   - Date: 2024-02
   - Venue: ACL 2024
-  - Code: [GitHub](https://github.com/yaojin17/Unlearning_LLM)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yaojin17/Unlearning_LLM)
 - [Visual In-Context Learning for Large Vision-Language Models](https://arxiv.org/abs/2402.11574)
   - Author(s): Yucheng Zhou, Xiang Li, Qianning Wang, Jianbing Shen
   - Date: 2024-02
@@ -404,7 +404,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Pratyush Maini, Zhili Feng, Avi Schwarzschild, Zachary C. Lipton, J. Zico Kolter
   - Date: 2024-01
   - Venue: -
-  - Code: [GitHub](https://github.com/locuslab/tofu)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/locuslab/tofu)
 
 ### 2023
 
@@ -432,12 +432,12 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Xinwei Wu, Junzhuo Li, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, Deyi Xiong
   - Date: 2023-10
   - Venue: EMNLP 2023
-  - Code: [GitHub](https://github.com/flamewei123/DEPN)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/flamewei123/DEPN)
 - [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/)
   - Author(s): Jiaao Chen, Diyi Yang
   - Date: 2023-10
   - Venue: EMNLP 2023
-  - Code: [GitHub](https://github.com/SALT-NLP/Efficient_Unlearning/)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SALT-NLP/Efficient_Unlearning/)
 - [In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)
   - Author(s): Martin Pawelczyk, Seth Neel, Himabindu Lakkaraju
   - Date: 2023-10
@@ -447,7 +447,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Yuanshun Yao, Xiaojun Xu, Yang Liu
   - Date: 2023-10
   - Venue: NeurIPS 2023 SoLaR Workshop
-  - Code: [GitHub](https://github.com/kevinyaobytedance/llm_unlearn)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kevinyaobytedance/llm_unlearn)
 - [Forgetting Private Textual Sequences in Language Models via Leave-One-Out Ensemble](https://arxiv.org/abs/2309.16082)
   - Author(s): Zhe Liu, Ozlem Kalinli
   - Date: 2023-09
@@ -457,17 +457,17 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Vaidehi Patil, Peter Hase, Mohit Bansal
   - Date: 2023-09
   - Venue: -
-  - Code: [GitHub](https://github.com/Vaidehi99/InfoDeletionAttacks)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vaidehi99/InfoDeletionAttacks)
 - [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090)
   - Author(s): Xinshuo Hu, Dongfang Li, Baotian Hu, Zihao Zheng, Zhenyu Liu, Min Zhang
   - Date: 2023-08
   - Venue: AAAI 2024
-  - Code: [GitHub](https://github.com/HITsz-TMG/Ext-Sub)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/HITsz-TMG/Ext-Sub)
 - [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375/)
   - Author(s): Charles Yu, Sullam Jeoung, Anish Kasi, Pengfei Yu, Heng Ji
   - Date: 2023-07
   - Venue: ACL (Findings) 2023
-  - Code: [GitHub](https://github.com/CharlesYu2000/PCGU-UnlearningBias)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CharlesYu2000/PCGU-UnlearningBias)
 - [Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data](https://arxiv.org/abs/2307.00456)
   - Author(s): Xinzhe Li, Ming Liu, Shang Gao
   - Date: 2023-07
@@ -482,17 +482,17 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Nora Belrose, David Schneider-Joseph, Shauli Ravfogel, Ryan Cotterell, Edward Raff, Stella Biderman
   - Date: 2023-06
   - Venue: NeurIPS 2023
-  - Code: [GitHub](https://github.com/EleutherAI/concept-erasure)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EleutherAI/concept-erasure)
 - [Composing Parameter-Efficient Modules with Arithmetic Operations](https://arxiv.org/abs/2306.14870)
   - Author(s): Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
   - Date: 2023-06
   - Venue: NeurIPS 2023
-  - Code: [GitHub](https://github.com/hkust-nlp/PEM_composition)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hkust-nlp/PEM_composition)
 - [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535)
   - Author(s): Lingzhi Wang, Tong Chen, Wei Yuan, Xingshan Zeng, Kam-Fai Wong, Hongzhi Yin
   - Date: 2023-05
   - Venue: -
-  - Code: [GitHub](https://github.com/Lingzhi-WANG/KGAUnlearn)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lingzhi-WANG/KGAUnlearn)
 
 ### 2022
 
@@ -500,7 +500,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
   - Date: 2022-12
   - Venue: ICLR 2023
-  - Code: [GitHub](https://github.com/mlfoundations/task_vectors)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mlfoundations/task_vectors)
 - [Privacy Adhering Machine Un-learning in NLP](https://arxiv.org/abs/2212.09573)
   - Author(s): Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah, Dan Roth
   - Date: 2022-12
@@ -515,12 +515,12 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo
   - Date: 2022-10
   - Venue: -
-  - Code: [GitHub](https://github.com/joeljang/knowledge-unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joeljang/knowledge-unlearning)
 - [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636)
   - Author(s): Ximing Lu, Sean Welleck, Jack Hessel, Liwei Jiang, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, Yejin Choi
   - Date: 2022-05
   - Venue: NeurIPS 2022
-  - Code: [GitHub](https://github.com/GXimingLu/Quark)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GXimingLu/Quark)
 
 ### 2021
 
@@ -528,7 +528,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi
   - Date: 2021-05
   - Venue: ACL 2021
-  - Code: [GitHub](https://github.com/alisawuffles/DExperts)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alisawuffles/DExperts)
 
 ## Surveys and Position Papers
 
