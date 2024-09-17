@@ -170,6 +170,16 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-07
   - Venue: -
   - Code: -
+- [PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs](https://arxiv.org/abs/2406.16810)
+  - Author(s): Xinchi Qiu, William F. Shen, Yihong Chen, Nicola Cancedda, Pontus Stenetorp, Nicholas D. Lane
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/bill-shen-BS/PISTOL)
+- [Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive Analysis](https://arxiv.org/abs/2406.15796)
+  - Author(s): Weitao Ma, Xiaocheng Feng, Weihong Zhong, Lei Huang, Yangfan Ye, Xiachong Feng, Bing Qin
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
 - [Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models](https://arxiv.org/abs/2406.14091)
   - Author(s): Dohyun Lee, Daniel Rim, Minseok Choi, Jaegul Choo
   - Date: 2024-06
