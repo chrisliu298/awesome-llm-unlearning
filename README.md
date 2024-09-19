@@ -30,6 +30,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts](https://arxiv.org/abs/2409.11844)
+  - Author(s): Tianle Gu, Kexin Huang, Ruilin Luo, Yuanqi Yao, Yujiu Yang, Yan Teng, Yingchun Wang
+  - Date: 2024-09
+  - Venue: -
+  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Carol-gutianle/MEOW)
 - [Unforgettable Generalization in Language Models](https://arxiv.org/abs/2409.02228)
   - Author(s): Eric Zhang, Leshem Chosen, Jacob Andreas
   - Date: 2024-09
