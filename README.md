@@ -160,7 +160,7 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-07
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thu-coai/SafeUnlearning)
-- [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://export.arxiv.org/abs/2407.01920)
+- [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2407.01920)
   - Author(s): Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang
   - Date: 2024-07
   - Venue: -
