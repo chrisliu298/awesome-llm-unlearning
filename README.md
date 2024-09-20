@@ -38,7 +38,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Unforgettable Generalization in Language Models](https://arxiv.org/abs/2409.02228)
   - Author(s): Eric Zhang, Leshem Chosen, Jacob Andreas
   - Date: 2024-09
-  - Venue: -
+  - Venue: COLM 2024
   - Code: -
 - [Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage](https://arxiv.org/abs/2408.17354)
   - Author(s): Md Rafi Ur Rashid, Jing Liu, Toshiaki Koike-Akino, Shagufta Mehnaz, Ye Wang
