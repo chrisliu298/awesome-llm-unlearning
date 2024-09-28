@@ -273,7 +273,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/abs/2406.07933)
   - Author(s): Chris Yuhao Liu, Yaxuan Wang, Jeffrey Flanigan, Yang Liu
   - Date: 2024-06
-  - Venue: -
+  - Venue: NeurIPS 2024
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/chrisliu298/llm-unlearn-eco)
 - [Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning](https://arxiv.org/abs/2406.04076)
   - Author(s): Xuhan Zuo, Minghao Wang, Tianqing Zhu, Lefeng Zhang, Dayong Ye, Shui Yu, Wanlei Zhou
