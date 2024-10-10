@@ -35,6 +35,26 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-10
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/Unlearn-Simple)
+- [Dissecting Fine-Tuning Unlearning in Large Language Models](https://arxiv.org/abs/2410.06606)
+  - Author(s): Yihuai Hong, Yuelin Zou, Lijie Hu, Ziqian Zeng, Di Wang, Haiqin Yang
+  - Date: 2024-10
+  - Venue: EMNLP 2024
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yihuaihong/Dissecting-FT-Unlearning)
+- [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/abs/2410.05583)
+  - Author(s): Hyoseo Kim, Dongyoon Han, Junsuk Choe
+  - Date: 2024-10
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/naver-ai/negmerge)
+- [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://arxiv.org/abs/2410.03523)
+  - Author(s): Yan Scholten, Stephan Günnemann, Leo Schwinn
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [Mitigating Memorization In Language Models](https://arxiv.org/abs/2410.02159)
+  - Author(s): Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Nathaniel Hudson, Caleb Geniesse, Kyle Chard, Yaoqing Yang, Ian Foster, Michael W. Mahoney
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
 - [Answer When Needed, Forget When Not: Language Models Pretend to Forget via In-Context Knowledge Unlearning](https://arxiv.org/abs/2410.00382)
   - Author(s): Shota Takashiro, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo
   - Date: 2024-10
@@ -564,6 +584,10 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [Position: LLM Unlearning Benchmarks are Weak Measures of Progress](https://arxiv.org/abs/2410.02879)
+  - Author(s): Pratiksha Thaker, Shengyuan Hu, Neil Kale, Yash Maurya, Zhiwei Steven Wu, Virginia Smith
+  - Date: 2024-10
+  - Venue: -
 - [Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions](https://arxiv.org/abs/2408.05212)
   - Author(s): Michele Miranda, Elena Sofia Ruzzetti, Andrea Santilli, Fabio Massimo Zanzotto, Sébastien Bratières, Emanuele Rodolà
   - Date: 2024-08
