@@ -30,6 +30,21 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [LLM Unlearning via Loss Adjustment with Only Forget Data](https://arxiv.org/abs/2410.11143)
+  - Author(s): Yaxuan Wang, Jiaheng Wei, Chris Yuhao Liu, Jinlong Pang, Quan Liu, Ankit Parag Shah, Yujia Bao, Yang Liu, Wei Wei
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept](https://arxiv.org/abs/2410.10866)
+  - Author(s): YuXuan Wu, Bonaventure F. P. Dossou, Dianbo Liu
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [Do Unlearning Methods Remove Information from Language Model Weights?](https://arxiv.org/abs/2410.08827)
+  - Author(s): Aghyad Deeb, Fabien Roger
+  - Date: 2024-10
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aghyad-deeb/unlearning_evaluation)
 - [A Closer Look at Machine Unlearning for Large Language Models](https://arxiv.org/abs/2410.08109)
   - Author(s): Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang, Min Lin
   - Date: 2024-10
