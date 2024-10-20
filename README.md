@@ -30,6 +30,16 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning](https://arxiv.org/abs/2410.13274)
+  - Author(s): Minseok Choi, ChaeHun Park, Dohyun Lee, Jaegul Choo
+  - Date: 2024-10
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brightjade/Munch)
+- [Mechanistic Unlearning: Robust Knowledge Unlearning and Editing via Mechanistic Localization](https://arxiv.org/abs/2410.12949)
+  - Author(s): Phillip Guo, Aaquib Syed, Abhay Sheshadri, Aidan Ewart, Gintare Karolina Dziugaite
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
 - [LLM Unlearning via Loss Adjustment with Only Forget Data](https://arxiv.org/abs/2410.11143)
   - Author(s): Yaxuan Wang, Jiaheng Wei, Chris Yuhao Liu, Jinlong Pang, Quan Liu, Ankit Parag Shah, Yujia Bao, Yang Liu, Wei Wei
   - Date: 2024-10
