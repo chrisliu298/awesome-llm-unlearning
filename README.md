@@ -32,6 +32,31 @@ As of the last commit, there are 113 papers, 10 surveys and position papers, and
 
 ### 2024
 
+- [UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs](https://arxiv.org/abs/2410.17050)
+  - Author(s): Yash Sinha, Murari Mandal, Mohan Kankanhalli
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge](https://arxiv.org/abs/2410.16454)
+  - Author(s): Zhiwei Zhang, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang
+  - Date: 2024-10
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zzwjames/FailureLLMUnlearning)
+- [When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?](https://arxiv.org/abs/2410.15267)
+  - Author(s): Shang Wang, Tianqing Zhu, Dayong Ye, Wanlei Zhou
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [Evaluating Deep Unlearning in Large Language Models](https://arxiv.org/abs/2410.15153)
+  - Author(s): Ruihan Wu, Chhavi Yadav, Russ Salakhutdinov, Kamalika Chaudhuri
+  - Date: 2024-10
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wrh14/deep_unlearning)
+- [Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425)
+  - Author(s): Shuai Zhao, Xiaobao Wu, Cong-Duy Nguyen, Meihuizi Jia, Yichao Feng, Luu Anh Tuan
+  - Date: 2024-10
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shuaizhao95/Unlearning)
 - [Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning](https://arxiv.org/abs/2410.13274)
   - Author(s): Minseok Choi, ChaeHun Park, Dohyun Lee, Jaegul Choo
   - Date: 2024-10
