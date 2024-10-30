@@ -32,6 +32,41 @@ As of the last commit, there are 113 papers, 10 surveys and position papers, and
 
 ### 2024
 
+- [WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models](https://arxiv.org/abs/2410.17509)
+  - Author(s): Jinghan Jia, Jiancheng Liu, Yihua Zhang, Parikshit Ram, Nathalie Baracaldo, Sijia Liu
+  - Date: 2024-10
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/WAGLE)
+- [Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://arxiv.org/abs/2410.17599)
+  - Author(s): Jiayi Wu, Hao Sun, Hengyi Cai, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiang Li, Ming Gao
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [CLEAR: Character Unlearning in Textual and Visual Modalities](https://arxiv.org/abs/2410.18057)
+  - Author(s): Alexey Dontsov, Dmitrii Korzh, Alexey Zhavoronkin, Boris Mikheev, Denis Bobkov, Aibek Alanov, Oleg Y. Rogov, Ivan Oseledets, Elena Tutubalina
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [Applying sparse autoencoders to unlearn knowledge in language models](https://arxiv.org/abs/2410.19278)
+  - Author(s): Eoin Farrell, Yeu-Tong Lau, Arthur Conmy
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [Learning and Unlearning of Fabricated Knowledge in Language Models](https://arxiv.org/abs/2410.21750)
+  - Author(s): Chen Sun, Nolan Andrew Miller, Andrey Zhmoginov, Max Vladymyrov, Mark Sandler
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [Unlearning as multi-task optimization: A normalized gradient difference approach with an adaptive learning rate](https://arxiv.org/abs/2410.22086)
+  - Author(s): Zhiqi Bu, Xiaomeng Jin, Bhanukiran Vinzamuri, Anil Ramakrishna, Kai-Wei Chang, Volkan Cevher, Mingyi Hong
+  - Date: 2024-10
+  - Venue: -
+  - Code: -
+- [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108)
+  - Author(s): Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang
+  - Date: 2024-10
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/franciscoliu/MLLMU-Bench)
 - [UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs](https://arxiv.org/abs/2410.17050)
   - Author(s): Yash Sinha, Murari Mandal, Mohan Kankanhalli
   - Date: 2024-10
