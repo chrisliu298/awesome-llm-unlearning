@@ -32,6 +32,11 @@ As of the last commit, there are 125 papers, 10 surveys and position papers, and
 
 ### 2024
 
+- [RESTOR: Knowledge Recovery through Machine Unlearning](https://arxiv.org/abs/2411.00204)
+  - Author(s): Keivan Rezaei, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
+  - Date: 2024-11
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/k1rezaei/restor)
 - [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108)
   - Author(s): Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang
   - Date: 2024-10
