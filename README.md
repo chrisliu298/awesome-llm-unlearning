@@ -32,6 +32,16 @@ As of the last commit, there are 125 papers, 10 surveys and position papers, and
 
 ### 2024
 
+- [Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset](https://arxiv.org/abs/2411.03554)
+  - Author(s): Yingzi Ma, Jiongxiao Wang, Fei Wang, Siyuan Ma, Jiazhao Li, Xiujun Li, Furong Huang, Lichao Sun, Bo Li, Yejin Choi, Muhao Chen, Chaowei Xiao
+  - Date: 2024-11
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SaFoLab-WISC/FIUBench)
+- [Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/abs/2411.02631)
+  - Author(s): Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann
+  - Date: 2024-11
+  - Venue: -
+  - Code: -
 - [RESTOR: Knowledge Recovery through Machine Unlearning](https://arxiv.org/abs/2411.00204)
   - Author(s): Keivan Rezaei, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
   - Date: 2024-11
