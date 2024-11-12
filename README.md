@@ -27,6 +27,7 @@ As of the last commit, there are 128 papers, 10 surveys and position papers, and
   - [2024](#2024-1)
   - [2023](#2023-1)
 - [Blog Posts](#blog-posts)
+- [Ideas for Implementing LLM Unlearning](#ideas-for-implementing-llm-unlearning)
 
 ## Papers
 
@@ -743,3 +744,156 @@ As of the last commit, there are 128 papers, 10 surveys and position papers, and
 - [Deep Forgetting & Unlearning for Safely-Scoped LLMs](https://www.alignmentforum.org/posts/mFAvspg4sXkrfZ7FA/deep-forgetting-and-unlearning-for-safely-scoped-llms)
   - Author(s): [Stephen Casper](https://stephencasper.com/)
   - Date: 2023-12
+
+## Ideas for Implementing LLM Unlearning
+
+### Introduction
+
+LLM unlearning is crucial for ensuring privacy, compliance with regulations, and improving model performance by removing outdated or incorrect information. Implementing effective unlearning methods can help maintain the integrity and reliability of large language models.
+
+### Potential Methods and Approaches
+
+1. **Gradient-Based Unlearning**
+   - **Summary**: This method involves adjusting the model's gradients to remove specific information.
+   - **Key Steps**:
+     - Identify the data to be unlearned.
+     - Compute the gradients associated with the data.
+     - Adjust the model parameters to negate the effect of these gradients.
+   - **Considerations**: Requires careful tuning to avoid degrading overall model performance.
+
+2. **Knowledge Distillation**
+   - **Summary**: Transfer knowledge from the original model to a new model without the unwanted information.
+   - **Key Steps**:
+     - Train a new model using the outputs of the original model as soft targets.
+     - Exclude the data to be unlearned during the distillation process.
+   - **Considerations**: Ensures the new model retains most of the useful knowledge while excluding specific information.
+
+3. **Selective Fine-Tuning**
+   - **Summary**: Fine-tune the model on a dataset that excludes the information to be unlearned.
+   - **Key Steps**:
+     - Create a fine-tuning dataset that omits the data to be unlearned.
+     - Fine-tune the model on this dataset.
+   - **Considerations**: Effective for removing specific pieces of information but may require significant computational resources.
+
+4. **Parameter Pruning**
+   - **Summary**: Remove or adjust specific parameters in the model that are responsible for the unwanted information.
+   - **Key Steps**:
+     - Identify the parameters associated with the data to be unlearned.
+     - Prune or adjust these parameters.
+   - **Considerations**: Can be challenging to accurately identify the relevant parameters.
+
+5. **Embedding Adjustment**
+   - **Summary**: Modify the embeddings of specific tokens or concepts to reduce their influence.
+   - **Key Steps**:
+     - Identify the embeddings related to the data to be unlearned.
+     - Adjust these embeddings to minimize their impact.
+   - **Considerations**: Requires a deep understanding of the model's embedding space.
+
+### References
+
+- [Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset](https://arxiv.org/abs/2411.03554)
+- [Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/abs/2411.02631)
+- [RESTOR: Knowledge Recovery through Machine Unlearning](https://arxiv.org/abs/2411.00204)
+- [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108)
+- [Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://arxiv.org/abs/2410.17599)
+- [Unlearning as multi-task optimization: A normalized gradient difference approach with an adaptive learning rate](https://arxiv.org/abs/2410.22086)
+- [Learning and Unlearning of Fabricated Knowledge in Language Models](https://arxiv.org/abs/2410.21750)
+- [Applying sparse autoencoders to unlearn knowledge in language models](https://arxiv.org/abs/2410.19278)
+- [CLEAR: Character Unlearning in Textual and Visual Modalities](https://arxiv.org/abs/2410.18057)
+- [WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models](https://arxiv.org/abs/2410.17509)
+- [UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs](https://arxiv.org/abs/2410.17050)
+- [Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge](https://arxiv.org/abs/2410.16454)
+- [When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?](https://arxiv.org/abs/2410.15267)
+- [Evaluating Deep Unlearning in Large Language Models](https://arxiv.org/abs/2410.15153)
+- [Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425)
+- [Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning](https://arxiv.org/abs/2410.13274)
+- [Mechanistic Unlearning: Robust Knowledge Unlearning and Editing via Mechanistic Localization](https://arxiv.org/abs/2410.12949)
+- [LLM Unlearning via Loss Adjustment with Only Forget Data](https://arxiv.org/abs/2410.11143)
+- [CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept](https://arxiv.org/abs/2410.10866)
+- [Do Unlearning Methods Remove Information from Language Model Weights?](https://arxiv.org/abs/2410.08827)
+- [A Closer Look at Machine Unlearning for Large Language Models](https://arxiv.org/abs/2410.08109)
+- [Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://arxiv.org/abs/2410.07163)
+- [Dissecting Fine-Tuning Unlearning in Large Language Models](https://arxiv.org/abs/2410.06606)
+- [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/abs/2410.05583)
+- [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://arxiv.org/abs/2410.03523)
+- [Mitigating Memorization In Language Models](https://arxiv.org/abs/2410.02159)
+- [Answer When Needed, Forget When Not: Language Models Pretend to Forget via In-Context Knowledge Unlearning](https://arxiv.org/abs/2410.00382)
+- [An Adversarial Perspective on Machine Unlearning for AI Safety](https://arxiv.org/abs/2409.18025)
+- [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/abs/2409.13474)
+- [LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models](https://arxiv.org/abs/2409.13054)
+- [MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts](https://arxiv.org/abs/2409.11844)
+- [Unforgettable Generalization in Language Models](https://arxiv.org/abs/2409.02228)
+- [Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage](https://arxiv.org/abs/2408.17354)
+- [LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet](https://arxiv.org/abs/2408.15221)
+- [Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code](https://arxiv.org/abs/2408.12416)
+- [Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://arxiv.org/abs/2408.10682)
+- [A Population-to-individual Tuning Framework for Adapting Pretrained LM to On-device User Intent Prediction](https://arxiv.org/abs/2408.09815)
+- [WPN: An Unlearning Method Based on N-pair Contrastive Learning in Language Models](https://arxiv.org/abs/2408.09459)
+- [Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2408.06621)
+- [On Effects of Steering Latent Representation for Large Language Model Unlearning](https://arxiv.org/abs/2408.06223)
+- [Hotfixing Large Language Models for Code](https://arxiv.org/abs/2408.05727)
+- [UNLEARN Efficient Removal of Knowledge in Large Language Models](https://arxiv.org/abs/2408.04140)
+- [Tamper-Resistant Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2408.00761)
+- [On the Limitations and Prospects of Machine Unlearning for Generative AI](https://arxiv.org/abs/2408.00376)
+- [Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models](https://arxiv.org/abs/2407.20271)
+- [Demystifying Verbatim Memorization in Large Language Models](https://arxiv.org/abs/2407.17817)
+- [Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective](https://arxiv.org/abs/2407.16997)
+- [Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation](https://arxiv.org/abs/2407.16951)
+- [Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](https://arxiv.org/abs/2407.15549)
+- [What Makes and Breaks Safety Fine-tuning? A Mechanistic Study](https://arxiv.org/abs/2407.10264)
+- [Practical Unlearning for Large Language Models](https://arxiv.org/abs/2407.10223)
+- [Learning to Refuse: Towards Mitigating Privacy Risks in LLMs](https://arxiv.org/abs/2407.10058)
+- [Composable Interventions for Language Models](https://arxiv.org/abs/2407.06483)
+- [MUSE: Machine Unlearning Six-Way Evaluation for Language Models](https://arxiv.org/abs/2407.06460)
+- [If You Don't Understand It, Don't Use It: Eliminating Trojans with Filters Between Layers](https://arxiv.org/abs/2407.06411)
+- [Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2407.02855)
+- [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2407.01920)
+- [Can Small Language Models Learn, Unlearn, and Retain Noise Patterns?](https://arxiv.org/abs/2407.00996)
+- [UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI](https://arxiv.org/abs/2407.00106)
+- [PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs](https://arxiv.org/abs/2406.16810)
+- [Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive Analysis](https://arxiv.org/abs/2406.15796)
+- [Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models](https://arxiv.org/abs/2406.14091)
+- [Every Language Counts: Learn and Unlearn in Multilingual LLMs](https://arxiv.org/abs/2406.13748)
+- [Mitigating Social Biases in Language Models through Unlearning](https://arxiv.org/abs/2406.13551)
+- [Textual Unlearning Gives a False Sense of Unlearning](https://arxiv.org/abs/2406.13348)
+- [Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models](https://arxiv.org/abs/2406.12354)
+- [SNAP: Unlearning Selective Knowledge in Large Language Models with Negative Instructions](https://arxiv.org/abs/2406.12329)
+- [Soft Prompting for Unlearning in Large Language Models](https://arxiv.org/abs/2406.12038)
+- [Split, Unlearn, Merge: Leveraging Data Attributes for More Effective Unlearning in LLMs](https://arxiv.org/abs/2406.11780)
+- [Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614)
+- [Avoiding Copyright Infringement via Machine Unlearning](https://arxiv.org/abs/2406.10952)
+- [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2406.10890)
+- [REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](https://arxiv.org/abs/2406.09325)
+- [Unlearning with Control: Assessing Real-world Utility for Large Language Model Unlearning](https://arxiv.org/abs/2406.09179)
+- [Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference](https://arxiv.org/abs/2406.08607)
+- [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/abs/2406.07933)
+- [Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning](https://arxiv.org/abs/2406.04076)
+- [Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)
+- [RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning Personal Information in Large Language Models](https://arxiv.org/abs/2406.01983)
+- [Toward Robust Unlearning for LLMs](https://openreview.net/forum?id=4rPzaUF6Ej)
+- [Unlearning Climate Misinformation in Large Language Models](https://arxiv.org/abs/2405.19563)
+- [Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720)
+- [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2405.12523)
+- [To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning in Large Language Models](https://arxiv.org/abs/2405.03097)
+- [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239)
+- [Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)
+- [Offset Unlearning for Large Language Models](https://arxiv.org/abs/2404.11045)
+- [Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://arxiv.org/abs/2404.05880)
+- [Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://arxiv.org/abs/2404.05868)
+- [Localizing Paragraph Memorization in Language Models](https://arxiv.org/abs/2403.19851)
+- [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://arxiv.org/abs/2403.03218)
+- [Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267)
+- [Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.10557)
+- [Ethos: Rectifying Language Models in Orthogonal Parameter Space](https://arxiv.org/abs/2403.08994)
+- [Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536)
+- [Guardrail Baselines for Unlearning in LLMs](https://arxiv.org/abs/2403.03329)
+- [Deciphering the Impact of Pretraining Data on Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.11537)
+- [Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination](https://arxiv.org/abs/2402.10052)
+- [Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)
+- [Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models](https://arxiv.org/abs/2402.05813)
+- [Unlearnable Algorithms for In-context Learning](https://arxiv.org/abs/2402.00751)
+- [Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159)
+- [Visual In-Context Learning for Large Vision-Language Models](https://arxiv.org/abs/2402.11574)
+- [EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2402.09801)
+- [Unlearning Reveals the Influential Training Data of Language Models](https://arxiv.org/abs/2401.15241)
+- [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121)
