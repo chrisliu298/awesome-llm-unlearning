@@ -32,6 +32,11 @@ As of the last commit, there are 128 papers, 10 surveys and position papers, and
 
 ### 2024
 
+- [Unlearning in- vs. out-of-distribution data in LLMs under gradient-based method](https://arxiv.org/abs/2411.04388)
+  - Author(s): Teodora Baluta, Pascal Lamblin, Daniel Tarlow, Fabian Pedregosa, Gintare Karolina Dziugaite
+  - Date: 2024-11
+  - Venue: NeurIPS 2024 Safe Generative AI Workshop
+  - Code: -
 - [Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset](https://arxiv.org/abs/2411.03554)
   - Author(s): Yingzi Ma, Jiongxiao Wang, Fei Wang, Siyuan Ma, Jiazhao Li, Xiujun Li, Furong Huang, Lichao Sun, Bo Li, Yejin Choi, Muhao Chen, Chaowei Xiao
   - Date: 2024-11
