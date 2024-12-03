@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **135** papers, **10** surveys and position papers, and **2** blog posts.
+As of the last commit, there are **134** papers, **10** surveys and position papers, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -57,11 +57,6 @@ As of the last commit, there are **135** papers, **10** surveys and position pap
   - Date: 2024-11
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JaiDoshi/Knowledge-Erasure)
-- [Provable unlearning in topic modeling and downstream tasks](https://arxiv.org/abs/2411.12600)
-  - Author(s): Stanley Wei, Sadhika Malladi, Sanjeev Arora, Amartya Sanyal
-  - Date: 2024-11
-  - Venue: -
-  - Code: -
 - [Unlearning in- vs. out-of-distribution data in LLMs under gradient-based method](https://arxiv.org/abs/2411.04388)
   - Author(s): Teodora Baluta, Pascal Lamblin, Daniel Tarlow, Fabian Pedregosa, Gintare Karolina Dziugaite
   - Date: 2024-11
