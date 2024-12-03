@@ -32,6 +32,26 @@ As of the last commit, there are **129** papers, **10** surveys and position pap
 
 ### 2024
 
+- [Unified Parameter-Efficient Unlearning for LLMs](https://arxiv.org/abs/2412.00383)
+  - Author(s): Chenlu Ding, Jiancan Wu, Yancheng Yuan, Jinda Lu, Kai Zhang, Alex Su, Xiang Wang, Xiangnan He
+  - Date: 2024-12
+  - Venue: -
+  - Code: -
+- [UOE: Unlearning One Expert Is Enough For Mixture-of-experts LLMS](https://arxiv.org/abs/2411.18797)
+  - Author(s): Haomin Zhuang, Yihua Zhang, Kehan Guo, Jinghan Jia, Gaowen Liu, Sijia Liu, Xiangliang Zhang
+  - Date: 2024-11
+  - Venue: -
+  - Code: -
+- [Towards Robust Evaluation of Unlearning in LLMs via Data Transformations](https://arxiv.org/abs/2411.15477)
+  - Author(s): Abhinav Joshi, Shaswati Saha, Divyaksh Shukla, Sriram Vema, Harsh Jhamtani, Manas Gaur, Ashutosh Modi
+  - Date: 2024-11
+  - Venue: EMNLP 2024 Findings
+  - Code: -
+- [Provable unlearning in topic modeling and downstream tasks](https://arxiv.org/abs/2411.12600)
+  - Author(s): Stanley Wei, Sadhika Malladi, Sanjeev Arora, Amartya Sanyal
+  - Date: 2024-11
+  - Venue: -
+  - Code: -
 - [Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods](https://arxiv.org/abs/2411.12103)
   - Author(s): Jai Doshi, Asa Cooper Stickland
   - Date: 2024-11
