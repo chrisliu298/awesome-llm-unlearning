@@ -32,6 +32,16 @@ As of the last commit, there are **134** papers, **10** surveys and position pap
 
 ### 2024
 
+- [Underestimated Privacy Risks for Minority Populations in Large Language Model Unlearning](https://arxiv.org/abs/2412.08559)
+  - Author(s): Rongzhe Wei, Mufei Li, Mohsen Ghassemi, Eleonora Kreačić, Yifan Li, Xiang Yue, Bo Li, Vamsi K. Potluru, Pan Li, Eli Chien
+  - Date: 2024-12
+  - Venue: -
+  - Code: -
+- [Classifier-free guidance in LLMs Safety](https://arxiv.org/abs/2412.06846)
+  - Author(s): Roman Smirnov
+  - Date: 2024-12
+  - Venue: -
+  - Code: -
 - [Unified Parameter-Efficient Unlearning for LLMs](https://arxiv.org/abs/2412.00383)
   - Author(s): Chenlu Ding, Jiancan Wu, Yancheng Yuan, Jinda Lu, Kai Zhang, Alex Su, Xiang Wang, Xiangnan He
   - Date: 2024-12
