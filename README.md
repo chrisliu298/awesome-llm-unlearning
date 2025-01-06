@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **136** papers, **10** surveys and position papers, and **2** blog posts.
+As of the last commit, there are **139** papers, **10** surveys and position papers, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -32,6 +32,21 @@ As of the last commit, there are **136** papers, **10** surveys and position pap
 
 ### 2024
 
+- [Multi-Objective Large Language Model Unlearning](https://arxiv.org/abs/2412.20412)
+  - Author(s): Zibin Pan, Shuwen Zhang, Yuesheng Zheng, Chi Li, Yuheng Cheng, Junhua Zhao
+  - Date: 2024-12
+  - Venue: -
+  - Code: -
+- [Investigating the Feasibility of Mitigating Potential Copyright Infringement via Large Language Model Unlearning](https://arxiv.org/abs/2412.18621)
+  - Author(s): Guangyao Dou
+  - Date: 2024-12
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/guangyaodou/SSU_Unlearn)
+- [Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration](https://arxiv.org/abs/2412.13551)
+  - Author(s): Xuhan Zuo, Minghao Wang, Tianqing Zhu, Shui Yu, Wanlei Zhou
+  - Date: 2024-12
+  - Venue: -
+  - Code: -
 - [Underestimated Privacy Risks for Minority Populations in Large Language Model Unlearning](https://arxiv.org/abs/2412.08559)
   - Author(s): Rongzhe Wei, Mufei Li, Mohsen Ghassemi, Eleonora Kreačić, Yifan Li, Xiang Yue, Bo Li, Vamsi K. Potluru, Pan Li, Eli Chien
   - Date: 2024-12
