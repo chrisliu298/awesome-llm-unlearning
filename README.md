@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **139** papers, **10** surveys and position papers, and **2** blog posts.
+As of the last commit, there are **140** papers, **10** surveys and position papers, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -32,6 +32,11 @@ As of the last commit, there are **139** papers, **10** surveys and position pap
 
 ### 2024
 
+- [Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models](https://arxiv.org/abs/2501.03272)
+  - Author(s): Peihai Jiang, Xixiang Lyu, Yige Li, Jing Ma
+  - Date: 2025-01
+  - Venue: -
+  - Code: -
 - [Multi-Objective Large Language Model Unlearning](https://arxiv.org/abs/2412.20412)
   - Author(s): Zibin Pan, Shuwen Zhang, Yuesheng Zheng, Chi Li, Yuheng Cheng, Junhua Zhao
   - Date: 2024-12
