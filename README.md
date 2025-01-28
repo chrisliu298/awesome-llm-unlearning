@@ -100,7 +100,7 @@ As of the last commit, there are **140** papers, **10** surveys and position pap
 - [Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/abs/2411.02631)
   - Author(s): Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann
   - Date: 2024-11
-  - Venue: - I dont know 
+  - Venue: - 
   - Code: -
 - [RESTOR: Knowledge Recovery through Machine Unlearning](https://arxiv.org/abs/2411.00204)
   - Author(s): Keivan Rezaei, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
