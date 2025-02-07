@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **140** papers, **10** surveys and position papers, and **2** blog posts.
+As of the last commit, there are **145** papers, **12** surveys and position papers, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -19,6 +19,7 @@ As of the last commit, there are **140** papers, **10** surveys and position pap
 
 - [Table of Contents](#table-of-contents)
 - [Papers](#papers)
+  - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
@@ -30,13 +31,41 @@ As of the last commit, there are **140** papers, **10** surveys and position pap
 
 ## Papers
 
-### 2024
+### 2025
 
+- [FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](https://arxiv.org/abs/2502.01472)
+  - Author(s): Jinwei Hu, Zhenglin Huang, Xiangyu Yin, Wenjie Ruan, Guangliang Cheng, Yi Dong, Xiaowei Huang
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [Tool Unlearning for Tool-Augmented LLMs](https://arxiv.org/abs/2502.01083)
+  - Author(s): Jiali Cheng, Hadi Amiri
+  - Date: 2025-02
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CLU-UML/MU-Bench)
+- [ALU: Agentic LLM Unlearning](https://arxiv.org/abs/2502.00406)
+  - Author(s): Debdeep Sanyal, Murari Mandal
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [Resolving Editing-Unlearning Conflicts: A Knowledge Codebook Framework for Large Language Model Updating](https://arxiv.org/abs/2502.00158)
+  - Author(s): Binchi Zhang, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [Improving the Robustness of Representation Misdirection for Large Language Model Unlearning](https://arxiv.org/abs/2501.19202)
+  - Author(s): Dang Huu-Tien, Hoang Thanh-Tung, Le-Minh Nguyen, Naoya Inoue
+  - Date: 2025-01
+  - Venue: -
+  - Code: -
 - [Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models](https://arxiv.org/abs/2501.03272)
   - Author(s): Peihai Jiang, Xixiang Lyu, Yige Li, Jing Ma
   - Date: 2025-01
   - Venue: -
   - Code: -
+
+### 2024
+
 - [Multi-Objective Large Language Model Unlearning](https://arxiv.org/abs/2412.20412)
   - Author(s): Zibin Pan, Shuwen Zhang, Yuesheng Zheng, Chi Li, Yuheng Cheng, Junhua Zhao
   - Date: 2024-12
@@ -751,6 +780,14 @@ As of the last commit, there are **140** papers, **10** surveys and position pap
 
 ### 2024
 
+- [Open Problems in Machine Unlearning for AI Safety](https://arxiv.org/abs/2501.04952)
+  - Author(s): Fazl Barez, Tingchen Fu, Ameya Prabhu, Stephen Casper, Amartya Sanyal, Adel Bibi, Aidan O'Gara, Robert Kirk, Ben Bucknall, Tim Fist, Luke Ong, Philip Torr, Kwok-Yan Lam, Robert Trager, David Krueger, Sören Mindermann, José Hernandez-Orallo, Mor Geva, Yarin Gal
+  - Date: 2025-01
+  - Venue: -
+- [Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy, Research, and Practice](https://arxiv.org/abs/2412.06966)
+  - Author(s): A. Feder Cooper, Christopher A. Choquette-Choo, Miranda Bogen, Matthew Jagielski, Katja Filippova, Ken Ziyu Liu, Alexandra Chouldechova, Jamie Hayes, Yangsibo Huang, Niloofar Mireshghallah, Ilia Shumailov, Eleni Triantafillou, Peter Kairouz, Nicole Mitchell, Percy Liang, Daniel E. Ho, Yejin Choi, Sanmi Koyejo, Fernando Delgado, James Grimmelmann, Vitaly Shmatikov, Christopher De Sa, Solon Barocas, Amy Cyphert, Mark Lemley, danah boyd, Jennifer Wortman Vaughan, Miles Brundage, David Bau, Seth Neel, Abigail Z. Jacobs, Andreas Terzis, Hanna Wallach, Nicolas Papernot, Katherine Lee
+  - Date: 2024-12
+  - Venue: -
 - [Position: LLM Unlearning Benchmarks are Weak Measures of Progress](https://arxiv.org/abs/2410.02879)
   - Author(s): Pratiksha Thaker, Shengyuan Hu, Neil Kale, Yash Maurya, Zhiwei Steven Wu, Virginia Smith
   - Date: 2024-10
