@@ -19,6 +19,7 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
 
 - [Table of Contents](#table-of-contents)
 - [Papers](#papers)
+  - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
@@ -30,7 +31,7 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
 
 ## Papers
 
-### 2024
+### 2025
 
 - [FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](https://arxiv.org/abs/2502.01472)
   - Author(s): Jinwei Hu, Zhenglin Huang, Xiangyu Yin, Wenjie Ruan, Guangliang Cheng, Yi Dong, Xiaowei Huang
@@ -62,6 +63,9 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
   - Date: 2025-01
   - Venue: -
   - Code: -
+
+### 2024
+
 - [Multi-Objective Large Language Model Unlearning](https://arxiv.org/abs/2412.20412)
   - Author(s): Zibin Pan, Shuwen Zhang, Yuesheng Zheng, Chi Li, Yuheng Cheng, Junhua Zhao
   - Date: 2024-12
@@ -125,7 +129,7 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
 - [Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/abs/2411.02631)
   - Author(s): Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann
   - Date: 2024-11
-  - Venue: - 
+  - Venue: -
   - Code: -
 - [RESTOR: Knowledge Recovery through Machine Unlearning](https://arxiv.org/abs/2411.00204)
   - Author(s): Keivan Rezaei, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
