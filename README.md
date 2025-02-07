@@ -32,6 +32,31 @@ As of the last commit, there are **140** papers, **10** surveys and position pap
 
 ### 2024
 
+- [FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](https://arxiv.org/abs/2502.01472)
+  - Author(s): Jinwei Hu, Zhenglin Huang, Xiangyu Yin, Wenjie Ruan, Guangliang Cheng, Yi Dong, Xiaowei Huang
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [Tool Unlearning for Tool-Augmented LLMs](https://arxiv.org/abs/2502.01083)
+  - Author(s): Jiali Cheng, Hadi Amiri
+  - Date: 2025-02
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CLU-UML/MU-Bench)
+- [ALU: Agentic LLM Unlearning](https://arxiv.org/abs/2502.00406)
+  - Author(s): Debdeep Sanyal, Murari Mandal
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [Resolving Editing-Unlearning Conflicts: A Knowledge Codebook Framework for Large Language Model Updating](https://arxiv.org/abs/2502.00158)
+  - Author(s): Binchi Zhang, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [Improving the Robustness of Representation Misdirection for Large Language Model Unlearning](https://arxiv.org/abs/2501.19202)
+  - Author(s): Dang Huu-Tien, Hoang Thanh-Tung, Le-Minh Nguyen, Naoya Inoue
+  - Date: 2025-01
+  - Venue: -
+  - Code: -
 - [Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models](https://arxiv.org/abs/2501.03272)
   - Author(s): Peihai Jiang, Xixiang Lyu, Yige Li, Jing Ma
   - Date: 2025-01
