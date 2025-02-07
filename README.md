@@ -125,7 +125,7 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
 - [Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/abs/2411.02631)
   - Author(s): Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann
   - Date: 2024-11
-  - Venue: -
+  - Venue: - 
   - Code: -
 - [RESTOR: Knowledge Recovery through Machine Unlearning](https://arxiv.org/abs/2411.00204)
   - Author(s): Keivan Rezaei, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
@@ -347,10 +347,10 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
   - Date: 2024-07
   - Venue: -
   - Code: -
-- [Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective](https://arxiv.org/abs/2407.16997)
+- [Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective](https://aclanthology.org/2024.emnlp-main.495/)
   - Author(s): Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
   - Date: 2024-07
-  - Venue: -
+  - Venue: - EMNLP 2024
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UCSB-NLP-Chang/causal_unlearn.git)
 - [Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation](https://arxiv.org/abs/2407.16951)
   - Author(s): Huimin Lu, Masaru Isonuma, Junichiro Mori, Ichiro Sakata
@@ -382,11 +382,11 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
   - Date: 2024-07
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hartvigsen-group/composable-interventions)
-- [MUSE: Machine Unlearning Six-Way Evaluation for Language Models](https://arxiv.org/abs/2407.06460)
+- [MUSE: Machine Unlearning Six-Way Evaluation for Language Models](https://openreview.net/forum?id=TArmA033BU)
   - Author(s): Weijia Shi, Jaechan Lee, Yangsibo Huang, Sadhika Malladi, Jieyu Zhao, Ari Holtzman, Daogao Liu, Luke Zettlemoyer, Noah A. Smith, Chiyuan Zhang
   - Date: 2024-07
-  - Venue: -
-  - Code: -
+  - Venue: - ICML 2024
+  - Code: -[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://muse-bench.github.io/)
 - [If You Don't Understand It, Don't Use It: Eliminating Trojans with Filters Between Layers](https://arxiv.org/abs/2407.06411)
   - Author(s): Adriano Hernandez
   - Date: 2024-07
@@ -400,7 +400,7 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
 - [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2407.01920)
   - Author(s): Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang
   - Date: 2024-07
-  - Venue: -
+  - Venue: - EMNLP Findings 2024
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zjunlp/KnowUnDo)
 - [Can Small Language Models Learn, Unlearn, and Retain Noise Patterns?](https://arxiv.org/abs/2407.00996)
   - Author(s): Nicy Scaria, Silvester John Joseph Kennedy, Deepak Subramani
@@ -502,10 +502,10 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
   - Date: 2024-06
   - Venue: -
   - Code: -
-- [Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)
+- [Can Textual Unlearning Solve Cross-Modality Safety Alignment?](https://aclanthology.org/2024.findings-emnlp.574/)
   - Author(s): Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M. Salman Asif, Yue Dong, Amit K. Roy-Chowdhury, Chengyu Song
   - Date: 2024-06
-  - Venue: -
+  - Venue: - EMNLP Findings 2024
   - Code: -
 - [RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning Personal Information in Large Language Models](https://arxiv.org/abs/2406.01983)
   - Author(s): Bichen Wang, Yuzhe Zi, Yixin Sun, Yanyan Zhao, Bing Qin
@@ -537,10 +537,10 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
   - Date: 2024-05
   - Venue: ICML 2024
   - Code: -
-- [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239)
+- [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://aclanthology.org/2024.emnlp-main.245/)
   - Author(s): Jinghan Jia, Yihua Zhang, Yimeng Zhang, Jiancheng Liu, Bharat Runwal, James Diffenderfer, Bhavya Kailkhura, Sijia Liu
   - Date: 2024-04
-  - Venue: -
+  - Venue: - EMNLP 2024
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/SOUL)
 - [Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)
   - Author(s): Kongyang Chen, Zixin Wang, Bing Mi, Waixi Liu, Shaowei Wang, Xiaojun Ren, Jiaxing Shen
@@ -632,11 +632,11 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
   - Date: 2024-02
   - Venue: -
   - Code: -
-- [EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2402.09801)
+- [EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://aclanthology.org/2024.emnlp-main.67/)
   - Author(s): Shangyu Xing, Fei Zhao, Zhen Wu, Tuo An, Weihao Chen, Chunhui Li, Jianbing Zhang, Xinyu Dai
   - Date: 2024-02
-  - Venue: -
-  - Code: -
+  - Venue: - EMNLP 2024
+  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/starreeze/efuf)
 - [Unlearning Reveals the Influential Training Data of Language Models](https://arxiv.org/abs/2401.15241)
   - Author(s): Masaru Isonuma, Ivan Titov
   - Date: 2024-01
@@ -683,8 +683,8 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
 - [In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)
   - Author(s): Martin Pawelczyk, Seth Neel, Himabindu Lakkaraju
   - Date: 2023-10
-  - Venue: -
-  - Code: -
+  - Venue: - ICML 2024
+  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MartinPawel/In-Context-Unlearning)
 - [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)
   - Author(s): Yuanshun Yao, Xiaojun Xu, Yang Liu
   - Date: 2023-10
