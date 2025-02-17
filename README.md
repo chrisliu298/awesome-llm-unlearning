@@ -25,6 +25,7 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
   - [2022](#2022)
   - [2021](#2021)
 - [Surveys and Position Papers](#surveys-and-position-papers)
+  - [2025](#2025-1)
   - [2024](#2024-1)
   - [2023](#2023-1)
 - [Blog Posts](#blog-posts)
@@ -778,12 +779,15 @@ As of the last commit, there are **145** papers, **12** surveys and position pap
 
 ## Surveys and Position Papers
 
-### 2024
+### 2025
 
 - [Open Problems in Machine Unlearning for AI Safety](https://arxiv.org/abs/2501.04952)
   - Author(s): Fazl Barez, Tingchen Fu, Ameya Prabhu, Stephen Casper, Amartya Sanyal, Adel Bibi, Aidan O'Gara, Robert Kirk, Ben Bucknall, Tim Fist, Luke Ong, Philip Torr, Kwok-Yan Lam, Robert Trager, David Krueger, Sören Mindermann, José Hernandez-Orallo, Mor Geva, Yarin Gal
   - Date: 2025-01
   - Venue: -
+
+### 2024
+
 - [Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy, Research, and Practice](https://arxiv.org/abs/2412.06966)
   - Author(s): A. Feder Cooper, Christopher A. Choquette-Choo, Miranda Bogen, Matthew Jagielski, Katja Filippova, Ken Ziyu Liu, Alexandra Chouldechova, Jamie Hayes, Yangsibo Huang, Niloofar Mireshghallah, Ilia Shumailov, Eleni Triantafillou, Peter Kairouz, Nicole Mitchell, Percy Liang, Daniel E. Ho, Yejin Choi, Sanmi Koyejo, Fernando Delgado, James Grimmelmann, Vitaly Shmatikov, Christopher De Sa, Solon Barocas, Amy Cyphert, Mark Lemley, danah boyd, Jennifer Wortman Vaughan, Miles Brundage, David Bau, Seth Neel, Abigail Z. Jacobs, Andreas Terzis, Hanna Wallach, Nicolas Papernot, Katherine Lee
   - Date: 2024-12
