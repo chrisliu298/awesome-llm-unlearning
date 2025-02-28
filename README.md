@@ -33,7 +33,11 @@ As of the last commit, there are **161** papers, **12** surveys and position pap
 ## Papers
 
 ### 2025
-
+- [Open Unlearning](https://github.com/locuslab/open-unlearning)
+  - Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
+  - Date: 2025-02
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/locuslab/open-unlearning)
 - [A General Framework to Enhance Fine-tuning-based LLM Unlearning](https://arxiv.org/abs/2502.17823)
   - Author(s): Jie Ren, Zhenwei Dai, Xianfeng Tang, Hui Liu, Jingying Zeng, Zhen Li, Rahul Goutam, Suhang Wang, Yue Xing, Qi He, Hui Liu
   - Date: 2025-02
