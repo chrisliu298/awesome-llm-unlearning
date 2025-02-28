@@ -18,6 +18,7 @@ As of the last commit, there are **161** papers, **12** surveys and position pap
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Frameworks](#frameworks)
 - [Papers](#papers)
   - [2025](#2025)
   - [2024](#2024)
@@ -30,14 +31,16 @@ As of the last commit, there are **161** papers, **12** surveys and position pap
   - [2023](#2023-1)
 - [Blog Posts](#blog-posts)
 
-## Papers
-
-### 2025
+## Frameworks
 - [Open Unlearning](https://github.com/locuslab/open-unlearning)
   - Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   - Date: 2025-02
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/locuslab/open-unlearning)
+  
+## Papers
+
+### 2025
 - [A General Framework to Enhance Fine-tuning-based LLM Unlearning](https://arxiv.org/abs/2502.17823)
   - Author(s): Jie Ren, Zhenwei Dai, Xianfeng Tang, Hui Liu, Jingying Zeng, Zhen Li, Rahul Goutam, Suhang Wang, Yue Xing, Qi He, Hui Liu
   - Date: 2025-02
