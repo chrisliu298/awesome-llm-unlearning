@@ -349,11 +349,11 @@ As of the last commit, there are **161** papers, **12** surveys and position pap
   - Date: 2024-09
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ethz-spylab/unlearning-vs-safety)
-- [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/abs/2409.13474)
+- [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://aclanthology.org/2025.coling-main.252/)
   - Author(s): Anmol Mekala, Vineeth Dorna, Shreya Dubey, Abhishek Lalwani, David Koleczek, Mukund Rungta, Sadid Hasan, Elita Lobo
   - Date: 2024-09
-  - Venue: -
-  - Code: -
+  - Venue: COLING 2025
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/molereddy/Alternate-Preference-Optimization/tree/main)
 - [LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models](https://arxiv.org/abs/2409.13054)
   - Author(s): Akshaj Kumar Veldanda, Shi-Xiong Zhang, Anirban Das, Supriyo Chakraborty, Stephen Rawls, Sambit Sahu, Milind Naphade
   - Date: 2024-09
