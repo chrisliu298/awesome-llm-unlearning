@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **161** papers, **12** surveys and position papers, and **2** blog posts.
+As of the last commit, there are **171** papers, **13** surveys and position papers, **1** framework, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -18,7 +18,6 @@ As of the last commit, there are **161** papers, **12** surveys and position pap
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Frameworks](#frameworks)
 - [Papers](#papers)
   - [2025](#2025)
   - [2024](#2024)
@@ -29,18 +28,58 @@ As of the last commit, there are **161** papers, **12** surveys and position pap
   - [2025](#2025-1)
   - [2024](#2024-1)
   - [2023](#2023-1)
+- [Frameworks](#frameworks)
 - [Blog Posts](#blog-posts)
-
-## Frameworks
-- [Open Unlearning](https://github.com/locuslab/open-unlearning)
-  - Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
-  - Date: 2025-02
-  - Venue: -
-  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/locuslab/open-unlearning)
   
 ## Papers
 
 ### 2025
+
+- [UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets](https://arxiv.org/abs/2503.04693)
+  - Author(s): Wenyu Wang, Mengqi Zhang, Xiaotian Ye, Zhaochun Ren, Zhumin Chen, Pengjie Ren
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [Improving LLM Safety Alignment with Dual-Objective Optimization](https://arxiv.org/abs/2503.03710)
+  - Author(s): Xuandong Zhao, Will Cai, Tianneng Shi, David Huang, Licong Lin, Song Mei, Dawn Song
+  - Date: 2025-03
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wicai24/DOOR-Alignment)
+- [AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking](https://arxiv.org/abs/2503.02443)
+  - Author(s): Iraklis Premptis, Maria Lymperaiou, Giorgos Filandrianos, Orfeas Menis Mastromichalakis, Athanasios Voulodimos, Giorgos Stamou
+  - Date: 2025-03
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iraklis07/llm-unlearning)
+- [CE-U: Cross Entropy Unlearning](https://arxiv.org/abs/2503.01224)
+  - Author(s): Bo Yang
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [Erasing Without Remembering: Safeguarding Knowledge Forgetting in Large Language Models](https://arxiv.org/abs/2502.19982)
+  - Author(s): Huazheng Wang, Yongcheng Jing, Haifeng Sun, Yingjie Wang, Jingyu Wang, Jianxin Liao, Dacheng Tao
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training](https://arxiv.org/abs/2502.19726)
+  - Author(s): Toan Tran, Ruixuan Liu, Li Xiong
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond](https://arxiv.org/abs/2502.19301)
+  - Author(s): Qizhou Wang, Jin Peng Zhou, Zhanke Zhou, Saebyeol Shin, Bo Han, Kilian Q. Weinberger
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge](https://arxiv.org/abs/2502.19207)
+  - Author(s): Nakyeong Yang, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
+- [Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph Traversal and Redundancy Removal](https://arxiv.org/abs/2502.18810)
+  - Author(s): Weipeng Jiang, Juan Zhai, Shiqing Ma, Ziyan Lei, Xiaofei Xie, Yige Wang, Chao Shen
+  - Date: 2025-02
+  - Venue: -
+  - Code: -
 - [A General Framework to Enhance Fine-tuning-based LLM Unlearning](https://arxiv.org/abs/2502.17823)
   - Author(s): Jie Ren, Zhenwei Dai, Xianfeng Tang, Hui Liu, Jingying Zeng, Zhen Li, Rahul Goutam, Suhang Wang, Yue Xing, Qi He, Hui Liu
   - Date: 2025-02
@@ -868,6 +907,10 @@ As of the last commit, there are **161** papers, **12** surveys and position pap
 
 ### 2025
 
+- [A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://arxiv.org/abs/2503.01854)
+  - Author(s): Jiahui Geng, Qing Li, Herbert Woisetschlaeger, Zongxiong Chen, Yuxia Wang, Preslav Nakov, Hans-Arno Jacobsen, Fakhri Karray
+  - Date: 2025-03
+  - Venue: -
 - [Open Problems in Machine Unlearning for AI Safety](https://arxiv.org/abs/2501.04952)
   - Author(s): Fazl Barez, Tingchen Fu, Ameya Prabhu, Stephen Casper, Amartya Sanyal, Adel Bibi, Aidan O'Gara, Robert Kirk, Ben Bucknall, Tim Fist, Luke Ong, Philip Torr, Kwok-Yan Lam, Robert Trager, David Krueger, Sören Mindermann, José Hernandez-Orallo, Mor Geva, Yarin Gal
   - Date: 2025-01
@@ -922,6 +965,14 @@ As of the last commit, there are **161** papers, **12** surveys and position pap
   - Author(s): Dawen Zhang, Pamela Finckenberg-Broman, Thong Hoang, Shidong Pan, Zhenchang Xing, Mark Staples, Xiwei Xu
   - Date: 2023-07
   - Venue: -
+
+## Frameworks
+
+- [Open Unlearning](https://github.com/locuslab/open-unlearning)
+  - Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
+  - Date: 2025-02
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/locuslab/open-unlearning)
 
 ## Blog Posts
 
