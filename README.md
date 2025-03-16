@@ -88,7 +88,7 @@ As of the last commit, there are **171** papers, **13** surveys and position pap
 - [Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond](https://arxiv.org/abs/2502.19301)
   - Author(s): Qizhou Wang, Jin Peng Zhou, Zhanke Zhou, Saebyeol Shin, Bo Han, Kilian Q. Weinberger
   - Date: 2025-02
-  - Venue: -
+  - Venue: ICLR 2025
   - Code: -
 - [FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge](https://arxiv.org/abs/2502.19207)
   - Author(s): Nakyeong Yang, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung
