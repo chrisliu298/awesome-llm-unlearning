@@ -35,6 +35,26 @@ As of the last commit, there are **171** papers, **13** surveys and position pap
 
 ### 2025
 
+- [Catastrophic Failure of LLM Unlearning via Quantization](https://arxiv.org/pdf/2410.16454)
+  - Author(s): Zhiwei Zhang, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang
+  - Date: 2025-03
+  - Venue: ICLR 2025
+  - Code: -
+- [On Large Language Model Continual Unlearning](https://arxiv.org/pdf/2407.10223)
+  - Author(s): Chongyang Gao, Lixu Wang, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
+  - Date: 2025-03
+  - Venue: ICLR 2025
+  - Code: -
+- [Unlearning or Obfuscating? Jogging the Memory of Unlearned LLMs via Benign Relearning](https://openreview.net/pdf?id=fMNRYBvcQN)
+  - Author(s): Shengyuan Hu, Yiwei Fu, Steven Wu, Virginia Smith
+  - Date: 2025-03
+  - Venue: ICLR 2025
+  - Code: -
+- [Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs](https://openreview.net/pdf?id=1ExfUpmIW4)
+  - Author(s): Sungmin Cha, Sungjun Cho, Dasol Hwang, Moontae Lee
+  - Date: 2025-03
+  - Venue: ICLR 2025
+  - Code: -
 - [UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets](https://arxiv.org/abs/2503.04693)
   - Author(s): Wenyu Wang, Mengqi Zhang, Xiaotian Ye, Zhaochun Ren, Zhumin Chen, Pengjie Ren
   - Date: 2025-03
