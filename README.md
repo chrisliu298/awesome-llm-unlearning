@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **171** papers, **13** surveys and position papers, **1** framework, and **2** blog posts.
+As of the last commit, there are **184** papers, **13** surveys and position papers, **1** framework, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -35,6 +35,71 @@ As of the last commit, there are **171** papers, **13** surveys and position pap
 
 ### 2025
 
+- [Effective Skill Unlearning through Intervention and Abstention](https://arxiv.org/abs/2503.21730)
+  - Author(s): Yongce Li, Chung-En Sun, Tsui-Wei Weng
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging](https://arxiv.org/abs/2503.21088)
+  - Author(s): Haoming Xu, Shuxun Wang, Yanqiu Zhao, Yi Zhong, Ziyan Jiang, Ningyuan Zhao, Shumin Deng, Huajun Chen, Ningyu Zhang
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU](https://arxiv.org/abs/2503.15166)
+  - Author(s): Àlex Pujol Vidal, Sergio Escalera, Kamal Nasrollahi, Thomas B. Moeslund
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [Deep Contrastive Unlearning for Language Models](https://arxiv.org/abs/2503.14900)
+  - Author(s): Estrid He, Tabinda Sarwar, Ibrahim Khalil, Xun Yi, Ke Wang
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders](https://arxiv.org/abs/2503.14530)
+  - Author(s): Qing Li, Jiahui Geng, Derui Zhu, Fengyu Cai, Chenyang Lyu, Fakhri Karray
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [Atyaephyra at SemEval-2025 Task 4: Low-Rank NPO](https://arxiv.org/abs/2503.13690)
+  - Author(s): Jan Bronec, Jindřich Helcl
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2503.12545)
+  - Author(s): Zhaopan Xu, Pengfei Zhou, Weidong Tang, Jiaxin Ai, Wangbo Zhao, Xiaojiang Peng, Kai Wang, Yang You, Wenqi Shao, Hongxun Yao, Kaipeng Zhang
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/abs/2503.12127)
+  - Author(s): Tobia Poppi, Tejaswi Kasarla, Pascal Mettes, Lorenzo Baraldi, Rita Cucchiara
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-tuning](https://arxiv.org/abs/2503.11832)
+  - Author(s): Yiwei Chen, Yuguang Yao, Yihua Zhang, Bingquan Shen, Gaowen Liu, Sijia Liu
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [Don't Forget It! Conditional Sparse Autoencoder Clamping Works for Unlearning](https://arxiv.org/abs/2503.11127)
+  - Author(s): Matthew Khoriaty, Andrii Shportko, Gustavo Mercier, Zach Wood-Doughty
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability](https://arxiv.org/abs/2503.09532)
+  - Author(s): Adam Karvonen, Can Rager, Johnny Lin, Curt Tigges, Joseph Bloom, David Chanin, Yeu-Tong Lau, Eoin Farrell, Callum McDougall, Kola Ayonrinde, Matthew Wearden, Arthur Conmy, Samuel Marks, Neel Nanda
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models](https://arxiv.org/abs/2503.09117)
+  - Author(s): Yue Wang, Qizhou Wang, Feng Liu, Wei Huang, Yali Du, Xiaojiang Du, Bo Han
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
+- [Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The Balancing Act of Selective Unlearning in Large Language Models](https://arxiv.org/abs/2503.04795)
+  - Author(s): Dinesh Srivasthav P, Bala Mallikarjunarao Garlapati
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
 - [UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets](https://arxiv.org/abs/2503.04693)
   - Author(s): Wenyu Wang, Mengqi Zhang, Xiaotian Ye, Zhaochun Ren, Zhumin Chen, Pengjie Ren
   - Date: 2025-03
