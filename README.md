@@ -35,6 +35,156 @@ As of the last commit, there are **184** papers, **13** surveys and position pap
 
 ### 2025
 
+- [Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs](https://arxiv.org/abs/2505.16831)
+  - Author(s): Xiaoyu Xu, Xiang Yue, Yang Liu, Qingqing Ye, Haibo Hu, Minxin Du
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
+- [CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning](https://arxiv.org/abs/2505.16559)
+  - Author(s): Biao Yi, Tiansheng Huang, Baolei Zhang, Tong Li, Lihai Nie, Zheli Liu, Li Shen
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
+- [Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models](https://arxiv.org/abs/2505.16252)
+  - Author(s): Hwiyeong Lee, Uiji Hwang, Hyelim Lim, Taeuk Kim
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
+- [Losing is for Cherishing: Data Valuation Based on Machine Unlearning and Shapley Value](https://arxiv.org/abs/2505.16147)
+  - Author(s): Le Ma, Shirao Yang, Zihao Wang, Yinggui Wang, Lei Wang, Tao Wei, Kejun Zhang
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
+- [UniErase: Unlearning Token as a Universal Erasure Primitive for Language Models](https://arxiv.org/abs/2505.15674)
+  - Author(s): Miao Yu, Liang Lin, Guibin Zhang, Xinfeng Li, Junfeng Fang, Ningyu Zhang, Kun Wang, Yang Wang
+  - Date: 2025-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ymm-cll/UniErase)
+- [R-TOFU: Unlearning in Large Reasoning Models](https://arxiv.org/abs/2505.15214)
+  - Author(s): Sangyeon Yoon, Wonje Jeung, Albert No
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
+- [DUSK: Do Not Unlearn Shared Knowledge](https://arxiv.org/abs/2505.15209)
+  - Author(s): Wonje Jeung, Sangyeon Yoon, Hyesoo Hong, Soeun Kim, Seungju Han, Youngjae Yu, Albert No
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
+- [SEPS: A Separability Measure for Robust Unlearning in LLMs](https://arxiv.org/abs/2505.14832)
+  - Author(s): Wonje Jeung, Sangyeon Yoon, Albert No
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
+- [GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection](https://arxiv.org/abs/2505.13312)
+  - Author(s): Zhijie Deng, Chris Yuhao Liu, Zirui Pang, Xinlei He, Lei Feng, Qi Xuan, Zhaowei Zhu, Jiaheng Wei
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
+- [Exploring Criteria of Loss Reweighting to Enhance LLM Unlearning](https://arxiv.org/abs/2505.11953)
+  - Author(s): Puning Yang, Qizhou Wang, Zhuo Huang, Tongliang Liu, Chengqi Zhang, Bo Han
+  - Date: 2025-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Puning97/SatImp-for-LLM-Unlearning)
+- [Layered Unlearning for Adversarial Relearning](https://arxiv.org/abs/2505.09500)
+  - Author(s): Timothy Qian, Vinith Suriyakumar, Ashia Wilson, Dylan Hadfield-Menell
+  - Date: 2025-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/12tqian/layered-unlearning)
+- [Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation](https://arxiv.org/abs/2505.06027)
+  - Author(s): Stefan Vasilev, Christian Herold, Baohao Liao, Seyyed Hadi Hashemi, Shahram Khadivi, Christof Monz
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
+- [WaterDrum: Watermarking for Data-centric Unlearning Metric](https://arxiv.org/abs/2505.05064)
+  - Author(s): Xinyang Lu, Xinyuan Niu, Gregory Kang Ruey Lau, Bui Thi Cam Nhung, Rachael Hwee Ling Sim, Fanyu Wen, Chuan-Sheng Foo, See-Kiong Ng, Bryan Kian Hsiang Low
+  - Date: 2025-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lululu008/WaterDrum)
+- [OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models](https://arxiv.org/abs/2505.04416)
+  - Author(s): Xiaoyu Xu, Minxin Du, Qingqing Ye, Haibo Hu
+  - Date: 2025-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://anonymous.4open.science/r/OBLIVIATE_unlearning_LLM-0C84)
+- [Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?](https://arxiv.org/abs/2505.02884)
+  - Author(s): Guangzhi Sun, Potsawee Manakul, Xiao Zhan, Mark Gales
+  - Date: 2025-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/potsawee/unlearning-hallu/tree/mcq)
+- [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://arxiv.org/abs/2505.01456)
+  - Author(s): Vaidehi Patil, Yi-Lin Sung, Peter Hase, Jie Peng, Tianlong Chen, Mohit Bansal
+  - Date: 2025-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vaidehi99/UnLOK-VQA)
+- [AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security](https://arxiv.org/abs/2504.20965)
+  - Author(s): Zikui Cai, Shayan Shabihi, Bang An, Zora Che, Brian R. Bartoldson, Bhavya Kailkhura, Tom Goldstein, Furong Huang
+  - Date: 2025-04
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zikuicai/aegisllm)
+- [DualOptim: Enhancing Efficacy and Stability in Machine Unlearning with Dual Optimizers](https://arxiv.org/abs/2504.15827)
+  - Author(s): Xuyang Zhong, Haochen Luo, Chen Liu
+  - Date: 2025-04
+  - Venue: -
+  - Code: -
+- [ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training Data](https://arxiv.org/abs/2504.14452)
+  - Author(s): Tong Chen, Faeze Brahman, Jiacheng Liu, Niloofar Mireshghallah, Weijia Shi, Pang Wei Koh, Luke Zettlemoyer, Hannaneh Hajishirzi
+  - Date: 2025-04
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/chentong0/ParaPO)
+- [DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs](https://arxiv.org/abs/2504.13774)
+  - Author(s): Tamim Al Mahmud, Najeeb Jebreel, Josep Domingo-Ferrer, David Sanchez
+  - Date: 2025-04
+  - Venue: -
+  - Code: -
+- [A mean teacher algorithm for unlearning of language models](https://arxiv.org/abs/2504.13388)
+  - Author(s): Yegor Klochkov
+  - Date: 2025-04
+  - Venue: -
+  - Code: -
+- [GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681)
+  - Author(s): Kun-Woo Kim, Ji-Hoon Park, Ju-Min Han, Seong-Whan Lee
+  - Date: 2025-04
+  - Venue: -
+  - Code: -
+- [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://arxiv.org/abs/2504.10957)
+  - Author(s): Hongkang Li, Yihua Zhang, Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen
+  - Date: 2025-04
+  - Venue: -
+  - Code: ICLR 2025
+- [LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks](https://arxiv.org/abs/2504.10185)
+  - Author(s): Soumyadeep Pal, Changsheng Wang, James Diffenderfer, Bhavya Kailkhura, Sijia Liu
+  - Date: 2025-04
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/MU-Coreset)
+- [SAEs $\textit{Can}$ Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs](https://arxiv.org/abs/2504.08192)
+  - Author(s): Aashiq Muhamed, Jacopo Bonato, Mona Diab, Virginia Smith
+  - Date: 2025-04
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aashiqmuhamed/DynamicSAEGuardrails)
+- [Bridging the Gap Between Preference Alignment and Machine Unlearning](https://arxiv.org/abs/2504.06659)
+  - Author(s): Xiaohua Feng, Yuyuan Li, Huwei Ji, Jiaming Zhang, Li Zhang, Tianyu Du, Chaochao Chen
+  - Date: 2025-04
+  - Venue: -
+  - Code: -
+- [A Neuro-inspired Interpretation of Unlearning in Large Language Models through Sample-level Unlearning Difficulty](https://arxiv.org/abs/2504.06658)
+  - Author(s): Xiaohua Feng, Yuyuan Li, Chengye Wang, Junlin Liu, Li Zhang, Chaochao Chen
+  - Date: 2025-04
+  - Venue: -
+  - Code: -
+- [Not All Data Are Unlearned Equally](https://arxiv.org/abs/2504.05058)
+  - Author(s): Aravind Krishnan, Siva Reddy, Marius Mosbach
+  - Date: 2025-04
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/McGill-NLP/unequal-unlearning)
+- [Exact Unlearning of Finetuning Data via Model Merging at Scale](https://arxiv.org/abs/2504.04626)
+  - Author(s): Kevin Kuo, Amrith Setlur, Kartik Srinivas, Aditi Raghunathan, Virginia Smith
+  - Date: 2025-04
+  - Venue: -
+  - Code: -
+- [SUV: Scalable Large Language Model Copyright Compliance with Regularized Selective Unlearning](https://arxiv.org/abs/2503.22948)
+  - Author(s): Tianyang Xu, Xiaoze Liu, Feijie Wu, Xiaoqian Wang, Jing Gao
+  - Date: 2025-03
+  - Venue: -
+  - Code: -
 - [Effective Skill Unlearning through Intervention and Abstention](https://arxiv.org/abs/2503.21730)
   - Author(s): Yongce Li, Chung-En Sun, Tsui-Wei Weng
   - Date: 2025-03
