@@ -34,7 +34,11 @@ As of the last commit, there are **214** papers, **13** surveys and position pap
 ## Papers
 
 ### 2025
-
+- [Harry Potter is Still Here! Probing Knowledge Leakage in Targeted Unlearned Large Language Models via Automated Adversarial Prompting](https://arxiv.org/abs/2505.17160)
+  - Author: Bang Trinh Tran To, Thai Le
+  - Date: 2025-05
+  - Venue: -
+  - Code: -
 - [Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs](https://arxiv.org/abs/2505.16831)
   - Author(s): Xiaoyu Xu, Xiang Yue, Yang Liu, Qingqing Ye, Haibo Hu, Minxin Du
   - Date: 2025-05
