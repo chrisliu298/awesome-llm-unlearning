@@ -39,7 +39,7 @@ As of the last commit, there are **214** papers, **13** surveys and position pap
   - Author(s): Filip Sondej, Yushi Yang, Mikołaj Kniejski, Marcel Windys
   - Date: 2025-06
   - Venue: -
-  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/potsawee/unlearning-hallu/tree/mcq](https://github.com/filyp/MUDMAN))
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/filyp/MUDMAN)
 - [Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs](https://arxiv.org/abs/2505.16831)
   - Author(s): Xiaoyu Xu, Xiang Yue, Yang Liu, Qingqing Ye, Haibo Hu, Minxin Du
   - Date: 2025-05
