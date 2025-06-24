@@ -35,6 +35,18 @@ As of the last commit, there are **214** papers, **13** surveys and position pap
 
 ### 2025
 
+- [Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps](https://arxiv.org/pdf/2502.14829)
+  - Author(s): Martin Tutek, Fateme Hashemi Chaleshtori, Ana Marasovic
+  - Data: 2025-06
+  - Venue: -
+  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/%20technion-cs-nlp/parametric-faithfulness)
+
+- [Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills](https://arxiv.org/abs/2506.12963)
+  - Author(s): Changsheng Wang, Chongyu Fan, Yihua Zhang, Jinghan Jia, Dennis Wei, Parikshit Ram, Nathalie Baracaldo, Sijia Liu
+  - Date: 2025-06
+  - Venue: -
+  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/Unlearn-R2MU)
+
 - [Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs](https://arxiv.org/abs/2505.16831)
   - Author(s): Xiaoyu Xu, Xiang Yue, Yang Liu, Qingqing Ye, Haibo Hu, Minxin Du
   - Date: 2025-05
