@@ -34,7 +34,11 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 ## Papers
 
 ### 2025
-
+- [Agents Are All You Need for LLM Unlearning](https://arxiv.org/abs/2502.00406) 
+  - Author(s):Debdeep Sanyal, Murari Mandal
+  - Date: 2025-07
+  - Venue: -
+  - Code: -
 - [What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests](https://arxiv.org/abs/2507.11128)
   - Author(s): Dimitri Staufer
   - Date: 2025-07
