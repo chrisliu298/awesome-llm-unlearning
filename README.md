@@ -1879,6 +1879,11 @@ As of the last commit, there are **352** papers, **13** surveys and position pap
   - Date: 2025-02
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/locuslab/open-unlearning)
+- [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning)
+  - Author(s): Leonardo Benitez, Carolina Kelsch, Natnael Mola
+  - Date: 2025-02
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning)
 
 ## Blog Posts
 
