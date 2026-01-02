@@ -494,7 +494,7 @@ As of the last commit, there are **352** papers, **13** surveys and position pap
 - [What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests](https://arxiv.org/abs/2507.11128)
   - Author(s): Dimitri Staufer
   - Date: 2025-07
-  - Venue: -
+  - Venue: ECML PKDD 2025 (XKDD Workshop)
   - Code: -
 - [Automating Evaluation of Diffusion Model Unlearning with (Vision-) Language Model World Knowledge](https://arxiv.org/abs/2507.07137)
   - Author(s): Eric Yeats, Darryl Hannan, Henry Kvinge, Timothy Doster, Scott Mahan
