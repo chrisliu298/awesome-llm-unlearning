@@ -571,11 +571,16 @@ As of the last commit, there are **352** papers, **13** surveys and position pap
   - Date: 2025-06
   - Venue: -
   - Code: -
+- [Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps](https://arxiv.org/pdf/2502.14829)
+  - Author(s): Martin Tutek, Fateme Hashemi Chaleshtori, Ana Marasovic
+  - Data: 2025-06
+  - Venue: -
+  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/%20technion-cs-nlp/parametric-faithfulness)
 - [Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills](https://arxiv.org/abs/2506.12963)
   - Author(s): Changsheng Wang, Chongyu Fan, Yihua Zhang, Jinghan Jia, Dennis Wei, Parikshit Ram, Nathalie Baracaldo, Sijia Liu
   - Date: 2025-06
   - Venue: -
-  - Code: -
+  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/Unlearn-R2MU)
 - [OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics](https://arxiv.org/abs/2506.12618)
   - Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, Zachary C. Lipton, J. Zico Kolter, Pratyush Maini
   - Date: 2025-06
@@ -1162,7 +1167,7 @@ As of the last commit, there are **352** papers, **13** surveys and position pap
 - [Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/abs/2411.02631)
   - Author(s): Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann
   - Date: 2024-11
-  - Venue: -
+  - Venue: - 
   - Code: -
 - [RESTOR: Knowledge Recovery through Machine Unlearning](https://arxiv.org/abs/2411.00204)
   - Author(s): Keivan Rezaei, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
