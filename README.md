@@ -521,6 +521,11 @@ As of the last commit, there are **352** papers, **13** surveys and position pap
   - Date: 2025-07
   - Venue: -
   - Code: -
+- [Agents Are All You Need for LLM Unlearning](https://arxiv.org/abs/2502.00406) 
+  - Author(s):Debdeep Sanyal, Murari Mandal
+  - Date: 2025-07
+  - Venue: -
+  - Code: -
 - [SoK: Semantic Privacy in Large Language Models](https://arxiv.org/abs/2506.23603)
   - Author(s): Baihe Ma, Yanna Jiang, Xu Wang, Guangsheng Yu, Qin Wang, Caijun Sun, Chen Li, Xuelei Qi, Ying He, Wei Ni, Ren Ping Liu
   - Date: 2025-06
