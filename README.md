@@ -1884,6 +1884,11 @@ As of the last commit, there are **352** papers, **13** surveys and position pap
   - Date: 2025-02
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning)
+- [Machine Unlearning Comparator](https://arxiv.org/abs/2508.12730)
+  - Author(s): Jaeung Lee, Suhyeon Yu, Yurim Jang, Simon S. Woo, Jaemin Jo
+  - Date: 2025-08
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gnueaj/Machine-Unlearning-Comparator)
 
 ## Blog Posts
 
