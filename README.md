@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **352** papers, **13** surveys and position papers, **1** framework, and **2** blog posts.
+As of the last commit, there are **359** papers, **13** surveys and position papers, **3** framework, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -36,6 +36,31 @@ As of the last commit, there are **352** papers, **13** surveys and position pap
 
 ### 2025
 
+- [Investigating Model Editing for Unlearning in Large Language Models](https://arxiv.org/abs/2512.20794)
+  - Author(s): Shariqah Hossain, Lalana Kagal
+  - Date: 2025-12
+  - Venue: -
+  - Code: -
+- [The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation](https://arxiv.org/abs/2512.19025)
+  - Author(s): Hengrui Jia, Taoran Li, Jonas Guan, Varun Chandrasekaran
+  - Date: 2025-12
+  - Venue: -
+  - Code: -
+- [Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2512.17911)
+  - Author(s): Hongji Li, Junchi Yao, Manjiang Yu, Priyanka Singh, Xue Li, Di Wang, Lijie Hu
+  - Date: 2025-12
+  - Venue: -
+  - Code: -
+- [Feature-Selective Representation Misdirection for Machine Unlearning](https://arxiv.org/abs/2512.16297)
+  - Author(s): Taozhao Chen, Linghan Huang, Kim-Kwang Raymond Choo, Huaming Chen
+  - Date: 2025-12
+  - Venue: -
+  - Code: -
+- [FAME: Fictional Actors for Multilingual Erasure](https://arxiv.org/abs/2512.15235)
+  - Author(s): Claudio Savelli, Moreno La Quatra, Alkis Koudounas, Flavio Giobergia
+  - Date: 2025-12
+  - Venue: -
+  - Code: -
 - [Explainable reinforcement learning from human feedback to improve alignment](https://arxiv.org/abs/2512.13837)
   - Author(s): Shicheng Liu, Siyuan Xu, Wenjie Qiu, Hangfan Zhang, Minghui Zhu
   - Date: 2025-12
