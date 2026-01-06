@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **359** papers, **13** surveys and position papers, **3** framework, and **2** blog posts.
+As of the last commit, there are **358** papers, **14** surveys and position papers, **3** framework, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -183,11 +183,6 @@ As of the last commit, there are **359** papers, **13** surveys and position pap
   - Code: -
 - [The Limits of Obliviate: Evaluating Unlearning in LLMs via Stimulus-Knowledge Entanglement-Behavior Framework](https://arxiv.org/abs/2510.25732)
   - Author(s): Aakriti Shah, Thai Le
-  - Date: 2025-10
-  - Venue: -
-  - Code: -
-- [A Survey on Unlearning in Large Language Models](https://arxiv.org/abs/2510.25117)
-  - Author(s): Ruichen Qiu, Jiajun Tan, Jiayue Pu, Honglin Wang, Xiao-Shan Gao, Fei Sun
   - Date: 2025-10
   - Venue: -
   - Code: -
@@ -1848,6 +1843,11 @@ As of the last commit, there are **359** papers, **13** surveys and position pap
 
 ### 2025
 
+- [A Survey on Unlearning in Large Language Models](https://arxiv.org/abs/2510.25117)
+  - Author(s): Ruichen Qiu, Jiajun Tan, Jiayue Pu, Honglin Wang, Xiao-Shan Gao, Fei Sun
+  - Date: 2025-10
+  - Venue: -
+  - Code: -
 - [A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://arxiv.org/abs/2503.01854)
   - Author(s): Jiahui Geng, Qing Li, Herbert Woisetschlaeger, Zongxiong Chen, Yuxia Wang, Preslav Nakov, Hans-Arno Jacobsen, Fakhri Karray
   - Date: 2025-03
