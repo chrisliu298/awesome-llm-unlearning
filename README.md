@@ -44,6 +44,7 @@ If you find this repository useful, please consider citing it:
     - [2022](#2022)
     - [2021](#2021)
   - [Surveys and Position Papers](#surveys-and-position-papers)
+    - [2026](#2026-1)
     - [2025](#2025-1)
     - [2024](#2024-1)
     - [2023](#2023-1)
@@ -2021,6 +2022,14 @@ If you find this repository useful, please consider citing it:
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alisawuffles/DExperts)
 
 ## Surveys and Position Papers
+
+### 2026
+
+- [Unlearning in LLMs: Methods, Evaluation, and Open Challenges](https://arxiv.org/abs/2601.13264)
+  - Author(s): Tyler Lizzo, Larry Heck
+  - Date: 2026-01
+  - Venue: -
+  - Code: -
 
 ### 2025
 
