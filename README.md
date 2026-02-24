@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **406** papers, **15** surveys and position papers, **3** framework, and **2** blog posts.
+As of the last commit, there are **407** papers, **15** surveys and position papers, **3** framework, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -653,6 +653,11 @@ If you find this repository useful, please consider citing it:
   - Date: 2025-08
   - Venue: -
   - Code: -
+- [Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs](https://arxiv.org/abs/2508.06601)
+  - Author(s): Kyle O'Brien, Stephen Casper, Quentin Anthony, Tomek Korbak, Robert Kirk, Xander Davies, Ishan Mishra, Geoffrey Irving, Yarin Gal, Stella Biderman
+  - Date: 2025-08
+  - Venue: -
+  - Code: [GitHub](https://github.com/EleutherAI/deep-ignorance)
 - [LLM Unlearning using Gradient Ratio-Based Influence Estimation and Noise Injection](https://arxiv.org/abs/2508.06467)
   - Author(s): Ameya Anjarlekar, Sandeep Pombra
   - Date: 2025-08
