@@ -10,7 +10,7 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **407** papers, **15** surveys and position papers, **3** framework, and **2** blog posts.
+As of the last commit, there are **426** papers, **15** surveys and position papers, **3** framework, and **2** blog posts.
 
 > [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
@@ -55,6 +55,76 @@ If you find this repository useful, please consider citing it:
 
 ### 2026
 
+- [Relationship-Aware Safety Unlearning for Multimodal LLMs](https://arxiv.org/abs/2603.14185)
+  - Author(s): Vishnu Narayanan Anilkumar, Abhijith Sreesylesh Babu, Trieu Hai Vo, Mohankrishna Kolla, Alexander Cuneo
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- [GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping](https://arxiv.org/abs/2603.12275)
+  - Author(s): Chahana Dahal, Ashutosh Balasubramaniam, Zuobin Xiong
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- [The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning](https://arxiv.org/abs/2603.11266)
+  - Author(s): Raj Sanjay Shah, Jing Huang, Keerthiram Murugesan, Nathalie Baracaldo, Diyi Yang
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- [Explainable LLM Unlearning Through Reasoning](https://arxiv.org/abs/2603.09980)
+  - Author(s): Junfeng Liao, Qizhou Wang, Shanshan Ye, Xin Yu, Ling Chen, Zhen Fang
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- [ALTER: Asymmetric LoRA for Token-Entropy-Guided Unlearning of LLMs](https://arxiv.org/abs/2603.01792)
+  - Author(s): Xunlei Chen, Jinyu Guo, Yuang Li, Zhaokun Wang, Yi Gong, Jie Zou, Jiwei Wei, Wenhong Tian
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- [Attention Smoothing Is All You Need For Unlearning](https://arxiv.org/abs/2603.01285)
+  - Author(s): Saleh Zare Zade, Xiangyu Zhou, Sijia Liu, Dongxiao Zhu
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- [A Comprehensive Evaluation of LLM Unlearning Robustness under Multi-Turn Interaction](https://arxiv.org/abs/2603.00823)
+  - Author(s): Ruihao Pan, Suhang Wang
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- [ROKA: Robust Knowledge Unlearning against Adversaries](https://arxiv.org/abs/2603.00436)
+  - Author(s): Jinmyeong Shin, Joshua Tapia, Nicholas Ferreira, Gabriel Diaz, Moayed Daneshyari, Hyeran Jeon
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- [MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2602.23798)
+  - Author(s): Tiantong Wang, Xinyu Yan, Tiantong Wu, Yurong Hao, Yong Jiang, Fei Huang, Wei Yang Bryan Lim
+  - Date: 2026-02
+  - Venue: -
+  - Code: [GitHub](https://github.com/Tristan-SHU/MPU)
+- [U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation](https://arxiv.org/abs/2602.23400)
+  - Author(s): Zezheng Wu, Rui Wang, Xinghe Cheng, Yang Shao, Qing Yang, Jiapu Wang, Jingwei Zhang
+  - Date: 2026-02
+  - Venue: -
+  - Code: -
+- [Layer-Targeted Multilingual Knowledge Erasure in Large Language Models](https://arxiv.org/abs/2602.22562)
+  - Author(s): Taoran Li, Varun Chandrasekaran, Zhiyuan Yu
+  - Date: 2026-02
+  - Venue: -
+  - Code: -
+- [Anatomy of Unlearning: The Dual Impact of Fact Salience and Model Fine-Tuning](https://arxiv.org/abs/2602.19612)
+  - Author(s): Borisiuk Anna, Andrey Savchenko, Alexander Panchenko, Elena Tutubalina
+  - Date: 2026-02
+  - Venue: -
+  - Code: -
+- [KUDA: Knowledge Unlearning by Deviating Representation for Large Language Models](https://arxiv.org/abs/2602.19275)
+  - Author(s): Ce Fang, Zhikun Zhang, Min Chen, Qing Liu, Lu Zhou, Zhe Liu, Yunjun Gao
+  - Date: 2026-02
+  - Venue: -
+  - Code: -
+- [Agentic Unlearning: When LLM Agent Meets Machine Unlearning](https://arxiv.org/abs/2602.17692)
+  - Author(s): Bin Wang, Fan Wang, Pingping Wang, Jinyu Cong, Yang Yu, Yilong Yin, Zhongyi Han, Benzheng Wei
+  - Date: 2026-02
+  - Venue: -
+  - Code: -
 - [MeGU: Machine-Guided Unlearning with Target Feature Disentanglement](https://arxiv.org/abs/2602.17088)
   - Author(s): Haoyu Wang, Zhuo Huang, Xiaolong Wang, Bo Han, Zhiwei Lin, Tongliang Liu
   - Date: 2026-02
@@ -212,6 +282,31 @@ If you find this repository useful, please consider citing it:
   - Code: -
 - [Multilingual Amnesia: On the Transferability of Unlearning in Multilingual LLMs](https://arxiv.org/abs/2601.05641)
   - Author(s): Alireza Dehghanpour Farashah, Aditi Khandelwal, Marylou Fauchard, Zhuan Shi, Negar Rostamzadeh, Golnoosh Farnadi
+  - Date: 2026-01
+  - Venue: -
+  - Code: -
+- [From Domains to Instances: Dual-Granularity Data Synthesis for LLM Unlearning](https://arxiv.org/abs/2601.04278)
+  - Author(s): Xiaoyu Xu, Minxin Du, Zitong Li, Zi Liang, Zhibiao Guo, Shiyu Zhang, Peizhao Hu, Qingqing Ye, Haibo Hu
+  - Date: 2026-01
+  - Venue: -
+  - Code: -
+- [Shadow Unlearning: A Neuro-Semantic Approach to Fidelity-Preserving Faceless Forgetting in LLMs](https://arxiv.org/abs/2601.04275)
+  - Author(s): Dinesh Srivasthav P, Ashok Urlana, Rahul Mishra, Bala Mallikarjunarao Garlapati, Ponnurangam Kumaraguru
+  - Date: 2026-01
+  - Venue: -
+  - Code: -
+- [Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning](https://arxiv.org/abs/2601.03190)
+  - Author(s): Naixin Zhai, Pengyang Shao, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun Yang
+  - Date: 2026-01
+  - Venue: -
+  - Code: -
+- [JPU: Bridging Jailbreak Defense and Unlearning via On-Policy Path Rectification](https://arxiv.org/abs/2601.03005)
+  - Author(s): Xi Wang, Songlei Jian, Shasha Li, Xiaopeng Li, Zhaoye Li, Bin Ji, Baosheng Wang, Jie Yu
+  - Date: 2026-01
+  - Venue: -
+  - Code: -
+- [UnPII: Unlearning Personally Identifiable Information with Quantifiable Exposure Risk](https://arxiv.org/abs/2601.01786)
+  - Author(s): Intae Jeon, Yujeong Kwon, Hyungjoon Koo
   - Date: 2026-01
   - Venue: -
   - Code: -
