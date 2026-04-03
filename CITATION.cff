@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Awesome Large Language Model Unlearning"
+type: software
+authors:
+  - family-names: "Liu"
+    given-names: "Chris Yuhao"
+repository-code: "https://github.com/chrisliu298/awesome-llm-unlearning"
+url: "https://github.com/chrisliu298/awesome-llm-unlearning"
+abstract: "A curated repository of papers and resources on machine unlearning in large language models."
+license: "Apache-2.0"
+date-released: "2024-06-14"
