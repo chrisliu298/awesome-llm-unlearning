@@ -20,14 +20,13 @@ As of the last commit, there are **426** papers, **15** surveys and position pap
 If you find this repository useful, please consider citing it:
 
 ```bibtex
-@misc{awesome-llm-unlearning,
-  title = {{awesome-llm-unlearning}: A Resource Repository for Machine Unlearning in Large Language Models},
-  author = {{Chris Yuhao Liu}},
+@software{awesome-llm-unlearning,
+  title = {{Awesome Large Language Model Unlearning}},
+  author = {Liu, Chris Yuhao},
   year = {2024},
-  howpublished = {\url{https://github.com/chrisliu298/awesome-llm-unlearning}},
-  note = {GitHub repository},
-  organization = {GitHub},
-  url = {https://github.com/chrisliu298/awesome-llm-unlearning}
+  doi = {10.5281/zenodo.19411433},
+  url = {https://github.com/chrisliu298/awesome-llm-unlearning},
+  version = {v1.0.0}
 }
 ```
 
