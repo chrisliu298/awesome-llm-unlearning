@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **461** papers, **15** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **461** papers, **16** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -2355,7 +2355,11 @@ As of the last commit, there are **461** papers, **15** surveys and position pap
 
 ## Surveys and Position Papers
 
-
+- [Is your algorithm unlearning or untraining?](https://arxiv.org/abs/2604.07962)
+  - Author(s): Eleni Triantafillou, Ahmed Imtiaz Humayun, Monica Ribero, Alexander Matt Turner, Michael C. Mozer, Georgios Kaissis
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
 - [Unlearning in LLMs: Methods, Evaluation, and Open Challenges](https://arxiv.org/abs/2601.13264)
   - Author(s): Tyler Lizzo, Larry Heck
   - Date: 2026-01
