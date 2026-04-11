@@ -1,59 +1,82 @@
-# Awesome Large Language Model Unlearning
+# 🧹 Awesome LLM Unlearning
 
 <p align="center">
-<a href=""> <img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
-<a href=""> <img src="https://img.shields.io/github/stars/chrisliu298/awesome-llm-unlearning?style=flat-square&logo=github" alt="GitHub stars"></a>
-<a href=""> <img src="https://img.shields.io/github/forks/chrisliu298/awesome-llm-unlearning?style=flat-square&logo=github" alt="GitHub forks"></a>
-<a href=""> <img src="https://img.shields.io/github/issues/chrisliu298/awesome-llm-unlearning?style=flat-square&logo=github" alt="GitHub issues"></a>
-<a href=""> <img src="https://img.shields.io/github/last-commit/chrisliu298/awesome-llm-unlearning?style=flat-square&logo=github" alt="GitHub Last commit"></a>
+  <a href="https://awesome.re"><img src="https://img.shields.io/badge/Awesome-%F0%9F%A7%B9_LLM_Unlearning-000000?style=for-the-badge&labelColor=000000" alt="Awesome LLM Unlearning"></a>
+  <a href="https://github.com/chrisliu298/awesome-llm-unlearning/stargazers"><img src="https://img.shields.io/github/stars/chrisliu298/awesome-llm-unlearning?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=000000&color=000000" alt="GitHub Stars"></a>
+  <a href="https://github.com/chrisliu298/awesome-llm-unlearning/network/members"><img src="https://img.shields.io/github/forks/chrisliu298/awesome-llm-unlearning?style=for-the-badge&logo=github&logoColor=white&label=Forks&labelColor=000000&color=000000" alt="GitHub Forks"></a>
+  <a href="https://github.com/chrisliu298/awesome-llm-unlearning/commits"><img src="https://img.shields.io/github/last-commit/chrisliu298/awesome-llm-unlearning?style=for-the-badge&logo=github&logoColor=white&label=Last%20Commit&labelColor=000000&color=000000" alt="Last Commit"></a>
 </p>
 
-This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
+A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **451** papers, **15** surveys and position papers, **3** framework, and **2** blog posts.
+As of the last commit, there are **461** papers, **15** surveys and position papers, **3** frameworks, and **2** blog posts.
 
-> [!NOTE]
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
-## Citation
+## Contents
 
-If you find this repository useful, please consider citing it:
-
-```bibtex
-@software{awesome-llm-unlearning,
-  title = {{Awesome Large Language Model Unlearning}},
-  author = {Liu, Chris Yuhao},
-  year = {2024},
-  doi = {10.5281/zenodo.19411433},
-  url = {https://github.com/chrisliu298/awesome-llm-unlearning},
-  version = {v1.0.0}
-}
-```
-
-## Table of Contents
-
-- [Awesome Large Language Model Unlearning](#awesome-large-language-model-unlearning)
-  - [Citation](#citation)
-  - [Table of Contents](#table-of-contents)
-  - [Papers](#papers)
-    - [2026](#2026)
-    - [2025](#2025)
-    - [2024](#2024)
-    - [2023](#2023)
-    - [2022](#2022)
-    - [2021](#2021)
-  - [Surveys and Position Papers](#surveys-and-position-papers)
-    - [2026](#2026-1)
-    - [2025](#2025-1)
-    - [2024](#2024-1)
-    - [2023](#2023-1)
-  - [Frameworks](#frameworks)
-  - [Blog Posts](#blog-posts)
+- [Papers](#papers)
+  - [2026](#2026)
+  - [2025](#2025)
+  - [2024](#2024)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+- [Surveys and Position Papers](#surveys-and-position-papers)
+- [Frameworks](#frameworks)
+- [Blog Posts](#blog-posts)
+- [Contributing](#contributing)
+- [Citation](#citation)
   
 ## Papers
 
 ### 2026
 
+- [Exclusive Unlearning](https://arxiv.org/abs/2604.06154)
+  - Author(s): Mutsumi Sasaki, Kouta Nakayama, Yusuke Miyao, Yohei Oseki, Masaru Isonuma
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
+- [CURE:Circuit-Aware Unlearning for LLM-based Recommendation](https://arxiv.org/abs/2604.04982)
+  - Author(s): Ziheng Chen, Jiali Cheng, Zezhong Fan, Hadi Amiri, Yunzhi Yao, Xiangguo Sun, Yang Zhang
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
+- [Towards Unveiling Vulnerabilities of Large Reasoning Models in Machine Unlearning](https://arxiv.org/abs/2604.04255)
+  - Author(s): Aobo Chen, Chenxu Zhao, Chenglin Miao, Mengdi Huai
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
+- [Subspace Control: Turning Constrained Model Steering into Controllable Spectral Optimization](https://arxiv.org/abs/2604.04231)
+  - Author(s): Yancheng Huang, Changsheng Wang, Chongyu Fan, Yicheng Lang, Bingqi Shang, Yang Zhang, Mingyi Hong, Qing Qu, Alvaro Velasquez, Sijia Liu
+  - Date: 2026-04
+  - Venue: -
+  - Code: [GitHub](https://github.com/OPTML-Group/SIFT)
+- [VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956)
+  - Author(s): Ravi Ranjan, Agoritsa Polyzou
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
+- [Selective Forgetting for Large Reasoning Models](https://arxiv.org/abs/2604.03571)
+  - Author(s): Tuan Le, Wei Qian, Mengdi Huai
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
+- [Secure Forgetting: A Framework for Privacy-Driven Unlearning in Large Language Model (LLM)-Based Agents](https://arxiv.org/abs/2604.00430)
+  - Author(s): Dayong Ye, Tainqing Zhu, Congcong Zhu, Feng He, Qi He, Shang Wang, Bo Liu, Wanlei Zhou
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
+- [Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models](https://arxiv.org/abs/2603.26142)
+  - Author(s): Jiajia Song, Zhihan Guo, Jionghao Lin
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- [Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models](https://arxiv.org/abs/2603.21484)
+  - Author(s): Hyundong Jin, Dongyoon Han, Eunwoo Kim
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
 - [Relationship-Aware Safety Unlearning for Multimodal LLMs](https://arxiv.org/abs/2603.14185)
   - Author(s): Vishnu Narayanan Anilkumar, Abhijith Sreesylesh Babu, Trieu Hai Vo, Mohankrishna Kolla, Alexander Cuneo
   - Date: 2026-03
@@ -309,6 +332,11 @@ If you find this repository useful, please consider citing it:
   - Date: 2026-01
   - Venue: -
   - Code: -
+- [Can Prompts Rewind Time for LLMs? Evaluating the Effectiveness of Prompted Knowledge Cutoffs](https://arxiv.org/abs/2510.02340)
+  - Author(s): Xin Gao, Ruiyi Zhang, Daniel Du, Saurabh Mahindre, Sai Ashish Somayajula, Pengtao Xie
+  - Date: 2025-10
+  - Venue: -
+  - Code: [GitHub](https://github.com/gxx27/time_unlearn)
 
 ### 2025
 
@@ -2327,7 +2355,6 @@ If you find this repository useful, please consider citing it:
 
 ## Surveys and Position Papers
 
-### 2026
 
 - [Unlearning in LLMs: Methods, Evaluation, and Open Challenges](https://arxiv.org/abs/2601.13264)
   - Author(s): Tyler Lizzo, Larry Heck
@@ -2335,7 +2362,6 @@ If you find this repository useful, please consider citing it:
   - Venue: -
   - Code: -
 
-### 2025
 
 - [A Survey on Unlearning in Large Language Models](https://arxiv.org/abs/2510.25117)
   - Author(s): Ruichen Qiu, Jiajun Tan, Jiayue Pu, Honglin Wang, Xiao-Shan Gao, Fei Sun
@@ -2351,7 +2377,6 @@ If you find this repository useful, please consider citing it:
   - Date: 2025-01
   - Venue: -
 
-### 2024
 
 - [Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy, Research, and Practice](https://arxiv.org/abs/2412.06966)
   - Author(s): A. Feder Cooper, Christopher A. Choquette-Choo, Miranda Bogen, Matthew Jagielski, Katja Filippova, Ken Ziyu Liu, Alexandra Chouldechova, Jamie Hayes, Yangsibo Huang, Niloofar Mireshghallah, Ilia Shumailov, Eleni Triantafillou, Peter Kairouz, Nicole Mitchell, Percy Liang, Daniel E. Ho, Yejin Choi, Sanmi Koyejo, Fernando Delgado, James Grimmelmann, Vitaly Shmatikov, Christopher De Sa, Solon Barocas, Amy Cyphert, Mark Lemley, danah boyd, Jennifer Wortman Vaughan, Miles Brundage, David Bau, Seth Neel, Abigail Z. Jacobs, Andreas Terzis, Hanna Wallach, Nicolas Papernot, Katherine Lee
@@ -2390,7 +2415,6 @@ If you find this repository useful, please consider citing it:
   - Date: 2024-02
   - Venue: -
 
-### 2023
 
 - [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766)
   - Author(s): Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang
@@ -2427,3 +2451,32 @@ If you find this repository useful, please consider citing it:
 - [Deep Forgetting & Unlearning for Safely-Scoped LLMs](https://www.alignmentforum.org/posts/mFAvspg4sXkrfZ7FA/deep-forgetting-and-unlearning-for-safely-scoped-llms)
   - Author(s): [Stephen Casper](https://stephencasper.com/)
   - Date: 2023-12
+
+## Contributing
+
+Contributions welcome! Please open a PR if you know of papers, benchmarks, or tools related to LLM unlearning.
+
+- **Inclusion criteria:** The work should study deletion, suppression, or controllable forgetting of targeted knowledge, data, or behaviors in LLMs or closely related multimodal and deployment settings, or directly enable evaluation and implementation of unlearning.
+- **Entry format:**
+  ```
+  - [Paper Title](url)
+    - Author(s): Name1, Name2, ...
+    - Date: YYYY-MM
+    - Venue: VenueName Year (or - if preprint)
+    - Code: [GitHub](url) (or - if none)
+  ```
+
+## Citation
+
+If you find this repository useful, please consider citing it:
+
+```bibtex
+@software{awesome-llm-unlearning,
+  title = {{Awesome Large Language Model Unlearning}},
+  author = {Liu, Chris Yuhao},
+  year = {2024},
+  doi = {10.5281/zenodo.19411433},
+  url = {https://github.com/chrisliu298/awesome-llm-unlearning},
+  version = {v1.0.0}
+}
+```
