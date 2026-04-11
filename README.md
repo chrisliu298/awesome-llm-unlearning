@@ -272,6 +272,7 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [On Effects of Steering Latent Representation for Large Language Model Unlearning](https://arxiv.org/abs/2408.06223) (2024) — Analyzes how latent-steering interventions affect both forget quality and unintended side effects.
 - [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/abs/2406.07933) (2024) — Uses deliberately corrupted prompt embeddings to trigger and train deletion behavior around target content. [[code](https://github.com/chrisliu298/llm-unlearn-eco)]
 
+- [Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models](https://aclanthology.org/2025.findings-acl.719/) (2025) — NeuMuter decouples memorization and mutes about 1% of FFN neurons to forget target data while preserving downstream utility.
 ### Editing, task arithmetic, and weight-space methods
 
 - [Per-parameter Task Arithmetic for Unlearning in Large Language Models](https://arxiv.org/abs/2601.22030) (2026) — Applies task arithmetic at per-parameter granularity so each weight gets its own subtraction strength.
@@ -286,6 +287,7 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [Split, Unlearn, Merge: Leveraging Data Attributes for More Effective Unlearning in LLMs](https://arxiv.org/abs/2406.11780) (2024) — Splits data by attributes before deletion and merges the results to reduce interference across targets.
 - [Offset Unlearning for Large Language Models](https://arxiv.org/abs/2404.11045) (2024) — Learns offset vectors in weight space that subtract target behavior with minimal full-model retraining. [[code](https://github.com/luka-group/Delta-Unlearning)]
 
+- [Precise In-Parameter Concept Erasure in Large Language Models](https://aclanthology.org/2025.emnlp-main.960/) (2025) — PISCES performs targeted concept erasure directly in parameter space to remove undesirable knowledge with less collateral damage. [[code](https://github.com/yoavgur/PISCES)]
 ### Parameter-efficient, sparse, and modular methods
 
 - [ALTER: Asymmetric LoRA for Token-Entropy-Guided Unlearning of LLMs](https://arxiv.org/abs/2603.01792) (2026) — Uses asymmetric LoRA updates guided by token entropy so forgetting focuses on high-certainty target regions.
@@ -301,6 +303,8 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267) (2024) — Removes target knowledge by pruning the parameters most implicated in the forget set.
 - [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090) (2023) — Uses parameter-efficient modules to separate defective behavior from useful ability before removing only the former. [[code](https://github.com/HITsz-TMG/Ext-Sub)]
 
+- [LLM-Eraser: Optimizing Large Language Model Unlearning through Selective Pruning](https://dl.acm.org/doi/10.1145/3690624.3709312) (2025) — Uses selective pruning as the main unlearning mechanism to improve forgetting efficiency while preserving retained behavior. [[code](https://github.com/mmichaelzhang/LLM-Eraser)]
+- [UUE: Untargeted Language Model Unlearning via Null-Space-Guided Editing with Lightweight Adapters](https://openreview.net/forum?id=nQjj5bpLui) (2026) — Reframes untargeted LLM unlearning as null-space-guided editing with pluggable adapters and a LoRA variant.
 ### Selective, continual, and data-efficient methods
 
 - [From Domains to Instances: Dual-Granularity Data Synthesis for LLM Unlearning](https://arxiv.org/abs/2601.04278) (2026) — Synthesizes deletion data at both domain and instance level so unlearning can scale beyond hand-collected forget sets.
@@ -328,6 +332,9 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning in Large Language Models](https://arxiv.org/abs/2405.03097) (2024) — Targets memorized sequences one by one, rather than treating all forget data as a single broad concept.
 - [Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models](https://arxiv.org/abs/2402.05813) (2024) — Pushes selective deletion as the central setting and pairs it with stronger evaluation than all-or-nothing forgetting.
 
+- [Adaptive Localization of Knowledge Negation for Continual LLM Unlearning](https://proceedings.mlr.press/v267/wuerkaixi25a.html) (2025) — ALKN sparsifies gradients and adapts negation strength to improve continual unlearning without over-editing retained knowledge.
+- [Orthogonal Gradient Projection for Continual LLM Unlearning](https://openreview.net/forum?id=lb6Ce20kl5) (2026) — ONPO orthogonalizes successive forget updates to reduce interference in continual unlearning.
+- [Effective Unlearning in LLMs Relies on the Right Data Retention Strategy](https://openreview.net/forum?id=EyXBv291ST) (2026) — Systematic study of retain-set selection, showing that the data-retention strategy strongly affects practical LLM unlearning quality and utility.
 ## Unlearning Targets and Threat Models
 
 ### Factual knowledge, entities, and structural memory
@@ -368,6 +375,7 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models](https://arxiv.org/abs/2406.12354) (2024) — Tests whether deleting a fact in one language generalizes to semantically equivalent prompts in others. [[code](https://github.com/brightjade/multilingual-unlearning)]
 - [Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720) (2024) — Scales knowledge cleanup beyond toy entities to much broader factual distributions. [[code](https://github.com/wangyu-ustc/LargeScaleWashing)]
 
+- [Concept Unlearning for Large Language Models](https://openreview.net/forum?id=nU7Se8oIPJ) (2024) — Frames deletion at the concept level rather than only by specific training examples, and proposes a gradient-ascent method over generated token sequences.
 ### Privacy, memorization, copyright, and right-to-be-forgotten
 
 - [MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2602.23798) (2026) — Designs privacy-oriented knowledge deletion with explicit security goals and leakage-resistant evaluation. [[code](https://github.com/Tristan-SHU/MPU)]
@@ -394,6 +402,7 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [Forgetting Private Textual Sequences in Language Models via Leave-One-Out Ensemble](https://arxiv.org/abs/2309.16082) (2023) — Uses leave-one-out ensembling to approximate retraining for deletion of sensitive textual sequences.
 - [Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data](https://arxiv.org/abs/2307.00456) (2023) — Perturbs text so personal data are harder for future language models to memorize in the first place.
 
+- [Machine Unlearning of Personally Identifiable Information in Large Language Models](https://aclanthology.org/2025.nllp-1.6/) (2025) — Introduces the UnlearnPII benchmark and the PERMU_tok method for PII unlearning, including obfuscated-prompt and jailbreak evaluations. [[code](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning)]
 ### Safety, harmful content, jailbreaks, and backdoors
 
 - [LLMs Can Unlearn Refusal with Only 1,000 Benign Samples](https://arxiv.org/abs/2601.19231) (2026) — Shows that even small benign datasets can erase refusal behavior, exposing how fragile some safety safeguards are. [[code](https://github.com/guoyang9/refusal-unlearning)]
@@ -484,6 +493,17 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://arxiv.org/abs/2403.03218) (2024) — Introduces a benchmark for measuring whether unlearning reduces hazardous or malicious-use capabilities. [[code](https://github.com/centerforaisafety/wmdp)]
 - [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121) (2024) — Introduces a controllable fictitious-facts benchmark that became a standard testbed for targeted LLM unlearning. [[code](https://github.com/locuslab/tofu)]
 
+- [SemEval-2025 Task 4: Unlearning sensitive content from Large Language Models](https://aclanthology.org/2025.semeval-1.329/) (2025) — Shared-task overview paper covering three LLM unlearning subtasks and summarizing lessons from more than 100 submissions.
+- [NEKO at SemEval-2025 Task 4: A Gradient Ascent Based Machine Unlearning Strategy](https://aclanthology.org/2025.semeval-1.64/) (2025) — Gradient-ascent-based SemEval system for targeted LLM unlearning.
+- [DUTir at SemEval-2025 Task 4: Optimized Fine-Tuning of Linear Layers for Balanced Knowledge Forgetting and Retention](https://aclanthology.org/2025.semeval-1.72/) (2025) — Optimizes linear-layer fine-tuning to balance forgetting and retention in the shared task.
+- [NeuroReset: LLM Unlearning via Dual Phase Mixed Methodology](https://aclanthology.org/2025.semeval-1.138/) (2025) — Dual-phase SemEval system for LLM unlearning.
+- [GUIR at SemEval-2025 Task 4: Adaptive Weight Tuning with Gradual Negative Matching for LLM Unlearning](https://aclanthology.org/2025.semeval-1.152/) (2025) — SemEval system based on adaptive weight tuning and gradual negative matching.
+- [GIL-IIMAS UNAM at SemEval-2025 Task 4: LA-Min(E): LLM Unlearning Approaches Under Function Minimizing Evaluation Constraints](https://aclanthology.org/2025.semeval-1.205/) (2025) — SemEval system paper centered on LA-Min(E) under function-minimizing evaluation constraints.
+- [MALTO at SemEval-2025 Task 4: Dual Teachers for Unlearning Sensitive Content in LLMs](https://aclanthology.org/2025.semeval-1.229/) (2025) — Dual-teacher SemEval system for unlearning sensitive content in LLMs.
+- [Howard University-AI4PC at SemEval-2025 Task 4: Unlearning Sensitive Content From Large Language Models Using Finetuning and Distillation for Selective Knowledge Removal](https://aclanthology.org/2025.semeval-1.233/) (2025) — Fine-tuning-and-distillation SemEval system for selective knowledge removal.
+- [YNU at SemEval-2025 Task 4: Synthetic Token Alternative Training for LLM Unlearning](https://aclanthology.org/2025.semeval-1.264/) (2025) — Synthetic Token Alternative Training (STAT) SemEval system for LLM unlearning.
+- [JU-CSE-NLP'25 at SemEval-2025 Task 4: Learning to Unlearn LLMs](https://aclanthology.org/2025.semeval-1.267/) (2025) — SemEval system paper on targeted LLM unlearning.
+- [NLPART at SemEval-2025 Task 4: Forgetting is harder than Learning](https://aclanthology.org/2025.semeval-1.304/) (2025) — SemEval system paper on targeted LLM forgetting.
 ### Auditing, metrics, and verification
 
 - [Auditing Language Model Unlearning via Information Decomposition](https://arxiv.org/abs/2601.15111) (2026) — Decomposes information flow between data, outputs, and model state to audit what knowledge remains.
@@ -501,6 +521,8 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [Localizing Paragraph Memorization in Language Models](https://arxiv.org/abs/2403.19851) (2024) — Pinpoints where memorized paragraphs live in the model, aiding targeted auditing and deletion.
 - [Unlearning Reveals the Influential Training Data of Language Models](https://arxiv.org/abs/2401.15241) (2024) — Uses deletion behavior to identify which training examples most strongly shaped a model’s outputs.
 
+- [A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization](https://aclanthology.org/2025.emnlp-main.452/) (2025) — Introduces fully probabilistic evaluation and optimization to avoid overly optimistic deterministic assessments of LLM unlearning.
+- [White-Box Auditing of Large Language Model Unlearning](https://openreview.net/forum?id=hPruSo1bEE) (2026) — Proposes a white-box auditing framework and shows that simple inverse-greedy decoding can recover supposedly forgotten fake PII.
 ### Robustness, recovery, and failure analyses
 
 - [The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning](https://arxiv.org/abs/2603.11266) (2026) — Uses dynamic interaction-based evaluation to show that one-shot forget scores can overstate true deletion.
@@ -539,6 +561,7 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [Inexact Unlearning Needs More Careful Evaluations to Avoid a False Sense of Privacy](https://arxiv.org/abs/2403.01218) (2024) — Warns that weak evaluations can make approximate deletion look safer for privacy than it really is.
 - [Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks](https://arxiv.org/abs/2309.17410) (2023) — Compares deletion objectives against direct extraction attacks on memorized sensitive text. [[code](https://github.com/Vaidehi99/InfoDeletionAttacks)]
 
+- [LUSB: Formalizing and Benchmarking Unlearning Attacks and Defenses against Large Language Models](https://openreview.net/forum?id=lk3j87oquF) (2026) — Introduces a benchmark for unlearning attacks and defenses across 13 LLM architectures, 9 unlearning methods, and 12 datasets.
 ## Theoretical and Analytical Work
 
 ### Optimization, generalization, and provable views
@@ -580,6 +603,7 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [Machine Unlearning: its nature, scope, and importance for a "delete culture"](https://arxiv.org/abs/2305.15242) (2023) — Provides an early conceptual framing for why engineered deletion matters socially and technically.
 - [Deletion Inference, Reconstruction, and Compliance in Machine (Un)Learning](https://arxiv.org/abs/2202.03460) (2022) — Formalizes how deletion claims can be inferred, reconstructed, and checked for compliance.
 
+- [The Fundamental Limits of LLM Unlearning: Complexity-Theoretic Barriers and Provably Optimal Protocols](https://openreview.net/forum?id=ot19dneIID) (2025) — Provides a complexity-theoretic account of LLM unlearning, proving hardness results and an optimal recursive sketch-and-freeze protocol.
 ### Mechanistic, causal, and representation analyses
 
 - [Toward Understanding Unlearning Difficulty: A Mechanistic Perspective and Circuit-Guided Difficulty Metric](https://arxiv.org/abs/2601.09624) (2026) — Uses mechanistic circuit analysis to explain why some deletion targets are harder than others.
@@ -637,6 +661,7 @@ Many papers span multiple categories. The tables below are for orientation, not 
 - [UOE: Unlearning One Expert Is Enough For Mixture-of-experts LLMS](https://arxiv.org/abs/2411.18797) (2024) — Shows that deleting a single expert can sometimes suffice to remove an unwanted capability in MoE models.
 - [Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning](https://arxiv.org/abs/2406.04076) (2024) — Uses blockchain infrastructure to track, verify, and coordinate federated LLM deletion.
 
+- [UnRe: Zero-Shot LLM Unlearning via Dynamic Contextual Retrieval](https://openreview.net/forum?id=3ZesmvOJ6o) (2026) — Retrieval-augmented, inference-time framework for zero-shot unlearning using only forget data.
 ### Recommendation, code, biomedical, agents, and other domain settings
 
 - [U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation](https://arxiv.org/abs/2602.23400) (2026) — Tailors deletion to generative recommendation systems with explicit utility-aware contrastive attenuation.
@@ -715,6 +740,6 @@ If you find this resource useful, please cite it as:
 
 ---
 
-*Last updated: 2026-04-10. Coverage: 426 papers, 15 surveys and position papers, 3 frameworks, and 2 blog posts through March 2026.*
+*Last updated: 2026-04-10. Coverage: 451 papers, 15 surveys and position papers, 3 frameworks, and 2 blog posts through April 2026.*
 
-<!-- Paper count: source=426, output=426 -->
+<!-- Paper count: source=451, output=451 -->
