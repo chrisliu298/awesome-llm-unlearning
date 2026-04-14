@@ -36,7 +36,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Zhangyun Tan, Zeliang Zhang, Susan Liang, Yolo Yunlong Tang, Lisha Chen, Chenliang Xu
   - Date: 2026-04
   - Venue: -
-  - Code: [GitHub](https://github.com/zhangyun04/ULBench)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zhangyun04/ULBench)
 - [Towards Practical LLM Unlearning: Efficient, Modular, and Retain-Free](https://dl.acm.org/doi/10.1145/3774904.3792324)
   - Author(s): Peng Liu, Peng-Fei Zhang, Jianfeng Qu, Ximing Li, Zhixu Li, Pengpeng Zhao
   - Date: 2026-04
@@ -66,7 +66,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Yancheng Huang, Changsheng Wang, Chongyu Fan, Yicheng Lang, Bingqi Shang, Yang Zhang, Mingyi Hong, Qing Qu, Alvaro Velasquez, Sijia Liu
   - Date: 2026-04
   - Venue: -
-  - Code: [GitHub](https://github.com/OPTML-Group/SIFT)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/SIFT)
 - [VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956)
   - Author(s): Ravi Ranjan, Agoritsa Polyzou
   - Date: 2026-04
@@ -136,7 +136,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Tiantong Wang, Xinyu Yan, Tiantong Wu, Yurong Hao, Yong Jiang, Fei Huang, Wei Yang Bryan Lim
   - Date: 2026-02
   - Venue: -
-  - Code: [GitHub](https://github.com/Tristan-SHU/MPU)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tristan-SHU/MPU)
 - [U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation](https://arxiv.org/abs/2602.23400)
   - Author(s): Zezheng Wu, Rui Wang, Xinghe Cheng, Yang Shao, Qing Yang, Jiapu Wang, Jingwei Zhang
   - Date: 2026-02
@@ -181,7 +181,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Patryk Rybak, Paweł Batorski, Paul Swoboda, Przemysław Spurek
   - Date: 2026-02
   - Venue: -
-  - Code: [GitHub](https://github.com/patryk-rybak/REBEL/)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/patryk-rybak/REBEL/)
 - [CATNIP: LLM Unlearning via Calibrated and Tokenized Negative Preference Alignment](https://arxiv.org/abs/2602.02824)
   - Author(s): Zhengbang Yang, Yisheng Zhong, Junyuan Hong, Zhuangdi Zhu
   - Date: 2026-02
@@ -191,7 +191,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Pengyu Li, Lingling Zhang, Zhitao Gao, Yanrui Wu, Yuxuan Dong, Huan Liu, Bifan Wei, Jun Liu
   - Date: 2026-02
   - Venue: -
-  - Code: [GitHub](https://github.com/TiezMind/AGT-unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TiezMind/AGT-unlearning)
 - [Sparsity-Aware Unlearning for Large Language Models](https://arxiv.org/abs/2602.00577)
   - Author(s): Yuze Wang, Yujia Tong, Ke Xu, Jingling Yuan, Jiawei Jiang, Chuang Hu
   - Date: 2026-01
@@ -201,7 +201,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Eugenia Iofinova, Dan Alistarh
   - Date: 2026-01
   - Venue: -
-  - Code: [GitHub](https://github.com/IST-DASLab/behemoth.git)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/IST-DASLab/behemoth.git)
 - [Per-parameter Task Arithmetic for Unlearning in Large Language Models](https://arxiv.org/abs/2601.22030)
   - Author(s): Chengyi Cai, Zesheng Ye, Jiangchao Yao, Jianzhong Qi, Bo Han, Xiaolu Zhang, Feng Liu, Jun Zhou
   - Date: 2026-01
@@ -246,12 +246,12 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Yangyang Guo, Ziwei Xu, Si Liu, Zhiming Zheng, Mohan Kankanhalli
   - Date: 2026-01
   - Venue: -
-  - Code: [GitHub](https://github.com/guoyang9/refusal-unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/guoyang9/refusal-unlearning)
 - [Towards Fair Large Language Model-based Recommender Systems without Costly Retraining](https://arxiv.org/abs/2601.17492)
   - Author(s): Jin Li, Huilin Gu, Shoujin Wang, Qi Zhang, Shui Yu, Chen Wang, Xiwei Xu, Fang Chen
   - Date: 2026-01
   - Venue: WWW 2026
-  - Code: [GitHub](https://github.com/JinLi-i/FUDLR)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JinLi-i/FUDLR)
 - [GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints](https://arxiv.org/abs/2601.16905)
   - Author(s): Andy Zhu, Rongzhe Wei, Yupu Gu, Pan Li
   - Date: 2026-01
@@ -306,7 +306,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Zhenhua Xu, Haobo Zhang, Zhebo Wang, Qichen Liu, Haitao Xu, Wenpeng Xing, Meng Han
   - Date: 2026-01
   - Venue: ICASSP 2026
-  - Code: [GitHub](https://github.com/Xuzhenhua55/ForgetMark)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Xuzhenhua55/ForgetMark)
 - [Forgetting Similar Samples: Can Machine Unlearning Do it Better?](https://arxiv.org/abs/2601.06938)
   - Author(s): Heng Xu, Tianqing Zhu, Dayong Ye, Lefeng Zhang, Le Wang, Wanlei Zhou
   - Date: 2026-01
@@ -351,7 +351,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Xin Gao, Ruiyi Zhang, Daniel Du, Saurabh Mahindre, Sai Ashish Somayajula, Pengtao Xie
   - Date: 2025-10
   - Venue: -
-  - Code: [GitHub](https://github.com/gxx27/time_unlearn)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gxx27/time_unlearn)
 
 ### 2025
 
@@ -359,12 +359,12 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Chengye Wang, Yuyuan Li, XiaoHua Feng, Chaochao Chen, Xiaolin Zheng, Jianwei Yin
   - Date: 2025-12
   - Venue: NeurIPS 2025
-  - Code: [GitHub](https://github.com/QDRhhhh/UMU-bench)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QDRhhhh/UMU-bench)
 - [Identifying Unlearned Data in LLMs via Membership Inference Attacks](https://aclanthology.org/2025.emnlp-main.551/)
   - Author(s): Advit Deepak, Megan Mou, Jing Huang, Diyi Yang
   - Date: 2025-11
   - Venue: EMNLP 2025
-  - Code: [GitHub](https://github.com/AdvitDeepak/fuma)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AdvitDeepak/fuma)
 - [Unlearners Can Lie: Evaluating "Honesty" in LLM Unlearning](https://openreview.net/forum?id=fhrOSzieCS)
   - Author(s): Renjie Gu, Jiazhen Du, Yihua Zhang, Sijia Liu
   - Date: 2025-10
@@ -394,7 +394,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Minkyoo Song, Hanna Kim, Jaehan Kim, Seungwon Shin, Sooel Son
   - Date: 2025-08
   - Venue: USENIX Security 2025
-  - Code: [GitHub](https://github.com/minkyoo9/Unlearning-safety-alignment)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/minkyoo9/Unlearning-safety-alignment)
 - [Forget the Token and Pixel: Rethinking Gradient Ascent for Concept Unlearning in Multimodal Generative Models](https://aclanthology.org/2025.findings-acl.630/)
   - Author(s): Jiaqi Li, Chuanyi Zhang, Miaozeng Du, Hui Zhang, Yongrui Chen, Qianshan Wei, Junfeng Fang, Ruipeng Wang, Sheng Bi, Guilin Qi
   - Date: 2025-07
@@ -509,7 +509,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Duo Zhou, Yuji Zhang, Tianxin Wei, Ruizhong Qiu, Ke Yang, Xiao Lin, Cheng Qian, Jingrui He, Hanghang Tong, Chengxiang Zhai, Heng Ji, Huan Zhang
   - Date: 2025-11
   - Venue: -
-  - Code: [GitHub](https://github.com/Lemutisme/Geometric-Unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lemutisme/Geometric-Unlearning)
 - [From Narrow Unlearning to Emergent Misalignment: Causes, Consequences, and Containment in LLMs](https://arxiv.org/abs/2511.14017)
   - Author(s): Erum Mushtaq, Anil Ramakrishna, Satyapriya Krishna, Sattvik Sahai, Prasoon Goyal, Kai-Wei Chang, Tao Zhang, Rahul Gupta
   - Date: 2025-11
@@ -849,7 +849,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Kyle O'Brien, Stephen Casper, Quentin Anthony, Tomek Korbak, Robert Kirk, Xander Davies, Ishan Mishra, Geoffrey Irving, Yarin Gal, Stella Biderman
   - Date: 2025-08
   - Venue: -
-  - Code: [GitHub](https://github.com/EleutherAI/deep-ignorance)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EleutherAI/deep-ignorance)
 - [LLM Unlearning using Gradient Ratio-Based Influence Estimation and Noise Injection](https://arxiv.org/abs/2508.06467)
   - Author(s): Ameya Anjarlekar, Sandeep Pombra
   - Date: 2025-08
@@ -982,14 +982,14 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Code: -
 - [Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps](https://arxiv.org/pdf/2502.14829)
   - Author(s): Martin Tutek, Fateme Hashemi Chaleshtori, Ana Marasovic
-  - Data: 2025-06
+  - Date: 2025-06
   - Venue: -
-  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/%20technion-cs-nlp/parametric-faithfulness)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/technion-cs-nlp/parametric-faithfulness)
 - [Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills](https://arxiv.org/abs/2506.12963)
   - Author(s): Changsheng Wang, Chongyu Fan, Yihua Zhang, Jinghan Jia, Dennis Wei, Parikshit Ram, Nathalie Baracaldo, Sijia Liu
   - Date: 2025-06
   - Venue: -
-  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/Unlearn-R2MU)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/Unlearn-R2MU)
 - [OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics](https://arxiv.org/abs/2506.12618)
   - Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, Zachary C. Lipton, J. Zico Kolter, Pratyush Maini
   - Date: 2025-06
@@ -1263,8 +1263,8 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
 - [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://arxiv.org/abs/2504.10957)
   - Author(s): Hongkang Li, Yihua Zhang, Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen
   - Date: 2025-04
-  - Venue: -
-  - Code: ICLR 2025
+  - Venue: ICLR 2025
+  - Code: -
 - [LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks](https://arxiv.org/abs/2504.10185)
   - Author(s): Soumyadeep Pal, Changsheng Wang, James Diffenderfer, Bhavya Kailkhura, Sijia Liu
   - Date: 2025-04
@@ -1535,7 +1535,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Yoav Gur-Arieh, Clara Haya Suslik, Yihuai Hong, Fazl Barez, Mor Geva
   - Date: 2025-11
   - Venue: EMNLP 2025
-  - Code: [GitHub](https://github.com/yoavgur/PISCES)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yoavgur/PISCES)
 - [A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization](https://aclanthology.org/2025.emnlp-main.452/)
   - Author(s): Anda Cheng, Wei Huang, Yinggui Wang
   - Date: 2025-11
@@ -1545,7 +1545,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Dan Parii, Thomas van Osch, Chang Sun
   - Date: 2025-11
   - Venue: NLLP 2025
-  - Code: [GitHub](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning)
 - [Adaptive Localization of Knowledge Negation for Continual LLM Unlearning](https://proceedings.mlr.press/v267/wuerkaixi25a.html)
   - Author(s): Abudukelimu Wuerkaixi, Qizhou Wang, Sen Cui, Wutong Xu, Bo Han, Gang Niu, Masashi Sugiyama, Changshui Zhang
   - Date: 2025-10
@@ -1585,7 +1585,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Shengming Zhang, Le Zhang, Jingbo Zhou, Zhi Zheng, Hui Xiong
   - Date: 2025-07
   - Venue: KDD 2025
-  - Code: [GitHub](https://github.com/mmichaelzhang/LLM-Eraser)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mmichaelzhang/LLM-Eraser)
 - [SemEval-2025 Task 4: Unlearning Sensitive Content from Large Language Models](https://aclanthology.org/2025.semeval-1.329/)
   - Author(s): Anil Ramakrishna, Yixin Wan, Xiaomeng Jin, Kai-Wei Chang, Zhiqi Bu, Bhanukiran Vinzamuri, Volkan Cevher, Mingyi Hong, Rahul Gupta
   - Date: 2025-07
@@ -1721,7 +1721,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
 - [Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/abs/2411.02631)
   - Author(s): Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann
   - Date: 2024-11
-  - Venue: - 
+  - Venue: -
   - Code: -
 - [RESTOR: Knowledge Recovery through Machine Unlearning](https://arxiv.org/abs/2411.00204)
   - Author(s): Keivan Rezaei, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
@@ -1853,6 +1853,11 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Date: 2024-10
   - Venue: -
   - Code: -
+- [Concept Unlearning for Large Language Models](https://openreview.net/forum?id=nU7Se8oIPJ)
+  - Author(s): Tomoya Yamashita, Takayuki Miura, Yuuki Yamanaka, Toshiki Shibahara, Masanori Yamada
+  - Date: 2024-10
+  - Venue: NeurIPS 2024 Workshop SafeGenAi
+  - Code: -
 - [An Adversarial Perspective on Machine Unlearning for AI Safety](https://arxiv.org/abs/2409.18025)
   - Author(s): Jakub Łucki, Boyi Wei, Yangsibo Huang, Peter Henderson, Florian Tramèr, Javier Rando
   - Date: 2024-09
@@ -1872,7 +1877,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Author(s): Tianle Gu, Kexin Huang, Ruilin Luo, Yuanqi Yao, Yujiu Yang, Yan Teng, Yingchun Wang
   - Date: 2024-09
   - Venue: -
-  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Carol-gutianle/MEOW)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Carol-gutianle/MEOW)
 - [Unforgettable Generalization in Language Models](https://arxiv.org/abs/2409.02228)
   - Author(s): Eric Zhang, Leshem Chosen, Jacob Andreas
   - Date: 2024-09
@@ -1946,13 +1951,13 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
 - [Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective](https://aclanthology.org/2024.emnlp-main.495/)
   - Author(s): Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
   - Date: 2024-07
-  - Venue: - EMNLP 2024
+  - Venue: EMNLP 2024
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UCSB-NLP-Chang/causal_unlearn.git)
 - [Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation](https://arxiv.org/abs/2407.16951)
   - Author(s): Huimin Lu, Masaru Isonuma, Junichiro Mori, Ichiro Sakata
   - Date: 2024-07
   - Venue: -
-  - Cdoe: -
+  - Code: -
 - [Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](https://arxiv.org/abs/2407.15549)
   - Author(s): Abhay Sheshadri, Aidan Ewart, Phillip Guo, Aengus Lynch, Cindy Wu, Vivek Hebbar, Henry Sleight, Asa Cooper Stickland, Ethan Perez, Dylan Hadfield-Menell, Stephen Casper
   - Date: 2024-07
@@ -1986,8 +1991,8 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
 - [MUSE: Machine Unlearning Six-Way Evaluation for Language Models](https://openreview.net/forum?id=TArmA033BU)
   - Author(s): Weijia Shi, Jaechan Lee, Yangsibo Huang, Sadhika Malladi, Jieyu Zhao, Ari Holtzman, Daogao Liu, Luke Zettlemoyer, Noah A. Smith, Chiyuan Zhang
   - Date: 2024-07
-  - Venue: - ICML 2024
-  - Code: -[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://muse-bench.github.io/)
+  - Venue: ICML 2024
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://muse-bench.github.io/)
 - [If You Don't Understand It, Don't Use It: Eliminating Trojans with Filters Between Layers](https://arxiv.org/abs/2407.06411)
   - Author(s): Adriano Hernandez
   - Date: 2024-07
@@ -2001,7 +2006,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
 - [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2407.01920)
   - Author(s): Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang
   - Date: 2024-07
-  - Venue: - EMNLP Findings 2024
+  - Venue: EMNLP Findings 2024
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zjunlp/KnowUnDo)
 - [Can Small Language Models Learn, Unlearn, and Retain Noise Patterns?](https://arxiv.org/abs/2407.00996)
   - Author(s): Nicy Scaria, Silvester John Joseph Kennedy, Deepak Subramani
@@ -2121,7 +2126,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
 - [Can Textual Unlearning Solve Cross-Modality Safety Alignment?](https://aclanthology.org/2024.findings-emnlp.574/)
   - Author(s): Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M. Salman Asif, Yue Dong, Amit K. Roy-Chowdhury, Chengyu Song
   - Date: 2024-06
-  - Venue: - EMNLP Findings 2024
+  - Venue: EMNLP Findings 2024
   - Code: -
 - [RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning Personal Information in Large Language Models](https://arxiv.org/abs/2406.01983)
   - Author(s): Bichen Wang, Yuzhe Zi, Yixin Sun, Yanyan Zhao, Bing Qin
@@ -2161,7 +2166,7 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
 - [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://aclanthology.org/2024.emnlp-main.245/)
   - Author(s): Jinghan Jia, Yihua Zhang, Yimeng Zhang, Jiancheng Liu, Bharat Runwal, James Diffenderfer, Bhavya Kailkhura, Sijia Liu
   - Date: 2024-04
-  - Venue: - EMNLP 2024
+  - Venue: EMNLP 2024
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/SOUL)
 - [Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)
   - Author(s): Kongyang Chen, Zixin Wang, Bing Mi, Waixi Liu, Shaowei Wang, Xiaojun Ren, Jiaxing Shen
@@ -2266,8 +2271,8 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
 - [EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://aclanthology.org/2024.emnlp-main.67/)
   - Author(s): Shangyu Xing, Fei Zhao, Zhen Wu, Tuo An, Weihao Chen, Chunhui Li, Jianbing Zhang, Xinyu Dai
   - Date: 2024-02
-  - Venue: - EMNLP 2024
-  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/starreeze/efuf)
+  - Venue: EMNLP 2024
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/starreeze/efuf)
 - [Unlearning Reveals the Influential Training Data of Language Models](https://arxiv.org/abs/2401.15241)
   - Author(s): Masaru Isonuma, Ivan Titov
   - Date: 2024-01
@@ -2278,12 +2283,6 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
   - Date: 2024-01
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/locuslab/tofu)
-
-- [Concept Unlearning for Large Language Models](https://openreview.net/forum?id=nU7Se8oIPJ)
-  - Author(s): Tomoya Yamashita, Takayuki Miura, Yuuki Yamanaka, Toshiki Shibahara, Masanori Yamada
-  - Date: 2024-10
-  - Venue: NeurIPS 2024 Workshop SafeGenAi
-  - Code: -
 ### 2023
 
 - [FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs](https://arxiv.org/abs/2312.07420)
@@ -2319,8 +2318,8 @@ As of the last commit, there are **475** papers, **17** surveys and position pap
 - [In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)
   - Author(s): Martin Pawelczyk, Seth Neel, Himabindu Lakkaraju
   - Date: 2023-10
-  - Venue: - ICML 2024
-  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MartinPawel/In-Context-Unlearning)
+  - Venue: ICML 2024
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MartinPawel/In-Context-Unlearning)
 - [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)
   - Author(s): Yuanshun Yao, Xiaojun Xu, Yang Liu
   - Date: 2023-10
@@ -2542,7 +2541,7 @@ Contributions welcome! Please open a PR if you know of papers, benchmarks, or to
     - Author(s): Name1, Name2, ...
     - Date: YYYY-MM
     - Venue: VenueName Year (or - if preprint)
-    - Code: [GitHub](url) (or - if none)
+    - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](url) (or - if none)
   ```
 
 ## Citation
