@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **492** papers, **17** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **496** papers, **17** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,11 @@ As of the last commit, there are **492** papers, **17** surveys and position pap
 
 ### 2026
 
+- [UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks](https://arxiv.org/abs/2604.23141)
+  - Author(s): Tianlong Yu, Yang Yang, Xiao Luo, Lihong Liu, Fudu Xing, Zui Tao, Kailong Wang, Gaoyang Liu, Ting Bi
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
 - [PrivUn: Unveiling Latent Ripple Effects and Shallow Forgetting in Privacy Unlearning](https://arxiv.org/abs/2604.22076)
   - Author(s): Xiaoyi Chen, Haoyuan Wang, Siyuan Tang, Sijia Liu, Liya Su, XiaoFeng Wang, Haixu Tang
   - Date: 2026-04
@@ -46,6 +51,11 @@ As of the last commit, there are **492** papers, **17** surveys and position pap
   - Author(s): Seunghee Koh, Sunghyun Baek, Youngdong Kim, Junmo Kim
   - Date: 2026-04
   - Venue: ACL 2026
+  - Code: -
+- [Representation-Guided Parameter-Efficient LLM Unlearning](https://arxiv.org/abs/2604.17396)
+  - Author(s): Zeguan Xiao, Lang Mo, Yun Chen, Lei Yang, Jiehui Zhao, Lili Yang, Guanhua Chen
+  - Date: 2026-04
+  - Venue: -
   - Code: -
 - [Randomized Antipodal Search Done Right for Data Pareto Improvement of LLM Unlearning](https://arxiv.org/abs/2604.16591)
   - Author(s): Ziwen Liu, Huawei Lin, Yide Ran, Denghui Zhang, Jianwen Xie, Chuan Li, Weijie Zhao, Zhaozhuo Xu
@@ -77,6 +87,11 @@ As of the last commit, there are **492** papers, **17** surveys and position pap
   - Date: 2026-04
   - Venue: -
   - Code: -
+- [WIN-U: Woodbury-Informed Newton-Unlearning as a retain-free Machine Unlearning Framework](https://arxiv.org/abs/2604.13438)
+  - Author(s): Xingjian Zhao, Mohammad Mohammadi Amiri, Malik Magdon-Ismail
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
 - [RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair](https://arxiv.org/abs/2604.12820)
   - Author(s): Jagadeesh Rachapudi, Pranav Singh, Ritali Vatsi, Praful Hambarde, Amit Shukla
   - Date: 2026-04
@@ -86,6 +101,11 @@ As of the last commit, there are **492** papers, **17** surveys and position pap
   - Author(s): Esen Kurt, Haithem Afli
   - Date: 2026-04
   - Venue: PoliticalNLP 2026
+  - Code: -
+- [Mitigating Privacy Risk via Forget Set-Free Unlearning](https://arxiv.org/abs/2604.10636)
+  - Author(s): Aviraj Newatia, Michael Cooper, Viet Nguyen, Rahul G. Krishnan
+  - Date: 2026-04
+  - Venue: -
   - Code: -
 - [Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning](https://arxiv.org/abs/2604.03114)
   - Author(s): Zhangyun Tan, Zeliang Zhang, Susan Liang, Yolo Yunlong Tang, Lisha Chen, Chenliang Xu
