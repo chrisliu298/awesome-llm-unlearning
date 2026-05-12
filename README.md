@@ -2812,7 +2812,7 @@ If you find this repository useful, please consider citing it:
 ```bibtex
 @software{awesome-llm-unlearning,
   title = {{Awesome Large Language Model Unlearning}},
-  author = {Liu, Chris Yuhao},
+  author = {Liu, Chris Yuhao and others},
   year = {2024},
   doi = {10.5281/zenodo.19411433},
   url = {https://github.com/chrisliu298/awesome-llm-unlearning},
