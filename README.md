@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **496** papers, **17** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **527** papers, **17** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,86 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
 
 ### 2026
 
+- **PPU-Bench: Real World Benchmark for Personalized Partial Unlearning in Vision Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2605.08800-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.08800)
+  - Author(s): Jiahui Guang, Zexun Zhan, Zhenlin Xu, Cuiyun Gao, Haiyan Wang, Jing Li, Zhaoquan Gu, Yanchun Zhang
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **Unlearners Can Lie: Evaluating and Improving Honesty in LLM Unlearning** [![arXiv](https://img.shields.io/badge/arXiv-2605.08765-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.08765)
+  - Author(s): Renjie Gu, Jiazhen Du, Yihua Zhang, Sijia Liu
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2605.08031-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.08031)
+  - Author(s): Kaidi Jia, Yujie Lin, Chengyi Yang, Jiayao Ma, Jinsong Su
+  - Date: 2026-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/XMUDeepLIT/HFRU)
+- **SHRED: Retain-Set-Free Unlearning via Self-Distillation with Logit Demotion** [![arXiv](https://img.shields.io/badge/arXiv-2605.07482-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.07482)
+  - Author(s): Zizhao Hu, Ameya Godbole, Johnny Tian-Zheng Wei, Mohammad Rostami, Jesse Thomason, Robin Jia
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **ICU-Bench: Benchmarking Continual Unlearning in Multimodal Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2605.05938-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.05938)
+  - Author(s): Yuhang Wang, Wenjie Mei, Junkai Zhang, Guangyu He, Zhenxing Niu, Haichang Gao
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **Null Space Constrained Contrastive Visual Forgetting for MLLM Unlearning** [![arXiv](https://img.shields.io/badge/arXiv-2605.05909-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.05909)
+  - Author(s): Yuhang Wang, Zhenxing Niu, Haoxuan Ji, Guangyu He, Linlin Zhang, Haichang Gao
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **MidSteer: Optimal Affine Framework for Steering Generative Models** [![arXiv](https://img.shields.io/badge/arXiv-2605.05220-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.05220)
+  - Author(s): Tatiana Gaintseva, Andrew Stepanov, Ziquan Liu, Martin Benning, Gregory Slabaugh, Jiankang Deng, Ismail Elezi
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks** [![arXiv](https://img.shields.io/badge/arXiv-2605.03759-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.03759)
+  - Author(s): JuneHyoung Kwon, MiHyeon Kim, Eunju Lee, JungMin Yun, Byeonggeuk Lim, YoungBin Kim
+  - Date: 2026-05
+  - Venue: ACL 2026 Findings
+  - Code: -
+- **Erase Persona, Forget Lore: Benchmarking Multimodal Copyright Unlearning in Large Vision Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2605.03547-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.03547)
+  - Author(s): JuneHyoung Kwon, JungMin Yun, YoungBin Kim
+  - Date: 2026-05
+  - Venue: LREC 2026
+  - Code: -
+- **Metric Unreliability in Multimodal Machine Unlearning: A Systematic Analysis and Principled Unified Score** [![arXiv](https://img.shields.io/badge/arXiv-2605.02206-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.02206)
+  - Author(s): Abdullah Ahmad Khan, Hamid Laga, Ferdous Sohel
+  - Date: 2026-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/neurips26/UnifiedUnl)
+- **DurableUn: Quantization-Induced Recovery Attacks in Machine Unlearning** [![arXiv](https://img.shields.io/badge/arXiv-2605.02196-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.02196)
+  - Author(s): Abdullah Ahmad Khan, Ferdous Sohel
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure** [![arXiv](https://img.shields.io/badge/arXiv-2605.01735-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.01735)
+  - Author(s): Chenchen Tan, Xinghao Li, Shujie Cui, Youyang Qu, Cunjian Chen, Longxiang Gao
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **Probe-Geometry Alignment: Erasing the Cross-Sequence Memorization Signature Below Chance** [![arXiv](https://img.shields.io/badge/arXiv-2605.01699-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.01699)
+  - Author(s): Anamika Paul Rupa, Anietie Andy
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **LLM Ghostbusters: Surgical Hallucination Suppression via Adaptive Unlearning** [![arXiv](https://img.shields.io/badge/arXiv-2605.01047-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.01047)
+  - Author(s): Joseph Spracklen, Pedram Aghazadeh, Farinaz Koushanfar, Murtuza Jadliwala
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **Unlearning What Matters: Token-Level Attribution for Precise Language Model Unlearning** [![arXiv](https://img.shields.io/badge/arXiv-2605.00364-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.00364)
+  - Author(s): Jiawei Wu, Doudou Zhou
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- **[When Forgetting Reveals: Black-Box Inversion Attacks on Unlearning in Large Language Models](https://link.springer.com/chapter/10.1007/978-3-032-16092-8_38)**
+  - Author(s): Zijun Zhang, Bang Wu, Xingliang Yuan
+  - Date: 2026-05
+  - Venue: ESORICS 2025 International Workshops
+  - Code: -
 - **UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks** [![arXiv](https://img.shields.io/badge/arXiv-2604.23141-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.23141)
   - Author(s): Tianlong Yu, Yang Yang, Xiao Luo, Lihong Liu, Fudu Xing, Zui Tao, Kailong Wang, Gaoyang Liu, Ting Bi
   - Date: 2026-04
@@ -82,6 +162,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Date: 2026-04
   - Venue: ACL 2026 Findings
   - Code: -
+- **CausalDetox: Causal Head Selection and Intervention for Language Model Detoxification** [![arXiv](https://img.shields.io/badge/arXiv-2604.14602-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.14602)
+  - Author(s): Yian Wang, Yuen Chen, Agam Goyal, Hari Sundaram
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
 - **From Anchors to Supervision: Memory-Graph Guided Corpus-Free Unlearning for Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2604.13777-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.13777)
   - Author(s): Wenxuan Li, Zhenfei Zhang, Mi Zhang, Geng Hong, Mi Wen, Xiaoyu You, Min Yang
   - Date: 2026-04
@@ -104,6 +189,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Code: -
 - **Mitigating Privacy Risk via Forget Set-Free Unlearning** [![arXiv](https://img.shields.io/badge/arXiv-2604.10636-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.10636)
   - Author(s): Aviraj Newatia, Michael Cooper, Viet Nguyen, Rahul G. Krishnan
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
+- **Latent Instruction Representation Alignment: defending against jailbreaks, backdoors and undesired knowledge in LLMs** [![arXiv](https://img.shields.io/badge/arXiv-2604.10403-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.10403)
+  - Author(s): Eric Easley, Sebastian Farquhar
   - Date: 2026-04
   - Venue: -
   - Code: -
@@ -139,6 +229,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Code: -
 - **Exclusive Unlearning** [![arXiv](https://img.shields.io/badge/arXiv-2604.06154-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.06154)
   - Author(s): Mutsumi Sasaki, Kouta Nakayama, Yusuke Miyao, Yohei Oseki, Masaru Isonuma
+  - Date: 2026-04
+  - Venue: -
+  - Code: -
+- **Can Large Language Models Reinvent Foundational Algorithms?** [![arXiv](https://img.shields.io/badge/arXiv-2604.05716-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.05716)
+  - Author(s): Jian Zhao, Haoren Luo, Yu Wang, Yuhan Cao, Pingyue Sheng, Tianxing He
   - Date: 2026-04
   - Venue: -
   - Code: -
@@ -179,6 +274,16 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Code: -
 - **Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2603.21484-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.21484)
   - Author(s): Hyundong Jin, Dongyoon Han, Eunwoo Kim
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- **Parameter-Efficient Token Embedding Editing for Clinical Class-Level Unlearning** [![arXiv](https://img.shields.io/badge/arXiv-2603.19302-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.19302)
+  - Author(s): Iyad Ait Hou, Shrenik Borad, Harsh Sharma, Pooja Srinivasan, Rebecca Hwa, Aya Zirikly
+  - Date: 2026-03
+  - Venue: -
+  - Code: -
+- **RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models** [![arXiv](https://img.shields.io/badge/arXiv-2603.14819-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.14819)
+  - Author(s): Ravi Ranjan, Utkarsh Grover, Xiaomin Lin, Agoritsa Polyzou
   - Date: 2026-03
   - Venue: -
   - Code: -
@@ -272,6 +377,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Date: 2026-02
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/patryk-rybak/REBEL/)
+- **Copyright Detective: A Forensic System to Evidence LLMs Flickering Copyright Leakage Risks** [![arXiv](https://img.shields.io/badge/arXiv-2602.05252-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.05252)
+  - Author(s): Guangwei Zhang, Jianing Zhu, Cheng Qian, Neil Gong, Rada Mihalcea, Zhaozhuo Xu, Jingrui He, Jiaqi Ma, Yun Huang, Chaowei Xiao, Bo Li, Ahmed Abbasi, Dongwon Lee, Heng Ji, Denghui Zhang
+  - Date: 2026-02
+  - Venue: -
+  - Code: -
 - **CATNIP: LLM Unlearning via Calibrated and Tokenized Negative Preference Alignment** [![arXiv](https://img.shields.io/badge/arXiv-2602.02824-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.02824)
   - Author(s): Zhengbang Yang, Yisheng Zhong, Junyuan Hong, Zhuangdi Zhu
   - Date: 2026-02
@@ -342,6 +452,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Date: 2026-01
   - Venue: WWW 2026
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JinLi-i/FUDLR)
+- **Unintended Memorization of Sensitive Information in Fine-Tuned Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2601.17480-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.17480)
+  - Author(s): Marton Szep, Jorge Marin Ruiz, Georgios Kaissis, Paulina Seidl, Rüdiger von Eisenhart-Rothe, Florian Hinterwimmer, Daniel Rueckert
+  - Date: 2026-01
+  - Venue: -
+  - Code: -
 - **GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints** [![arXiv](https://img.shields.io/badge/arXiv-2601.16905-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.16905)
   - Author(s): Andy Zhu, Rongzhe Wei, Yupu Gu, Pan Li
   - Date: 2026-01
@@ -487,6 +602,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Code: -
 - **[MOUCHI: Mitigating Over-forgetting in Unlearning Copyrighted Information](https://openreview.net/forum?id=N2wPtFVK6o)**
   - Author(s): Irfan Akbar, Dongmin Park, Patara Trirat, Jae-Gil Lee
+  - Date: 2025-09
+  - Venue: -
+  - Code: -
+- **[Provably Continual Unlearning for Large Language Model](https://openreview.net/forum?id=lt6TOvtSay)**
+  - Author(s): Haoran Shi, Hao Zhu, Han Yu, Lizhen Cui, Yifei Zhang, Piotr Koniusz
   - Date: 2025-09
   - Venue: -
   - Code: -
@@ -667,6 +787,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Code: -
 - **The Limits of Obliviate: Evaluating Unlearning in LLMs via Stimulus-Knowledge Entanglement-Behavior Framework** [![arXiv](https://img.shields.io/badge/arXiv-2510.25732-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.25732)
   - Author(s): Aakriti Shah, Thai Le
+  - Date: 2025-10
+  - Venue: -
+  - Code: -
+- **From Memorization to Reasoning in the Spectrum of Loss Curvature** [![arXiv](https://img.shields.io/badge/arXiv-2510.24256-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.24256)
+  - Author(s): Jack Merullo, Srihita Vatsavaya, Lucius Bushnaq, Owen Lewis
   - Date: 2025-10
   - Venue: -
   - Code: -
@@ -1110,6 +1235,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Date: 2025-06
   - Venue: -
   - Code: -
+- **Lifting Data-Tracing Machine Unlearning to Knowledge-Tracing for Foundation Models** [![arXiv](https://img.shields.io/badge/arXiv-2506.11253-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.11253)
+  - Author(s): Yuwen Tan, Boqing Gong
+  - Date: 2025-06
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/1yuwen/Knowledge-Tracing-MU)
 - **GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2506.10946-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.10946)
   - Author(s): Evelyn Ma, Duo Zhou, Peizhi Niu, Huiting Zhou, Huan Zhang, Olgica Milenkovic, S. Rasoul Etesami
   - Date: 2025-06
@@ -1798,6 +1928,16 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Date: 2024-11
   - Venue: EMNLP 2024 Findings
   - Code: -
+- **[Fine-grained Pluggable Gradient Ascent for Knowledge Unlearning in Language Models](https://aclanthology.org/2024.emnlp-main.566/)**
+  - Author(s): XiaoHua Feng, Chaochao Chen, Yuyuan Li, Zibin Lin
+  - Date: 2024-11
+  - Venue: EMNLP 2024
+  - Code: -
+- **[ULMR: Unlearning Large Language Models via Negative Response and Model Parameter Average](https://aclanthology.org/2024.emnlp-industry.57/)**
+  - Author(s): Shaojie Shi, Xiaoyu Tan, Xihe Qiu, Chao Qu, Kexin Nie, Yuan Cheng, Wei Chu, Xu Yinghui, Yuan Qi
+  - Date: 2024-11
+  - Venue: EMNLP 2024 Industry Track
+  - Code: -
 - **MUNBa: Machine Unlearning via Nash Bargaining** [![arXiv](https://img.shields.io/badge/arXiv-2411.15537-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.15537)
   - Author(s): Jing Wu, Mehrtash Harandi
   - Date: 2024-11
@@ -1992,6 +2132,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Author(s): Md Rafi Ur Rashid, Jing Liu, Toshiaki Koike-Akino, Shagufta Mehnaz, Ye Wang
   - Date: 2024-08
   - Venue: -
+  - Code: -
+- **[Large Language Models Relearn Removed Concepts](https://aclanthology.org/2024.findings-acl.492/)**
+  - Author(s): Michelle Lo, Fazl Barez, Shay Cohen
+  - Date: 2024-08
+  - Venue: ACL 2024 Findings
   - Code: -
 - **LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet** [![arXiv](https://img.shields.io/badge/arXiv-2408.15221-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2408.15221)
   - Author(s): Nathaniel Li, Ziwen Han, Ian Steneker, Willow Primack, Riley Goodside, Hugh Zhang, Zifan Wang, Cristina Menghini, Summer Yue
@@ -2395,6 +2540,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Date: 2023-12
   - Venue: NeurIPS 2023 SoLaR Workshop
   - Code: -
+- **[Preserving Privacy Through Dememorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models](https://aclanthology.org/2023.emnlp-main.265/)**
+  - Author(s): Aly Kassem, Omar Mahmoud, Sherif Saad
+  - Date: 2023-12
+  - Venue: EMNLP 2023
+  - Code: -
 - **Making Harmful Behaviors Unlearnable for Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2311.02105-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2311.02105)
   - Author(s): Xin Zhou, Yi Lu, Ruotian Ma, Tao Gui, Qi Zhang, Xuanjing Huang
   - Date: 2023-11
@@ -2445,6 +2595,11 @@ As of the last commit, there are **496** papers, **17** surveys and position pap
   - Date: 2023-09
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vaidehi99/InfoDeletionAttacks)
+- **Knowledge Sanitization of Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2309.11852-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2309.11852)
+  - Author(s): Yoichi Ishibashi, Hidetoshi Shimodaira
+  - Date: 2023-09
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yoichi1484/knowledge-sanitization)
 - **Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation** [![arXiv](https://img.shields.io/badge/arXiv-2308.08090-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2308.08090)
   - Author(s): Xinshuo Hu, Dongfang Li, Baotian Hu, Zihao Zheng, Zhenyu Liu, Min Zhang
   - Date: 2023-08
