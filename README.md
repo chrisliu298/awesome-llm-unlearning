@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **558** papers, **17** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **566** papers, **17** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,46 @@ As of the last commit, there are **558** papers, **17** surveys and position pap
 
 ### 2026
 
+- [Auditing Machine Unlearning: A Systematic Research on Whether Models Truly Forget](https://arxiv.org/abs/2606.16110)
+  - Author(s): Dayong Ye, Tianqing Zhu, Ruiding Huang, Xinbo Fu, Jiayang Li, Bo Liu, Huan Huo, Wanlei Zhou
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [Replay What Matters: Off-Policy Replay for Efficient LLM Reinforcement Unlearning](https://arxiv.org/abs/2606.15333)
+  - Author(s): Zirui Pang, Chenlong Zhang, Haosheng Tan, Zhuoran Jin, Jiaheng Wei, Zixin Zhong
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [Natively Unlearnable Large Language Models](https://arxiv.org/abs/2606.13873)
+  - Author(s): Gaurav R. Ghosal, Pratyush Maini, Aditi Raghunathan
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841)
+  - Author(s): Zhengtao Yao, Liuyang Song, Hongbo Zhang, Chenhao Wei, Haoyan Xu, Guang Yang, Siheng Wang
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs](https://arxiv.org/abs/2606.12809)
+  - Author(s): He Li, Haoang Chi, Qizhou Wang, Yunxin Mao, Zhiheng Zhang, Jie Tan, Tongliang Liu, Wenjing Yang, Bo Han
+  - Date: 2026-06
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lihe-maxsize/Lifelong_Unlearning_main)
+- [Null-Space Constrained Low-Rank Adaptation for Response-Specified Large Language Model Unlearning](https://arxiv.org/abs/2606.10989)
+  - Author(s): Bocheng Ju, Jianhua Wang, Chengliang Liu, Xiaolin Chang
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [Routing-Aware Expert Calibration for Machine Unlearning in Mixture-of-Experts Language Models](https://arxiv.org/abs/2606.10338)
+  - Author(s): Jingyi Xie, Yijun Lin, Yinjiang Xiong, Zhikun Zhang, Sai Li
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [SPACE: Source-free Proxy Anchor Concept Erasure for MLLMs](https://arxiv.org/abs/2606.09868)
+  - Author(s): Zhijing Zhang, Jiaqi Ding, Qianshan Wei, Nan Zhou, Jiaqi Li, Yongliang Wu, Tongxin Zhu, Xiaolin Fang
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
 - [TRACER: Token ReAssignment for Concept ERasure in Generative Recommendation](https://arxiv.org/abs/2606.07688)
   - Author(s): Ziheng Chen, Jiali Cheng, Zezhong Fan, Hadi Amiri, Diyuan Wu, Gabriele Tolomei, Yang Zhang
   - Date: 2026-06
