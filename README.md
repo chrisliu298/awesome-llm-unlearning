@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **566** papers, **17** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **575** papers, **17** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -111,6 +111,11 @@ As of the last commit, there are **566** papers, **17** surveys and position pap
   - Author(s): Junkai Chen, Yuhao He, Junxiang You, Ruiqi Liu, Chenyu Wang, Shu Wu
   - Date: 2026-06
   - Venue: -
+  - Code: -
+- [Break the Output Geometry for Large Language Model Unlearning](https://openreview.net/forum?id=UELnN26zPQ)
+  - Author(s): Yejin Kim, William F. Shen, Seokwon Jung, Seong Joon Oh
+  - Date: 2026-06
+  - Venue: ICML 2026 MemFM Workshop
   - Code: -
 - [Divergence Decoding: Inference-Time Unlearning via Auxiliary Models](https://arxiv.org/abs/2605.31293)
   - Author(s): Humzah Merchant, Bradford Levy
@@ -297,6 +302,16 @@ As of the last commit, there are **566** papers, **17** surveys and position pap
   - Date: 2026-05
   - Venue: ESORICS 2025 International Workshops
   - Code: -
+- [DynaUnlearn: Continual Adversarial Unlearning for Robust Safety in LLM Agents](https://link.springer.com/chapter/10.1007/978-3-032-16092-8_39)
+  - Author(s): Nina Xie, Xinyu Deng
+  - Date: 2026-05
+  - Venue: ESORICS 2025 International Workshops
+  - Code: -
+- [Unlearning by Construction: Auxiliary Prediction as a Path to LLM Unlearning](https://link.springer.com/chapter/10.1007/978-3-032-17282-2_10)
+  - Author(s): Jiabao Ji, Yujian Liu, Shiyu Chang
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
 - [UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks](https://arxiv.org/abs/2604.23141)
   - Author(s): Tianlong Yu, Yang Yang, Xiao Luo, Lihong Liu, Fudu Xing, Zui Tao, Kailong Wang, Gaoyang Liu, Ting Bi
   - Date: 2026-04
@@ -427,6 +442,11 @@ As of the last commit, there are **566** papers, **17** surveys and position pap
   - Date: 2026-04
   - Venue: -
   - Code: -
+- [Unlearning-induced Collateral Corruption in Machine Unlearning for LLMs](https://openreview.net/forum?id=Jb2Cxn5gCd)
+  - Author(s): Bo Su, Yueru Yan, Thai Le
+  - Date: 2026-04
+  - Venue: MSLD 2026
+  - Code: -
 - [Towards Practical LLM Unlearning: Efficient, Modular, and Retain-Free](https://dl.acm.org/doi/10.1145/3774904.3792324)
   - Author(s): Peng Liu, Peng-Fei Zhang, Jianfeng Qu, Ximing Li, Zhixu Li, Pengpeng Zhao
   - Date: 2026-04
@@ -491,6 +511,11 @@ As of the last commit, there are **566** papers, **17** surveys and position pap
   - Author(s): Jinmyeong Shin, Joshua Tapia, Nicholas Ferreira, Gabriel Diaz, Moayed Daneshyari, Hyeran Jeon
   - Date: 2026-03
   - Venue: -
+  - Code: -
+- [Learn to be Unlearned: Optimizing Language Models for Unlearning via Clustered Gradient Routing](https://openreview.net/forum?id=QadV2NjyN8)
+  - Author(s): Vincent Hanke, Jing Xu, Martin Pawelczyk, Michael Backes, Adam Dziedzic, Franziska Boenisch
+  - Date: 2026-03
+  - Venue: ICLR 2026 Workshop Trustworthy AI
   - Code: -
 - [MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2602.23798)
   - Author(s): Tiantong Wang, Xinyu Yan, Tiantong Wu, Yurong Hao, Yong Jiang, Fei Huang, Wei Yang Bryan Lim
@@ -1000,6 +1025,11 @@ As of the last commit, there are **566** papers, **17** surveys and position pap
   - Date: 2025-10
   - Venue: -
   - Code: -
+- [The Evaluation of Retrieval-Based Unlearning Mechanisms on Large Language Models](https://link.springer.com/chapter/10.1007/978-981-95-3055-7_2)
+  - Author(s): Zihan Xie, Lefeng Zhang, Minfeng Qi
+  - Date: 2025-11
+  - Venue: KSEM 2025
+  - Code: -
 - [OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models](https://arxiv.org/abs/2510.22535)
   - Author(s): Hao Zheng, Zirui Pang, Ling li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei
   - Date: 2025-10
@@ -1223,6 +1253,11 @@ As of the last commit, there are **566** papers, **17** surveys and position pap
 - [Standard vs. Modular Sampling: Best Practices for Reliable LLM Unlearning](https://arxiv.org/abs/2509.05316)
   - Author(s): Praveen Bushipaka, Lucia Passaro, Tommaso Cucinotta
   - Date: 2025-08
+  - Venue: -
+  - Code: -
+- [CURE: A Unified Framework for Class and Concept Unlearning via Retraining Emulation](https://openreview.net/forum?id=106xEOnwGi)
+  - Author(s): Yiran Jia, Eric Yeats, Darryl Hannan, Aaron Jacobson, Timothy Doster, Henry Kvinge, Scott Mahan
+  - Date: 2025-09
   - Venue: -
   - Code: -
 - [Improving Fisher Information Estimation and Efficiency for LoRA-based LLM Unlearning](https://arxiv.org/abs/2508.21300)
@@ -1655,6 +1690,11 @@ As of the last commit, there are **566** papers, **17** surveys and position pap
   - Date: 2025-05
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vaidehi99/UnLOK-VQA)
+- [Token-Level Knowledge Unlearning for Large Language Model Security](https://link.springer.com/chapter/10.1007/978-981-96-4245-8_20)
+  - Author(s): Xin Song, Yong Liao
+  - Date: 2025-05
+  - Venue: CENet 2024
+  - Code: -
 - [AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security](https://arxiv.org/abs/2504.20965)
   - Author(s): Zikui Cai, Shayan Shabihi, Bang An, Zora Che, Brian R. Bartoldson, Bhavya Kailkhura, Tom Goldstein, Furong Huang
   - Date: 2025-04
@@ -1725,6 +1765,11 @@ As of the last commit, there are **566** papers, **17** surveys and position pap
   - Date: 2025-04
   - Venue: -
   - Code: -
+- [Gradual Negative Matching for LLM Unlearning](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_16)
+  - Author(s): Hrishikesh Kulkarni, Nazli Goharian, Ophir Frieder
+  - Date: 2025-04
+  - Venue: ECIR 2025
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Georgetown-IR-Lab/GNM)
 - [SUV: Scalable Large Language Model Copyright Compliance with Regularized Selective Unlearning](https://arxiv.org/abs/2503.22948)
   - Author(s): Tianyang Xu, Xiaoze Liu, Feijie Wu, Xiaoqian Wang, Jing Gao
   - Date: 2025-03
