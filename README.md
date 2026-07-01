@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **575** papers, **17** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **588** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,56 @@ As of the last commit, there are **575** papers, **17** surveys and position pap
 
 ### 2026
 
+- [Selective Span-Level Unlearning for Large Language Models](https://aclanthology.org/2026.acl-short.35/)
+  - Author(s): Chaewon Yoon, Dongjun Kim, Hyun-Je Song
+  - Date: 2026-07
+  - Venue: ACL 2026
+  - Code: -
+- [The Silence of the Facts: Popularity as a Barrier to Machine Unlearning](https://aclanthology.org/2026.acl-srw.46/)
+  - Author(s): Anna Borisiuk, Andrey Savchenko, Alexander Panchenko, Elena Tutubalina
+  - Date: 2026-07
+  - Venue: ACL 2026 SRW
+  - Code: -
+- [Thesis Proposal: Targeted and Unified Cross-Lingual Unlearning from Multilingual Language Models](https://aclanthology.org/2026.acl-srw.49/)
+  - Author(s): Jan Bronec, Jindřich Helcl
+  - Date: 2026-07
+  - Venue: ACL 2026 SRW
+  - Code: -
+- [Towards Knowledge Alignment in Code LLMs: Contrastive Unlearning for Evolving APIs](https://arxiv.org/abs/2606.30810)
+  - Author(s): Huy Q. Tran, Dang H. Vu, Tuyen N. Dinh, Anh H. D. Nguyen, Anh N. H. Vu, Anh M. T. Bui, Phuong T. Nguyen
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [CBD: API-Only LLM Black-Box Unlearning through Controlled Behavioral Divergence](https://arxiv.org/abs/2606.27683)
+  - Author(s): Zhiqiang Xie, Yijing Lin, Zhipeng Gao, Dong In Kim
+  - Date: 2026-06
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DGL-codes/CBD)
+- [Uncertainty-based Debiasing and Unlearning for Decontamination](https://arxiv.org/abs/2606.23313)
+  - Author(s): Guangzhi Sun, Xiao Zhan, Mark Gales
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [Mechanism-Guided Selective Unlearning for RLVR-Induced Reasoning](https://arxiv.org/abs/2606.19222)
+  - Author(s): Chenyu Zhou, Qiliang Jiang, Shuning Wu, Xu Zhou
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [PreUnlearn: Auditing Collateral Knowledge Damage Before Large Language Model Unlearning](https://arxiv.org/abs/2606.18473)
+  - Author(s): Bo Su, Ankit Shah, Thai Le
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [SAGE: Retain-Aware Post-Hoc Sanitization of Final Unlearning Vector](https://arxiv.org/abs/2606.18309)
+  - Author(s): Jingyuan Zhang, Yucheng Bai, Peixi Wen, Zhehao Huang, Zhengbao He, Hanling Tian, Xinwen Cheng, Haiyin Ran, Xiaolin Huang
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [RepSelect: Robust LLM Unlearning via Representation Selectivity](https://arxiv.org/abs/2606.17168)
+  - Author(s): Filip Sondej, Yushi Yang, Adam Mahdi
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
 - [Auditing Machine Unlearning: A Systematic Research on Whether Models Truly Forget](https://arxiv.org/abs/2606.16110)
   - Author(s): Dayong Ye, Tianqing Zhu, Ruiding Huang, Xinbo Fu, Jiayang Li, Bo Liu, Huan Huo, Wanlei Zhou
   - Date: 2026-06
@@ -516,6 +566,21 @@ As of the last commit, there are **575** papers, **17** surveys and position pap
   - Author(s): Vincent Hanke, Jing Xu, Martin Pawelczyk, Michael Backes, Adam Dziedzic, Franziska Boenisch
   - Date: 2026-03
   - Venue: ICLR 2026 Workshop Trustworthy AI
+  - Code: -
+- [From Chaos to Clarity: A Knowledge Graph-Driven Audit Dataset Generation Framework for LLM Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/40397)
+  - Author(s): Weipeng Jiang, Juan Zhai, Shiqing Ma, Ziyan Lei, Xiaofei Xie, Yige Wang, Chao Shen
+  - Date: 2026-03
+  - Venue: AAAI 2026
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lenijwp/LUCID)
+- [A Robust Unlearning Method with Adaptive Knowledge Guidance and Memory Preservation](https://ojs.aaai.org/index.php/AAAI/article/view/39017)
+  - Author(s): Jingyuan Tian, Xiaofei Zhou
+  - Date: 2026-03
+  - Venue: AAAI 2026
+  - Code: -
+- [TUNE: A Task For Turkish Machine Unlearning For Data Privacy](https://aclanthology.org/2026.sigturk-1.3/)
+  - Author(s): Doruk Benli, Ada Canoğlu, Nehir İlkim Gönençer, Dilara Keküllüoğlu
+  - Date: 2026-03
+  - Venue: SIGTURK 2026
   - Code: -
 - [MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2602.23798)
   - Author(s): Tiantong Wang, Xinyu Yan, Tiantong Wu, Yurong Hao, Yong Jiang, Fei Huang, Wei Yang Bryan Lim
@@ -2924,6 +2989,11 @@ As of the last commit, there are **575** papers, **17** surveys and position pap
 
 ## Surveys and Position Papers
 
+- [Position: The Term "Machine Unlearning" Is Overused in LLMs](https://arxiv.org/abs/2606.27379)
+  - Author(s): Sangyeon Yoon, Yeachan Jun, Albert No
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
 - [Machine Unlearning in Large Language Models: A Survey of Challenges and Methods](https://www.preprints.org/manuscript/202603.0114/v1)
   - Author(s): Xiaming Tu, Tianqing Zhu, Zhenni Liu, Ping Xiong, Wanlei Zhou
   - Date: 2026-03
