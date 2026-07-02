@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **588** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **591** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,11 @@ As of the last commit, there are **588** papers, **18** surveys and position pap
 
 ### 2026
 
+- [Auditing Forgetting in Limited Memory Language Models](https://arxiv.org/abs/2607.00605)
+  - Author(s): Arya Raeesi, Hanna Roed
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
 - [Selective Span-Level Unlearning for Large Language Models](https://aclanthology.org/2026.acl-short.35/)
   - Author(s): Chaewon Yoon, Dongjun Kim, Hyun-Je Song
   - Date: 2026-07
@@ -57,8 +62,18 @@ As of the last commit, there are **588** papers, **18** surveys and position pap
   - Date: 2026-06
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DGL-codes/CBD)
+- [Detect, Unlearn, Restore: Defending Text Summarization Models Against Data Poisoning](https://arxiv.org/abs/2606.26036)
+  - Author(s): Poojitha Thota, Shirin Nilizadeh
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
 - [Uncertainty-based Debiasing and Unlearning for Decontamination](https://arxiv.org/abs/2606.23313)
   - Author(s): Guangzhi Sun, Xiao Zhan, Mark Gales
+  - Date: 2026-06
+  - Venue: -
+  - Code: -
+- [Priority-Aware Learning-Unlearning Correction for Dynamic Decentralized LoRA Fine-Tuning](https://arxiv.org/abs/2606.22878)
+  - Author(s): Nuocheng Yang, Yechen He, Sihua Wang, Zihan Chen, Tony Q. S. Quek, Changchuan Yin
   - Date: 2026-06
   - Venue: -
   - Code: -
