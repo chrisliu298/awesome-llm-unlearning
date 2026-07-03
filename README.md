@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **591** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **592** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,11 @@ As of the last commit, there are **591** papers, **18** surveys and position pap
 
 ### 2026
 
+- [LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](https://arxiv.org/abs/2607.02513)
+  - Author(s): Matteo Boglioni, Thibault Rousset, Siva Reddy, Marius Mosbach, Verna Dankers
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
 - [Auditing Forgetting in Limited Memory Language Models](https://arxiv.org/abs/2607.00605)
   - Author(s): Arya Raeesi, Hanna Roed
   - Date: 2026-07
