@@ -422,6 +422,11 @@ As of the last commit, there are **592** papers, **18** surveys and position pap
   - Date: 2026-04
   - Venue: -
   - Code: -
+- [Measuring the Depth of LLM Unlearning via Activation Patching](https://arxiv.org/abs/2605.24614)
+  - Author(s): Jaeung Lee, Dohyun Kim, Jaemin Jo
+  - Date: 2026-05
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gnueaj/unlearning-depth-score)
 - [Modeling LLM Unlearning as an Asymmetric Two-Task Learning Problem](https://arxiv.org/abs/2604.14808)
   - Author(s): Zeguan Xiao, Siqing Li, Yong Wang, Xuetao Wei, Jian Yang, Yun Chen, Guanhua Chen
   - Date: 2026-04
