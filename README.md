@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **592** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **594** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,16 @@ As of the last commit, there are **592** papers, **18** surveys and position pap
 
 ### 2026
 
+- [MPSelectTune: Prompt-type Selection for Fine-tuning improves Concept Unlearning in LLMs](https://arxiv.org/abs/2607.03932)
+  - Author(s): Shubhadip Nag, Srinjoy Das, Agniva Saha, Anushree Ghosh, Soumi Das, Tarun Kumar, Suparna Bhattacharya, Sourangshu Bhattacharya
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
+- [PPE-Bench: A Benchmark for Evaluating MLLM Unlearning under Private-Public Entanglement](https://arxiv.org/abs/2607.02897)
+  - Author(s): Xianren Zhang, Delvin Ce Zhang, Dongwon Lee, Suhang Wang
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
 - [LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](https://arxiv.org/abs/2607.02513)
   - Author(s): Matteo Boglioni, Thibault Rousset, Siva Reddy, Marius Mosbach, Verna Dankers
   - Date: 2026-07
