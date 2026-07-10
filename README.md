@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **594** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **596** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,16 @@ As of the last commit, there are **594** papers, **18** surveys and position pap
 
 ### 2026
 
+- [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](https://arxiv.org/abs/2607.07907)
+  - Author(s): Nobin Sarwar, Shubhashis Roy Dipta, Zheyuan Liu, Vaidehi Patil
+  - Date: 2026-07
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning)
+- [POPS: Recovering Unlearned Multi-Modality Knowledge in MLLMs with Prompt-Optimized Parameter Shaking](https://arxiv.org/abs/2607.06649)
+  - Author(s): Zhangheng LI, Jianing Zhu, Junyuan Hong, Sungmin Eum, Shuowen Hu, Suya You, Zhangyang Wang
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
 - [MPSelectTune: Prompt-type Selection for Fine-tuning improves Concept Unlearning in LLMs](https://arxiv.org/abs/2607.03932)
   - Author(s): Shubhadip Nag, Srinjoy Das, Agniva Saha, Anushree Ghosh, Soumi Das, Tarun Kumar, Suparna Bhattacharya, Sourangshu Bhattacharya
   - Date: 2026-07
