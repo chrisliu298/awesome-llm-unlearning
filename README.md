@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **597** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **598** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,11 @@ As of the last commit, there are **597** papers, **18** surveys and position pap
 
 ### 2026
 
+- [HermesHFL: Incentive-Compatible Hierarchical Federated Unlearning for Dynamic LLM Fine-Tuning](https://arxiv.org/abs/2607.11528)
+  - Author(s): Chenxi Sun, Minghui Liwang, Wusi He, Zhang Liu, Yuhan Su, Seyyedali Hosseinalipour, Xianbin Wang, Yiguang Hong
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
 - [Forget Narrowly, Retain Broadly: Unlearning as an Asymmetric Generalization Problem](https://arxiv.org/abs/2607.09236)
   - Author(s): Amit Peleg, Naman Deep Singh, Naama Pearl, Bibhabasu Mohapatra, Matthias Hein
   - Date: 2026-07
