@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **598** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **600** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,16 @@ As of the last commit, there are **598** papers, **18** surveys and position pap
 
 ### 2026
 
+- [Stochastic Meta-Unlearning: Bridging Language Backbone and Multimodal Unlearning](https://arxiv.org/abs/2607.18615)
+  - Author(s): Zijie Liu, Jinhao Duan, Gaowen Liu, Sijia Liu, Tianlong Chen
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
+- [LLM Unlearning for Cyber Defense: A Survey on Methods, Challenges, and Emerging Threats](https://arxiv.org/abs/2607.16227)
+  - Author(s): Ruppikha Sree Shankar, Abhishek Bhardwaj, Arnav Doshi, Anusri Nagarajan, Troy Paulus Asia, Saptarshi Sengupta
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
 - [HermesHFL: Incentive-Compatible Hierarchical Federated Unlearning for Dynamic LLM Fine-Tuning](https://arxiv.org/abs/2607.11528)
   - Author(s): Chenxi Sun, Minghui Liwang, Wusi He, Zhang Liu, Yuhan Su, Seyyedali Hosseinalipour, Xianbin Wang, Yiguang Hong
   - Date: 2026-07
