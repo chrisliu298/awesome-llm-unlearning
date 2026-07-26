@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **600** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **602** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,8 +32,18 @@ As of the last commit, there are **600** papers, **18** surveys and position pap
 
 ### 2026
 
+- [Unlearning Under Imbalance: Benchmarking Fairness in Multimodal LLM Unlearning](https://arxiv.org/abs/2607.21300)
+  - Author(s): Lorenzo Orsingher, Thomas De Min, Massimiliano Mancini, Davide Talon, Elisa Ricci
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
 - [Stochastic Meta-Unlearning: Bridging Language Backbone and Multimodal Unlearning](https://arxiv.org/abs/2607.18615)
   - Author(s): Zijie Liu, Jinhao Duan, Gaowen Liu, Sijia Liu, Tianlong Chen
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
+- [One Modality to Forget Them All: Enhancing Cross-Modal Unlearning in Vision-Language Models](https://arxiv.org/abs/2607.16442)
+  - Author(s): Sudharshan Balaji, Yili Ren, Guangjing Wang, Yimin Chen, Ning Wang
   - Date: 2026-07
   - Venue: -
   - Code: -
