@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **602** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **604** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -34,6 +34,11 @@ As of the last commit, there are **602** papers, **18** surveys and position pap
 
 - [Unlearning Under Imbalance: Benchmarking Fairness in Multimodal LLM Unlearning](https://arxiv.org/abs/2607.21300)
   - Author(s): Lorenzo Orsingher, Thomas De Min, Massimiliano Mancini, Davide Talon, Elisa Ricci
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
+- [Unlearning as Distribution Restoration: A Controlled Counterfactual Study, a Validated Selective Screen, and the Limits of Oracle-Free Certification](https://arxiv.org/abs/2607.19442)
+  - Author(s): Sen Yang, Yuen-Hei Yeung
   - Date: 2026-07
   - Venue: -
   - Code: -
@@ -2275,6 +2280,11 @@ As of the last commit, there are **602** papers, **18** surveys and position pap
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/guangyaodou/SSU_Unlearn)
 - [Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration](https://arxiv.org/abs/2412.13551)
   - Author(s): Xuhan Zuo, Minghao Wang, Tianqing Zhu, Shui Yu, Wanlei Zhou
+  - Date: 2024-12
+  - Venue: -
+  - Code: -
+- [Targeted Angular Reversal of Weights (TARS) for Knowledge Removal in Large Language Models](https://arxiv.org/abs/2412.10257)
+  - Author(s): Harry J. Davies, Giorgos Iacovides, Danilo P. Mandic
   - Date: 2024-12
   - Venue: -
   - Code: -
