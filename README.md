@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **604** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **607** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,21 @@ As of the last commit, there are **604** papers, **18** surveys and position pap
 
 ### 2026
 
+- [Beyond Binary Rewards: A Comparative Study of Reward Design for Reinforcement Unlearning](https://arxiv.org/abs/2607.27968)
+  - Author(s): Efstratios Zaradoukas, Davide Gabrielli, Bardh Prenkaj, Gjergji Kasneci
+  - Date: 2026-07
+  - Venue: ECML-PKDD 2026 WIPE-OUT Workshop
+  - Code: -
+- [Crossing the Margin Cliff: Toward Relearn-Robust LLM Unlearning via Margin Calibration](https://arxiv.org/abs/2607.27836)
+  - Author(s): Xiangyu Yin, Jiaxu Liu, Zhen Chen, Chih-Hong Cheng
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
+- [Subtract or Replay? Exact Deletion from Language-Model Memory](https://arxiv.org/abs/2607.27539)
+  - Author(s): Vishwajith Ramesh
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
 - [Unlearning Under Imbalance: Benchmarking Fairness in Multimodal LLM Unlearning](https://arxiv.org/abs/2607.21300)
   - Author(s): Lorenzo Orsingher, Thomas De Min, Massimiliano Mancini, Davide Talon, Elisa Ricci
   - Date: 2026-07
