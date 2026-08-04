@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **607** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **612** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,16 @@ As of the last commit, there are **607** papers, **18** surveys and position pap
 
 ### 2026
 
+- [Exploring and Bridging Knowledge Holes in Unlearned Multimodal Large Language Models](https://arxiv.org/abs/2608.01849)
+  - Author(s): Junxiang You, Junkai Chen, Yuhao He, Ruiqi Liu, Zhetao Guo, Shu Wu
+  - Date: 2026-08
+  - Venue: -
+  - Code: -
+- [Toward Fine-Grained Forgetting:Attribute Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2608.01008)
+  - Author(s): Junkai Lin, Junkai Chen, Siqi Hou, Yuhao He, Ruiqi Liu, Chenhan Jin, Shengze Xu, Tieyong Zeng
+  - Date: 2026-08
+  - Venue: -
+  - Code: -
 - [Beyond Binary Rewards: A Comparative Study of Reward Design for Reinforcement Unlearning](https://arxiv.org/abs/2607.27968)
   - Author(s): Efstratios Zaradoukas, Davide Gabrielli, Bardh Prenkaj, Gjergji Kasneci
   - Date: 2026-07
@@ -44,6 +54,11 @@ As of the last commit, there are **607** papers, **18** surveys and position pap
   - Code: -
 - [Subtract or Replay? Exact Deletion from Language-Model Memory](https://arxiv.org/abs/2607.27539)
   - Author(s): Vishwajith Ramesh
+  - Date: 2026-07
+  - Venue: -
+  - Code: -
+- [Between Suppression and Collapse: Evaluating Narrative Unlearning with LENS](https://arxiv.org/abs/2607.22657)
+  - Author(s): Viktoriia Makovska, George Fletcher
   - Date: 2026-07
   - Venue: -
   - Code: -
@@ -126,6 +141,11 @@ As of the last commit, there are **607** papers, **18** surveys and position pap
   - Author(s): Jan Bronec, Jindřich Helcl
   - Date: 2026-07
   - Venue: ACL 2026 SRW
+  - Code: -
+- [Probing Stylistic Appropriation using Large Language Models: An Evaluation Framework for Copyright Infringement under EU Law](https://arxiv.org/abs/2606.31250)
+  - Author(s): Noah Scharrenberg, Chang Sun
+  - Date: 2026-06
+  - Venue: -
   - Code: -
 - [Towards Knowledge Alignment in Code LLMs: Contrastive Unlearning for Evolving APIs](https://arxiv.org/abs/2606.30810)
   - Author(s): Huy Q. Tran, Dang H. Vu, Tuyen N. Dinh, Anh H. D. Nguyen, Anh N. H. Vu, Anh M. T. Bui, Phuong T. Nguyen
@@ -394,6 +414,11 @@ As of the last commit, there are **607** papers, **18** surveys and position pap
   - Code: -
 - [MidSteer: Optimal Affine Framework for Steering Generative Models](https://arxiv.org/abs/2605.05220)
   - Author(s): Tatiana Gaintseva, Andrew Stepanov, Ziquan Liu, Martin Benning, Gregory Slabaugh, Jiankang Deng, Ismail Elezi
+  - Date: 2026-05
+  - Venue: -
+  - Code: -
+- [Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models](https://arxiv.org/abs/2605.05090)
+  - Author(s): Quintin Pope, Ajay Hayagreeve Balaji, Jacques Thibodeau, Xiaoli Fern
   - Date: 2026-05
   - Venue: -
   - Code: -
