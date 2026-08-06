@@ -9,7 +9,7 @@
 
 A curated collection of papers, surveys, benchmarks, frameworks, and blog posts for machine unlearning in large language models.
 
-As of the last commit, there are **612** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
+As of the last commit, there are **613** papers, **18** surveys and position papers, **3** frameworks, and **2** blog posts.
 
 > If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
 
@@ -32,6 +32,11 @@ As of the last commit, there are **612** papers, **18** surveys and position pap
 
 ### 2026
 
+- [Leak-Resistant Unlearning: A New Benchmark for Evaluating Multi-Hop Reasoning Consistency and Recovery Robustness](https://arxiv.org/abs/2608.04519)
+  - Author(s): Haoting Qian, Qingjie Zhang, Zhicong Huang, Cheng Hong, Han Qiu
+  - Date: 2026-08
+  - Venue: -
+  - Code: -
 - [Exploring and Bridging Knowledge Holes in Unlearned Multimodal Large Language Models](https://arxiv.org/abs/2608.01849)
   - Author(s): Junxiang You, Junkai Chen, Yuhao He, Ruiqi Liu, Zhetao Guo, Shu Wu
   - Date: 2026-08
