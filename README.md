@@ -32,6 +32,12 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 
 ### 2026
 
+- [GRACE: Gradient-guided Coreset Selection for LLM Unlearning](https://arxiv.org/abs/2608.04548)
+  - Author(s): Praveen Bushipaka, Andrea D'Angelo, Lucia Passaro, Tommaso Cucinotta
+  - Date: 2026-08
+  - Venue: - EMNLP Findings
+  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dangeloandrea14/grace/tree/main)
+
 - [A Model Merging Approach for Continual MLLM Unlearning](https://arxiv.org/abs/2608.04548)
   - Author(s): Yuhang Wang, Linlin Zhang, Haoxuan Ji, Xianmin Ye, Zhenxing Niu, Haichang Gao
   - Date: 2026-08
@@ -1453,8 +1459,8 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 - [Standard vs. Modular Sampling: Best Practices for Reliable LLM Unlearning](https://arxiv.org/abs/2509.05316)
   - Author(s): Praveen Bushipaka, Lucia Passaro, Tommaso Cucinotta
   - Date: 2025-08
-  - Venue: -
-  - Code: -
+  - Venue: - ECML-PKDD 2025 WIPE-OUT Workshop
+  - Code: - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/praveensonu/MELU)
 - [CURE: A Unified Framework for Class and Concept Unlearning via Retraining Emulation](https://openreview.net/forum?id=106xEOnwGi)
   - Author(s): Yiran Jia, Eric Yeats, Darryl Hannan, Aaron Jacobson, Timothy Doster, Henry Kvinge, Scott Mahan
   - Date: 2025-09
